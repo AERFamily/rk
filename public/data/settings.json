@@ -8,7 +8,7 @@
 
     "preloaderSettings": {
         "enabled": true,
-        "title": "React <strong>Portfolio</strong>",
+        "title": "<strong>ऐं सरस्वत्यै नमः</strong>",
         "subtitle": "by Rama Kant Singh",
         "logoOffset": {
             "right": 14,
@@ -33,9 +33,9 @@
             "flagUrl": "images/flags/en-us.png"
         },
         {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
+            "name": "हिन्दी",
+            "id": "hi",
+            "flagUrl": "images/flags/hi.png"
         },
         {
             "name": "Français",
@@ -56,7 +56,7 @@
             "dark": true,
             "locales": {
                 "en": {"name": "Dark Mode"},
-                "es": {"name": "Modo Oscuro"},
+                "hi": {"name": "Modo Oscuro"},
                 "fr": {"name": "Mode Sombre"},
                 "ko": {"name": "다크 모드"}
             }
@@ -67,7 +67,7 @@
             "dark": false,
             "locales": {
                 "en": {"name": "Light Mode"},
-                "es": {"name": "Modo Claro"},
+                "hi": {"name": "Modo Claro"},
                 "fr": {"name": "Mode Clair"},
                 "ko": {"name": "라이트 모드"}
             }

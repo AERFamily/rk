@@ -7,7 +7,7 @@
                 "title_long_prefix": "Take a look at my",
                 "title_long": "Recent {{Updates}}"
             },
-            "es": {
+            "hi": {
                 "title_short": "Vida Reciente",
                 "title_short_nav": "Actualizaciones",
                 "title_long_prefix": "Consulta mis",
@@ -48,7 +48,7 @@
                             "title": "03",
                             "text": "Apps Published"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Aplicaciones Publicadas"
                         },
                         "fr": {
@@ -69,7 +69,7 @@
                             "title": "100+",
                             "text": "Stars on GitHub"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Estrellas en GitHub"
                         },
                         "fr": {
@@ -90,7 +90,7 @@
                             "title": "12",
                             "text": "Countries visited"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Países Visitados"
                         },
                         "fr": {
@@ -111,7 +111,7 @@
                             "title": "07",
                             "text": "Open-source projects"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Proyectos de Código Abierto"
                         },
                         "fr": {
@@ -132,7 +132,7 @@
                             "title": "20,000",
                             "text": "Coffees consumed"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Cafés Consumidos"
                         },
                         "fr": {
@@ -153,7 +153,7 @@
                             "title": "1,000,000+",
                             "text": "Lines of code"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Líneas de código"
                         },
                         "fr": {
@@ -174,7 +174,7 @@
                             "title": "Infinite",
                             "text": "Passion for learning"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Infinita",
                             "text": "Pasión por Aprender"
                         },
@@ -196,7 +196,7 @@
             "component": "ArticleThread",
             "locales": {
                 "en": { "title": "Quick {{Facts}}" },
-                "es": { "title": "Feed de {{Noticias}}" },
+                "hi": { "title": "Feed de {{Noticias}}" },
                 "fr": { "title": "Fil d'{{Actualités}}" },
                 "ko": { "title": "{{뉴스}} 피드" }
             },
@@ -223,7 +223,7 @@
                             "institution": "",
                             "text": "I’ve recently made the move to California, USA, to explore new opportunities, both professionally and personally. I’m looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what’s ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Mudándome a {{California!}}",
                             "province": "Ontario",
                             "country": "Canadá",
@@ -267,7 +267,7 @@
                             "institution": "",
                             "text": "I’m thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can’t wait to connect with you all through this platform. Don’t forget to subscribe and hit the notification bell to stay updated on my latest videos. Let’s embark on this adventure together!"
                         },
-                        "es": {
+                        "hi": {
                             "title": "¡Comencé mi propio {{Canal de YouTube!}}",
                             "province": "California",
                             "country": "EE.UU.",
@@ -315,7 +315,7 @@
                                 "Real-time data synchronization for seamless user experience"
                             ]
                         },
-                        "es": {
+                        "hi": {
                             "title": "Trabajando en un nuevo {{proyecto móvil!}}",
                             "province": "California",
                             "country": "EE.UU.",
@@ -373,7 +373,7 @@
                             "institution": "Tech Innovators Inc.",
                             "text": "I’m thrilled to announce that I’ll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I’m looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you’re attending the conference, let’s connect! I’d love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Asistiendo a la {{Conferencia de Tecnología 2025!}}",
                             "province": "Tokio",
                             "country": "Japón",
@@ -422,7 +422,7 @@
                                 "Links to my social media profiles and GitHub"
                             ]
                         },
-                        "es": {
+                        "hi": {
                             "title": "¡Lanzamiento de mi {{sitio web personal!}}",
                             "province": "California",
                             "country": "EE.UU.",

@@ -7,7 +7,7 @@
                 "title_long_prefix": "This is my",
                 "title_long": "{{Education}} Background"
             },
-            "es": {
+            "hi": {
                 "title_short": "Educación",
                 "title_short_nav": "Educación",
                 "title_long_prefix": "Esta es mi",
@@ -55,7 +55,7 @@
                             "list": [],
                             "tags": []
                         },
-                        "es": {
+                        "hi": {
                             "title": "Desarrollo en PHP {{Nanodegree}}",
                             "province": "",
                             "country": "Remoto",
@@ -98,7 +98,7 @@
                             "list": [],
                             "tags": []
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Grado}} en Ciencias de la Computación",
                             "province": "Rae Bareli",
                             "country": "EE. UU.",
@@ -151,7 +151,7 @@
                                 "Machine Learning"
                             ]
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Máster}} en Inteligencia Artificial",
                             "province": "",
                             "country": "Francia",
@@ -224,7 +224,7 @@
                                 "Deep Learning", "Computer Vision", "AI Research", "Algorithms"
                             ]
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Doctorado}} en Ciencias de la Computación",
                             "province": "New Delhi",
                             "country": "EE. UU.",

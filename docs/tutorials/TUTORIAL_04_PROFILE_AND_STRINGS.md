@@ -28,7 +28,7 @@ Each root-level entry represents a language ID and contains the localized fields
     "en": {
         "field": "Field"
     },
-    "es": {
+    "hi": {
         "field": "Campo"
     }
 }

@@ -7,7 +7,7 @@
                 "title_long_prefix": "Explore",
                 "title_long": "My {{Skill Set}}"
             },
-            "es": {
+            "hi": {
                 "title_short": "Habilidades",
                 "title_short_nav": "Habilidades",
                 "title_long_prefix": "Explora",
@@ -50,7 +50,7 @@
                             "title": "{{Website}} design",
                             "text": "I can bring your best ideas into life and make them a reality!"
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Diseño}} de websites",
                             "text": "¡Puedo hacer realidad tus mejores ideas y hacerlas reales!"
                         },
@@ -76,7 +76,7 @@
                             "title": "{{Database}} management",
                             "text": "I can handle your data effectively and efficiently!"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Gestión de {{bases de datos}}",
                             "text": "¡Puedo manejar sus datos de manera efectiva y eficiente!"
                         },
@@ -102,7 +102,7 @@
                             "title": "{{App}} creation",
                             "text": "I can make creative and innovative apps!"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Creación de {{aplicaciones}}",
                             "text": "¡Puedo hacer aplicaciones creativas e innovadoras!"
                         },
@@ -128,7 +128,7 @@
                             "title": "{{REST}} APIs",
                             "text": "I can build API services!"
                         },
-                        "es": {
+                        "hi": {
                             "title": "APIs {{REST}}",
                             "text": "¡Puedo construir servicios API!"
                         },
@@ -154,7 +154,7 @@
                             "title": "Information {{Security}}",
                             "text": "Security is my middle name!"
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Seguridad}} Informática",
                             "text": "¡La seguridad es mi segundo nombre!"
                         },
@@ -176,7 +176,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Backend Stack"},
-                "es": {"title": "Stack de Backend"},
+                "hi": {"title": "Stack de Backend"},
                 "fr": {"title": "Stack Backend"},
                 "zh": {"title": "后端技术栈"}
             },
@@ -201,7 +201,7 @@
                             "text": "Certified developer by Node.js Foundation.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Desarrollador certificado por la Fundación Node.js."
                         },
                         "fr": {
@@ -225,7 +225,7 @@
                             "text": "Oracle certified Java developer with a strong understanding of its ecosystem.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Desarrollador de Java certificado por Oracle con un sólido entendimiento de su ecosistema."
                         },
                         "fr": {
@@ -249,7 +249,7 @@
                             "text": "Complete understanding of Ruby on Rails for building web applications.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Comprensión completa de Ruby on Rails para construir aplicaciones web."
                         },
                         "fr": {
@@ -273,7 +273,7 @@
                             "text": "I can manage and optimize MySQL databases for performance and reliability.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Puedo gestionar y optimizar bases de datos MySQL para rendimiento y fiabilidad."
                         },
                         "fr": {
@@ -297,7 +297,7 @@
                             "text": "Working knowledge of Docker for containerization.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Conocimientos prácticos de Docker para la contenedorización."
                         },
                         "fr": {
@@ -321,7 +321,7 @@
                             "text": "Strong understanding of PHP and its frameworks.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Sólido entendimiento de PHP y sus frameworks."
                         },
                         "fr": {
@@ -345,7 +345,7 @@
                             "text": "Data analysis and machine learning with Python.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Análisis de datos y aprendizaje automático con Python."
                         },
                         "fr": {
@@ -369,7 +369,7 @@
                             "text": "Total devotee of Kubernetes for container orchestration and management.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Devoto total de Kubernetes para la orquestación y gestión de contenedores."
                         },
                         "fr": {
@@ -408,7 +408,7 @@
                             "text": "Complete understanding of Git for version control and collaboration.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Comprensión completa de Git para control de versiones y colaboración."
                         },
                         "fr": {
@@ -427,7 +427,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Frontend Stack"},
-                "es": {"title": "Stack de Frontend"},
+                "hi": {"title": "Stack de Frontend"},
                 "fr": {"title": "Stack Frontend"},
                 "zh": {"title": "前端技术栈"}
             },
@@ -452,7 +452,7 @@
                             "text": "I am proficient in HTML5 for building structured web pages.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Soy competente en HTML5 para construir páginas web estructuradas."
                         },
                         "fr": {
@@ -476,7 +476,7 @@
                             "text": "I can create responsive and visually appealing designs using CSS3.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Puedo crear diseños receptivos y visualmente atractivos utilizando CSS3."
                         },
                         "fr": {
@@ -500,7 +500,7 @@
                             "text": "Mastered JavaScript ES6+ for dynamic and interactive web applications.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Dominio de JavaScript ES6+ para aplicaciones web dinámicas e interactivas."
                         },
                         "fr": {
@@ -524,7 +524,7 @@
                             "text": "Complete understanding of React for building modern web applications.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Comprensión completa de React para construir aplicaciones web modernas."
                         },
                         "fr": {
@@ -548,7 +548,7 @@
                             "text": "Good understanding of Vue.js for building interactive user interfaces.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Buena comprensión de Vue.js para construir interfaces de usuario interactivas."
                         },
                         "fr": {
@@ -572,7 +572,7 @@
                             "text": "Good understanding of Bootstrap for responsive design.",
                             "level": ""
                         },
-                        "es": {
+                        "hi": {
                             "text": "Buena comprensión de Bootstrap para diseño receptivo."
                         },
                         "fr": {
@@ -591,7 +591,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Languages"},
-                "es": {"title": "Idiomas"},
+                "hi": {"title": "Idiomas"},
                 "fr": {"title": "Langues"},
                 "zh": {"title": "语言"}
             },
@@ -616,7 +616,7 @@
                             "text": "Native speaker with excellent communication and writing skills.",
                             "level": "Native"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Inglés",
                             "text": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
                             "level": "Nativo"
@@ -646,7 +646,7 @@
                             "text": "Fluent in both spoken and written French; confident in professional communication.",
                             "level": "Fluent"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Francés",
                             "text": "Fluido en francés hablado y escrito; seguro en la comunicación profesional.",
                             "level": "Fluido"
@@ -676,7 +676,7 @@
                             "text": "Intermediate proficiency in Vietnamese language; I can hold conversations and understand written text.",
                             "level": "Intermediate"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Vietnamita",
                             "text": "Competencia intermedia en el idioma vietnamita; puedo mantener conversaciones y entender textos escritos.",
                             "level": "Intermedio"
@@ -706,7 +706,7 @@
                             "text": "Basic understanding of Korean; learning and improving.",
                             "level": "Basic"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Coreano",
                             "text": "Comprensión básica del coreano; aprendiendo y mejorando.",
                             "level": "Básico"

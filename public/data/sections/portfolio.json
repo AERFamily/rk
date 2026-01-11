@@ -7,7 +7,7 @@
                 "title_long_prefix": "Take a look at",
                 "title_long": "My {{Portfolio}}"
             },
-            "es": {
+            "hi": {
                 "title_short": "Portafolio",
                 "title_short_nav": "Portafolio",
                 "title_long_prefix": "Explora",
@@ -39,7 +39,7 @@
                     "category_web": "Web",
                     "category_utilities": "Utilities"
                 },
-                "es": {
+                "hi": {
                     "category_all": "Todo",
                     "category_apps": "Apps",
                     "category_web": "Web",
@@ -91,7 +91,7 @@
                             "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
                             "tags": ["API", "REST", "Backend"]
                         },
-                        "es": {
+                        "hi": {
                             "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, diseñada para el procesamiento de datos de alto rendimiento y la gestión de eventos en tiempo real.",
                             "tags": ["API", "REST", "Backend"]
                         },
@@ -133,7 +133,7 @@
                             "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
                             "tags": ["Flutter", "E-mail", "Communication"]
                         },
-                        "es": {
+                        "hi": {
                             "text": "Un cliente de correo electrónico multiplataforma construido con <b>Flutter</b>, que ofrece comunicación eficiente y una interfaz intuitiva para la <b>gestión de correos electrónicos</b>.",
                             "tags": ["Flutter", "Correo", "Comunicación"]
                         },
@@ -174,7 +174,7 @@
                             "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
                             "tags": ["React", "Organization", "Notes"]
                         },
-                        "es": {
+                        "hi": {
                             "text": "Una app de productividad con todas las funciones, desarrollada con <b>React Native</b>, que permite a los usuarios organizar tareas, notas y proyectos en varios dispositivos. Ofrece <b>sincronización en la nube</b>, interfaz intuitiva y características de colaboración.",
                             "tags": ["React", "Organización", "Notas"]
                         },
@@ -210,7 +210,7 @@
                             "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
                             "tags": ["Next.js", "Finance", "Money"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "SmartCash",
                             "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
                             "tags": ["Next.js", "Finanzas", "Dinero"]
@@ -250,7 +250,7 @@
                             "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
                             "tags": ["Swift", "Photography", "Camera"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "Snappy",
                             "text": "Una app de fotografía potente diseñada con <b>Swift</b> para iOS y Android, con <b>controles avanzados de cámara</b>, herramientas de edición y filtros potenciados por IA para mejoras rápidas de fotos.",
                             "tags": ["Swift", "Fotografía", "Cámara"]
@@ -289,7 +289,7 @@
                             "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
                             "tags": ["WooCommerce", "Food", "Desserts"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "Sweet Scoops",
                             "text": "Un sitio web de recetas construido con <b>WordPress</b> y WooCommerce, con una rica colección de <b>recetas de postres</b> y una plataforma de comercio electrónico integrada.",
                             "tags": ["WooCommerce", "Comida", "Postres"]
@@ -328,7 +328,7 @@
                             "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
                             "tags": ["Django", "Music", "Rock"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "RockVerse",
                             "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
                             "tags": ["Django", "Música", "Rock"]
@@ -367,7 +367,7 @@
                             "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
                             "tags": ["AI", "Prediction", "Soccer"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "Soccer Analytics",
                             "text": "Una plataforma de análisis deportivo impulsada por IA construida con <b>Python</b> y <b>TensorFlow</b>, que ofrece <b>predicciones</b> detalladas de fútbol y herramientas de gestión de equipos.",
                             "tags": ["IA", "Predicción", "Fútbol"]
@@ -408,7 +408,7 @@
                             "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
                             "tags": ["React Native", "Delivery", "Real-Time Tracking"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "QuickDrop",
                             "text": "Una app de entregas multiplataforma construida con <b>React Native</b> y un backend de <b>Node.js</b>, con <b>seguimiento en tiempo real</b> e integración perfecta en múltiples plataformas.",
                             "tags": ["React Native", "Entrega", "Seguimiento"]

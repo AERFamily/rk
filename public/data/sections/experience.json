@@ -7,7 +7,7 @@
                 "title_long_prefix": "Summary of my",
                 "title_long": "{{Work}} Experience"
             },
-            "es": {
+            "hi": {
                 "title_short": "Experiencia",
                 "title_short_nav": "Experiencia",
                 "title_long_prefix": "Resumen de mi",
@@ -55,7 +55,7 @@
                             "list": [],
                             "tags": ["PHP8.0", "MySQL", "Laravel"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "Desarrollador {{Backend}}",
                             "province": "Toronto",
                             "country": "Canadá",
@@ -101,7 +101,7 @@
                             "list": [],
                             "tags": ["Svelte", "NodeJS", "Laravel", "REST APIs", "Docker"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "Ingeniero {{Full-Stack}}",
                             "province": "",
                             "country": "Remoto",
@@ -147,7 +147,7 @@
                             "list": [],
                             "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "Ingeniero {{Backend}}",
                             "province": "Nueva York",
                             "country": "EE. UU.",
@@ -199,7 +199,7 @@
                             ],
                             "tags": ["JavaScript", "React", "NodeJS", "PHP", "REST APIs", "Docker"]
                         },
-                        "es": {
+                        "hi": {
                             "title": "Desarrollador {{Senior Backend}}",
                             "province": "California",
                             "country": "EE. UU.",

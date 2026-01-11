@@ -111,7 +111,7 @@ jsonUtils.overwrite(jSettingsPath, {
 // Overwrite strings.json...
 const jStringsPath = "public/data/strings.json"
 const jStrings = jsonUtils.open(jStringsPath)
-delete jStrings.locales["es"]
+delete jStrings.locales["hi"]
 delete jStrings.locales["fr"]
 delete jStrings.locales["ko"]
 for(let i in jStrings.locales["en"]) {

@@ -7,7 +7,7 @@
                 "title_long_prefix": "Here are my",
                 "title_long": "Career {{Achievements}}"
             },
-            "es": {
+            "hi": {
                 "title_short": "Logros",
                 "title_short_nav": "Logros",
                 "title_long_prefix": "Aquí están mis",
@@ -34,7 +34,7 @@
             "component": "ArticleCards",
             "locales": {
                 "en": { "title": "Certifications" },
-                "es": { "title": "Certificaciones" },
+                "hi": { "title": "Certificaciones" },
                 "fr": { "title": "Certifications" },
                 "ko": { "title": "인증서" }
             },
@@ -55,7 +55,7 @@
                             "title": "The {{Linux Foundation}}",
                             "text": "Certified Kubernetes Administrator (CKA)"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Administrador de Kubernetes Certificado (CKA)"
                         },
                         "fr": {
@@ -79,7 +79,7 @@
                             "title": "{{Amazon}} Web Services",
                             "text": "AWS Certified Solutions Architect – Associate"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Arquitecto de Soluciones Certificado por AWS - Asociado"
                         },
                         "fr": {
@@ -103,7 +103,7 @@
                             "title": "{{Oracle}}",
                             "text": "Certified Java Developer"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Desarrollador Java Certificado"
                         },
                         "fr": {
@@ -127,7 +127,7 @@
                             "title": "{{MongoDB}} University",
                             "text": "MongoDB Certified Developer"
                         },
-                        "es": {
+                        "hi": {
                             "text": "Desarrollador Certificado de MongoDB"
                         },
                         "fr": {
@@ -146,7 +146,7 @@
             "component": "ArticleThread",
             "locales": {
                 "en": { "title": "Awards" },
-                "es": { "title": "Premios" },
+                "hi": { "title": "Premios" },
                 "fr": { "title": "Récompenses" },
                 "ko": { "title": "수상 내역" }
             },
@@ -175,7 +175,7 @@
                             "institution": "MIT",
                             "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Mejor Proyecto de Fin de Carrera}} – Optimización Backend",
                             "province": "New Delhi",
                             "country": "EE.UU.",
@@ -224,7 +224,7 @@
                                 "Contributing to the documentation and community support"
                             ]
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Contribuyente Destacado}} – Proyecto de Código Abierto de la Fundación Linux",
                             "province": "",
                             "country": "",
@@ -284,7 +284,7 @@
                             "institution": "IEEE",
                             "text": "Awarded for my research paper on software optimization techniques, which was presented at the International Conference on Software Engineering. The paper received positive feedback from industry experts and was published in the conference proceedings."
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Mejor Artículo}} – Cumbre Internacional",
                             "province": "Pekín",
                             "country": "China",
@@ -339,7 +339,7 @@
                                 "Integration with popular data visualization tools"
                             ]
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Mejor Innovador}} – Cumbre de Innovación Tecnológica",
                             "province": "Río de Janeiro",
                             "country": "Brasil",

@@ -7,7 +7,7 @@
                 "title_long_prefix": "Don't hesitate to",
                 "title_long": "{{Contact}} Me"
             },
-            "es": {
+            "hi": {
                 "title_short": "Contacto",
                 "title_short_nav": "Contacto",
                 "title_long_prefix": "No dudes en",
@@ -44,7 +44,7 @@
                     "contact_thank_you_footer": "The reply will be sent to your email address: {{$email}}",
                     "title": "Send me a {{message}}"
                 },
-                "es": {
+                "hi": {
                     "contact_thank_you_title": "{{Gracias}} por el contacto!",
                     "contact_thank_you_body": "Tu mensaje ha sido recibido, y me pondré en contacto contigo pronto. Aprecio tu tiempo y espero conectarme contigo.",
                     "contact_thank_you_footer": "La respuesta se enviará a tu dirección de correo electrónico: {{$email}}",
@@ -75,7 +75,7 @@
             },
             "locales": {
                 "en": {"title": "Or if you {{prefer}}..."},
-                "es": {"title": "O si {{prefieres}}..."},
+                "hi": {"title": "O si {{prefieres}}..."},
                 "fr": {"title": "Ou si vous {{préférez}}..."},
                 "ko": {"title": "또는 {{원하시면}}..."}
             },
@@ -89,7 +89,7 @@
                     "copyToClipboardButton": true,
                     "locales": {
                         "en": {"title": "Phone"},
-                        "es": {"title": "Teléfono"},
+                        "hi": {"title": "Teléfono"},
                         "fr": {"title": "Téléphone"},
                         "ko": {"title": "전화"}
                     }

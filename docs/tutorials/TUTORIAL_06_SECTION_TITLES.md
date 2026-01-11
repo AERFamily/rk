@@ -15,7 +15,7 @@ Open a section file (e.g., `data/sections/experience.json`) and locate the `titl
                 "title_long_prefix": "Summary of my",
                 "title_long": "{{Work}} Experience"
             },
-            "es": {
+            "hi": {
                 "title_short": "Experiencia",
                 "title_short_nav": "Experiencia",
                 "title_long_prefix": "Resumen de mi",

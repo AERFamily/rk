@@ -7,7 +7,7 @@
                 "title_long_prefix": "Hello...",
                 "title_long": "I'm {{Rama Kant Singh!}}"
             },
-            "es": {
+            "hi": {
                 "title_short": "¡Saludos!",
                 "title_short_nav": "Sobre mí",
                 "title_long_prefix": "Hola...",
@@ -65,7 +65,7 @@
             "component": "ArticleText",
             "locales": {
                 "en": {"title": "{{Currently}} working on..."},
-                "es": {"title": "{{Un poco}} sobre mí..."},
+                "hi": {"title": "{{Un poco}} sobre mí..."},
                 "fr": {"title": "{{Un peu}} à propos de moi..."},
                 "ko": {"title": "저에 {{대해 조금}}..."}
             },
@@ -83,7 +83,7 @@
                         "en": {
                             "text": "<p>{{VEDA.ws}} is a knowledge-focused digital platform centered on {{Vedic Exploration, Discovery, and Awareness}}. The project serves as both a website and a living framework for authoring a book that explores timeless Vedic wisdom through a modern, accessible lens.</p><p>The goal of VEDA.ws is to bridge ancient Vedic knowledge with contemporary understanding—encouraging self-inquiry, consciousness, philosophy, and holistic awareness. Through structured content, reflections, and research-driven insights, the platform aims to make complex Vedic concepts approachable, relevant, and practical for today’s readers.</p><p>To explore more visit [[https://veda.ws]]</p>"
                         },
-                        "es": {
+                        "hi": {
                             "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
                         },
                         "fr": {
@@ -102,7 +102,7 @@
             "component": "ArticleTestimonials",
             "locales": {
                 "en": {"title": "Client {{testimonials}}"},
-                "es": {"title": "Testimonios de {{clientes}}"},
+                "hi": {"title": "Testimonios de {{clientes}}"},
                 "fr": {"title": "Témoignages de {{clients}}"},
                 "ko": {"title": "{{고객}} 추천사"}
             },
@@ -123,7 +123,7 @@
                             "title": "CEO at [[SalesForce]]",
                             "text": "Working with Rama Kant was a truly [[transformative experience]]. His outstanding programming skills and collaborative spirit not only elevated the quality of our project but also brought a renewed sense of motivation and purpose to us."
                         },
-                        "es": {
+                        "hi": {
                             "title": "CEO en [[SalesForce]]",
                             "text": "Trabajar con Rama Kant fue una [[experiencia transformadora]]. Su gran habilidad para programar y su espíritu colaborativo mejoraron el proyecto y nos devolvieron la motivación y el propósito."
                         },
@@ -149,7 +149,7 @@
                             "title": "Lead Developer at [[GitHub]]",
                             "text": "Having Rama Kant on our team was an invaluable asset. His [[deep programming insights and mentorship]] not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
                         },
-                        "es": {
+                        "hi": {
                             "title": "Desarrollador Principal en [[GitHub]]",
                             "text": "Tener a Rama Kant fue un recurso invaluable. Sus [[profundos conocimientos y mentoría]] mejoraron nuestros proyectos y nos dieron confianza para afrontar cualquier desafío con creatividad."
                         },
@@ -175,7 +175,7 @@
                             "title": "Managing Director at [[Dingga]]",
                             "text": "Collaborating with Rama Kant was a true [[game changer]] for our entire development process. His [[deep technical expertise]], creative problem-solving, and proactive mindset were absolutely invaluable."
                         },
-                        "es": {
+                        "hi": {
                             "title": "Directora General en [[Dingga]]",
                             "text": "Colaborar con Rama Kant fue un verdadero [[punto de inflexión]]. Su [[gran experiencia técnica]], creatividad y mentalidad proactiva fueron absolutamente invaluables para nuestro equipo."
                         },
@@ -201,7 +201,7 @@
                             "title": "Creative Director at [[Dribbble]]",
                             "text": "Rama Kant Singh's [[attention to detail]] and his [[innovative thinking]] brought a fresh perspective to our whole design process! Simply amazing!"
                         },
-                        "es": {
+                        "hi": {
                             "title": "Director Creativo en [[Dribbble]]",
                             "text": "La [[atención al detalle]] y el [[pensamiento innovador]] de Rama Kant Singh aportaron una perspectiva fresca a todo nuestro proceso de diseño. ¡Simplemente increíble!"
                         },
@@ -227,7 +227,7 @@
             },
             "locales": {
                 "en": {"title": "Personal {{interests}}"},
-                "es": {"title": "Intereses {{personales}}"},
+                "hi": {"title": "Intereses {{personales}}"},
                 "fr": {"title": "Intérêts {{personnels}} "},
                 "ko": {"title": "개인 {{관심사}}"}
             },
@@ -244,7 +244,7 @@
                             "title": "{{AI}} video editing",
                             "text": "Learning to use AI tools to enhance my videos."
                         },
-                        "es": {
+                        "hi": {
                             "title": "Edición de video con {{AI}}",
                             "text": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
                         },
@@ -270,7 +270,7 @@
                             "title": "{{Arts}} & Illustration",
                             "text": "Practicing digital art and exploring new styles."
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Arte}} y Ilustración",
                             "text": "Practicando arte digital y explorando nuevos estilos."
                         },
@@ -296,7 +296,7 @@
                             "title": "{{Investing}} & Finance",
                             "text": "Learning the basics of stocks and personal finance."
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Inversión}} y Finanzas",
                             "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
                         },
@@ -322,7 +322,7 @@
                             "title": "{{UX}} design",
                             "text": "Studying user experience principles."
                         },
-                        "es": {
+                        "hi": {
                             "title": "Diseño {{UX}}",
                             "text": "Estudiando los principios de la experiencia del usuario."
                         },
@@ -349,7 +349,7 @@
                             "title": "{{Photography}} & Photoshop",
                             "text": "Enhancing photos through creative editing techniques."
                         },
-                        "es": {
+                        "hi": {
                             "title": "{{Fotografía}} y Photoshop",
                             "text": "Mejorando fotos a través de técnicas creativas de edición."
                         },
@@ -375,7 +375,7 @@
                             "title": "Playing {{drums}}",
                             "text": "Exploring different genres and improving my skills."
                         },
-                        "es": {
+                        "hi": {
                             "title": "Tocar {{batería}}",
                             "text": "Explorando diferentes géneros y mejorando mis habilidades."
                         },
