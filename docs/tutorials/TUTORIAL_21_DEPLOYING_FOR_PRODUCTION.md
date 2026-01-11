@@ -5,12 +5,12 @@ Open `vite.config.js` and set the base directory for your application. This sett
 
 ```js
 export default defineConfig({
-    base: '/ramakant-website/',
+    base: '/',
     plugins: [vue()],
 })
 ```
 
-In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ramakantsingh.github.io/ramakant-website/`, the correct base directory to set is `/ramakant-website/`.
+In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ramakantsingh.com/`, the correct base directory to set is `/`.
 
 If you're deploying to Netlify or your own custom domain where your website is located at the root, you can leave the `base` setting as `'/'`.
 
