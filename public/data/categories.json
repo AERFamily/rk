@@ -5,7 +5,7 @@
             "faIcon": "fa-regular fa-user",
             "locales": {
                 "en": {"title": "Home"},
-                "hi": {"title": "Inicio"},
+                "hi": {"title": "घर"},
                 "fr": {"title": "Accueil"},
                 "ko": {"title": "홈페이지"}
             }
@@ -15,7 +15,7 @@
             "faIcon": "fa-regular fa-clock",
             "locales": {
                 "en": {"title": "History"},
-                "hi": {"title": "Trayectoria"},
+                "hi": {"title": "इतिहास"},
                 "fr": {"title": "Parcours"},
                 "ko": {"title": "경력"}
             }
@@ -25,7 +25,7 @@
             "faIcon": "fa-regular fa-folder-open",
             "locales": {
                 "en": {"title": "Showcase"},
-                "hi": {"title": "Vitrina"},
+                "hi": {"title": "शोकेस"},
                 "fr": {"title": "Vitrine"},
                 "ko": {"title": "쇼케이스"}
             }
@@ -35,7 +35,7 @@
             "faIcon": "fa-regular fa-object-ungroup",
             "locales": {
                 "en": {"title": "More"},
-                "hi": {"title": "Más"},
+                "hi": {"title": "अधिक"},
                 "fr": {"title": "Plus"},
                 "ko": {"title": "더보기"}
             }

@@ -7,7 +7,7 @@ For example, in the live demo you’ll find the following category/section struc
 - **Home** (1 section) ➔ [About]
 - **Background** (2 sections) ➔ [Education, Experience]
 - **Showcase** (3 sections) ➔ [Skills, Portfolio, Achievements]
-- **More** (2 sections) ➔ [Updates, Contact]
+- **More** (2 sections) ➔ [Dakshina, Contact]
 
 This structure can be observed on the mobile version of the app, where each category is represented as a tab.
 

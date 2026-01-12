@@ -9,7 +9,7 @@
     "preloaderSettings": {
         "enabled": true,
         "title": "<strong>ऐं सरस्वत्यै नमः</strong>",
-        "subtitle": "by Rama Kant Singh",
+        "subtitle": "_____________Rama Kant Singh",
         "logoOffset": {
             "right": 14,
             "top": 2,
@@ -51,7 +51,7 @@
             "dark": true,
             "locales": {
                 "en": {"name": "Dark Mode"},
-                "hi": {"name": "Modo Oscuro"},
+                "hi": {"name": "रात्रि रंग"},
                 "fr": {"name": "Mode Sombre"},
                 "ko": {"name": "다크 모드"}
             }
@@ -62,7 +62,7 @@
             "dark": false,
             "locales": {
                 "en": {"name": "Light Mode"},
-                "hi": {"name": "Modo Claro"},
+                "hi": {"name": "दिन रंग"},
                 "fr": {"name": "Mode Clair"},
                 "ko": {"name": "라이트 모드"}
             }
@@ -90,16 +90,16 @@
                 "listStyle": "bulleted"
             },
             {
-                "description": "Clone it and customize it for your own portfolio:",
+                "description": "This is Rama Kant's website",
                 "list": [
-                    "https://github.com/ramakantsingh/ramakant-website"
+                    "https://ramakantsingh.com"
                 ],
                 "listStyle": "none"
             },
             {
                 "description": "Developer Info:",
                 "list": [
-                    "GitHub: https://github.com/ramakantsingh",
+                    "X: https://x.com/ramakantsingh",
                     "Website: https://ramakantsingh.com"
                 ],
                 "listStyle": "bulleted"

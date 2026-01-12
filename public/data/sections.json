@@ -37,10 +37,10 @@
             "faIcon": "fa-solid fa-award"
         },
         {
-            "id": "updates",
+            "id": "dakshina",
             "categoryId": "more",
-            "jsonPath": "/data/sections/updates.json",
-            "faIcon": "fa-solid fa-rss"
+            "jsonPath": "/data/sections/dakshina.json",
+            "faIcon": "fa-solid fa-heart-circle-bolt"
         },
         {
             "id": "contact",

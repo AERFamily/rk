@@ -21,6 +21,8 @@
             ]
         },
         "hi": {
+            "localized_name": "रमा कांत सिंह",
+            "localized_name_stylized": " [[रमा कांत {{सिंह}}]]",
             "status_message_available_for_freelance": "मैं काम और मज़े! कर रहा हूँ",
             "roles": [
                 "Desarrollador Backend",

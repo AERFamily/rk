@@ -8,10 +8,10 @@
                 "title_long": "I'm {{Rama Kant Singh!}}"
             },
             "hi": {
-                "title_short": "¡Saludos!",
-                "title_short_nav": "Sobre mí",
-                "title_long_prefix": "Hola...",
-                "title_long": "Soy {{Rama Kant Singh!}}"
+                "title_short": "नमस्कार",
+                "title_short_nav": "मेरे बारे में",
+                "title_long_prefix": "नमस्ते..",
+                "title_long": "मैं {{रमा कांत सिंह}} हूँ। "
             },
             "fr": {
                 "title_short": "Salut !",

@@ -8,11 +8,12 @@
                 "title_long": "{{Contact}} Me"
             },
             "hi": {
-                "title_short": "Contacto",
-                "title_short_nav": "Contacto",
-                "title_long_prefix": "No dudes en",
-                "title_long": "{{Contácta}}me"
-            },
+                "title_short": "संपर्क",
+                "title_short_nav": "संपर्क",
+                "title_long_prefix": "बेझिझक",
+                "title_long": "मुझसे {{संपर्क}} करें"
+            }
+            ,
             "fr": {
                 "title_short": "Contact",
                 "title_short_nav": "Contact",
