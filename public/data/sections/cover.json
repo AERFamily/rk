@@ -1,313 +1,267 @@
 {
-    "title": {
-        "locales": {
-            "en": {
-                "title_short": "Welcome!",
-                "title_short_nav": "About me",
-                "title_long_prefix": "Hello...",
-                "title_long": "I'm {{Rama Kant Singh!}}"
-            },
-            "hi": {
-                "title_short": "नमस्कार",
-                "title_short_nav": "मेरे बारे में",
-                "title_long_prefix": "नमस्ते..",
-                "title_long": "मैं {{रमा कांत सिंह}} हूँ। "
-            },
-            "fr": {
-                "title_short": "Salut !",
-                "title_short_nav": "À propos",
-                "title_long_prefix": "Salut...",
-                "title_long": "Je suis {{Rama Kant Singh !}}"
-            },
-            "ko": {
-                "title_short": "환영합니다!",
-                "title_short_nav": "소개",
-                "title_long_prefix": "안녕하세요...",
-                "title_long": "저는 {{최민석}}입니다!"
-            }
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "Welcome",
+        "title_short_nav": "About",
+        "title_long_prefix": "Hello,",
+        "title_long": "I'm {{Rama Kant Singh}}"
+      },
+      "hi": {
+        "title_short": "नमस्कार",
+        "title_short_nav": "परिचय",
+        "title_long_prefix": "नमस्ते,",
+        "title_long": "मैं {{रमा कांत सिंह}} हूँ"
+      },
+      "fr": {
+        "title_short": "Bienvenue",
+        "title_short_nav": "À propos",
+        "title_long_prefix": "Bonjour,",
+        "title_long": "Je suis {{Rama Kant Singh}}"
+      },
+      "ko": {
+        "title_short": "स्वागत बा",
+        "title_short_nav": "हमार बारे में",
+        "title_long_prefix": "नमस्कार,",
+        "title_long": "हम {{रमा कांत सिंह}} हईं"
+      }
+    }
+  },
+
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleInlineList",
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "display_as_list_if_width_is_lower_than": 380
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Varanasi, India",
+          "faIcon": "pi pi-map-marker"
+        },
+        {
+          "id": 2,
+          "label": "rama@veda.ws",
+          "link": { "href": "mailto:rama@veda.ws", "tooltipString": "email_me" },
+          "faIcon": "fa-regular fa-envelope"
+        },
+        {
+          "id": 3,
+          "label": "@ramakantsingh",
+          "link": { "href": "https://x.com/ramakantsingh", "tooltipString": "visit_on_x" },
+          "faIcon": "fa-brands fa-x-twitter"
         }
+      ]
     },
 
-    "articles": [
+    {
+      "id": 2,
+      "component": "ArticleText",
+      "locales": {
+        "en": { "title": "{{Currently}} working on" },
+        "hi": { "title": "{{वर्तमान}} में कार्य" },
+        "fr": { "title": "{{Actuellement}} en cours" },
+        "ko": { "title": "{{अभी}} काम करतानी" }
+      },
+      "items": [
         {
-            "id": 1,
-            "component": "ArticleInlineList",
-            "locales": {},
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc",
-                "display_as_list_if_width_is_lower_than": 380
+          "id": 1,
+          "img": "images/pictures/about-texts-image-1.png",
+          "locales": {
+            "en": {
+              "text": "<p>{{VEDA.ws}} is a knowledge-oriented digital platform focused on {{Vedic Exploration, Discovery, and Awareness}}. It serves as a long-term research space and the foundation for a book I am currently authoring.</p><p>The work bridges ancient Vedic knowledge with modern inquiry, emphasizing philosophy, consciousness, self-reflection, and holistic understanding through structured and accessible writing.</p><p>Explore more at [[https://veda.ws]]</p>"
             },
-            "items": [
-                {
-                    "id": 1,
-                    "label": "Varanasi – India",
-                    "link": {"href": "", "tooltipString": ""},
-                    "faIcon": "pi pi-map-marker"
-                },
-                {
-                    "id": 2,
-                    "label": "rama@veda.ws",
-                    "link": {"href": "mailto:rama@veda.ws", "tooltipString": "email_me"},
-                    "faIcon": "fa-regular fa-envelope"
-                },
-                {
-                    "id": 3,
-                    "label": "@ramakantsingh",
-                    "link": {"href": "https://x.com/ramakantsingh", "tooltipString": "visit on X"},
-                    "faIcon": "fa-brands fa-brands fa-x-twitter"
-                }
-            ]
-        },
-
-        {
-            "id": 2,
-            "component": "ArticleText",
-            "locales": {
-                "en": {"title": "{{Currently}} working on..."},
-                "hi": {"title": "{{Un poco}} sobre mí..."},
-                "fr": {"title": "{{Un peu}} à propos de moi..."},
-                "ko": {"title": "저에 {{대해 조금}}..."}
+            "hi": {
+              "text": "<p>{{VEDA.ws}} एक ज्ञान-आधारित डिजिटल मंच है, जो {{वैदिक अन्वेषण, खोज और जागरूकता}} पर केंद्रित है। यह उस पुस्तक का आधार भी है जिसे मैं वर्तमान में लिख रहा हूँ।</p><p>इसका उद्देश्य प्राचीन वैदिक ज्ञान को आधुनिक संदर्भ से जोड़ना है—दर्शन, चेतना और आत्मचिंतन को सरल एवं व्यावहारिक रूप में प्रस्तुत करना।</p><p>अधिक जानकारी हेतु देखें: [[https://veda.ws]]</p>"
             },
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc"
+            "fr": {
+              "text": "<p>{{VEDA.ws}} est une plateforme numérique axée sur la connaissance, dédiée à {{l’exploration, la découverte et la conscience védiques}}. Elle constitue également la base d’un livre que je suis en train d’écrire.</p><p>L’objectif est de relier la sagesse védique ancienne à la pensée moderne, à travers la philosophie, la conscience et la réflexion personnelle.</p><p>En savoir plus : [[https://veda.ws]]</p>"
             },
-            "items": [
-                {
-                    "id": 1,
-                    "img": "images/pictures/about-texts-image-1.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "locales": {
-                        "en": {
-                            "text": "<p>{{VEDA.ws}} is a knowledge-focused digital platform centered on {{Vedic Exploration, Discovery, and Awareness}}. The project serves as both a website and a living framework for authoring a book that explores timeless Vedic wisdom through a modern, accessible lens.</p><p>The goal of VEDA.ws is to bridge ancient Vedic knowledge with contemporary understanding—encouraging self-inquiry, consciousness, philosophy, and holistic awareness. Through structured content, reflections, and research-driven insights, the platform aims to make complex Vedic concepts approachable, relevant, and practical for today’s readers.</p><p>To explore more visit [[https://veda.ws]]</p>"
-                        },
-                        "hi": {
-                            "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
-                        },
-                        "fr": {
-                            "text": "<p>Je suis développeur {{PHP}} avec [[plus d'une décennie]] d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets, qu'il s'agisse de créer des API évolutives, d'améliorer les performances système ou de participer à des solutions full-stack.</p><p>Je suis impatient de collaborer [[avec vous !]]</p>"
-                        },
-                        "ko": {
-                            "text": "<p>저는 {{백엔드}} 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 [[10년 이상의]] 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다. 확장 가능한 API 구축, 시스템 성능 최적화, 또는 전체 스택 솔루션에 기여하는 등 다양한 분야에 능숙하게 참여할 수 있습니다. 저는 각 프로젝트에 맞는 최적의 도구를 찾는 것과 새로운 도전을 즐깁니다.</p><p>[[당신과 협업]]하기를 기대하고 있습니다!</p>"
-                        }
-                    }
-                }
-            ]
-        },
-
-
-        {
-            "id": 2,
-            "component": "ArticleText",
-            "locales": {
-                "en": {"title": "{{Projects}} on HOLD..."},
-                "hi": {"title": "{{Un poco}} sobre mí..."},
-                "fr": {"title": "{{Un peu}} à propos de moi..."},
-                "ko": {"title": "저에 {{대해 조금}}..."}
-            },
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc"
-            },
-            "items": [
-                {
-                    "id": 1,
-                    "img": "images/pictures/ChaloPadhe.svg",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "locales": {
-                        "en": {
-                            "text": "<p>{{ChaloPadhe.com}} is a knowledge-focused digital platform centered on {{Vedic Exploration, Discovery, and Awareness}}. The project serves as both a website and a living framework for authoring a book that explores timeless Vedic wisdom through a modern, accessible lens.</p><p>The goal of VEDA.ws is to bridge ancient Vedic knowledge with contemporary understanding—encouraging self-inquiry, consciousness, philosophy, and holistic awareness. Through structured content, reflections, and research-driven insights, the platform aims to make complex Vedic concepts approachable, relevant, and practical for today’s readers.</p><p>To explore more visit [[https://veda.ws]]</p>"
-                        },
-                        "hi": {
-                            "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
-                        },
-                        "fr": {
-                            "text": "<p>Je suis développeur {{PHP}} avec [[plus d'une décennie]] d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets, qu'il s'agisse de créer des API évolutives, d'améliorer les performances système ou de participer à des solutions full-stack.</p><p>Je suis impatient de collaborer [[avec vous !]]</p>"
-                        },
-                        "ko": {
-                            "text": "<p>저는 {{백엔드}} 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 [[10년 이상의]] 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다. 확장 가능한 API 구축, 시스템 성능 최적화, 또는 전체 스택 솔루션에 기여하는 등 다양한 분야에 능숙하게 참여할 수 있습니다. 저는 각 프로젝트에 맞는 최적의 도구를 찾는 것과 새로운 도전을 즐깁니다.</p><p>[[당신과 협업]]하기를 기대하고 있습니다!</p>"
-                        }
-                    }
-                }
-            ]
-        },
-
-
-        {
-            "id": 4,
-            "component": "ArticleInfoList",
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc"
-            },
-            "locales": {
-                "en": {"title": "Personal {{interests}}"},
-                "hi": {"title": "Intereses {{personales}}"},
-                "fr": {"title": "Intérêts {{personnels}} "},
-                "ko": {"title": "개인 {{관심사}}"}
-            },
-            "items": [
-                {
-                    "id": 1,
-                    "faIcon": "fa-solid fa-video",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "label": null,
-                    "link": {"href": null, "tooltipString": null},
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": {
-                            "title": "{{AI}} video editing",
-                            "text": "Learning to use AI tools to enhance my videos."
-                        },
-                        "hi": {
-                            "title": "Edición de video con {{AI}}",
-                            "text": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
-                        },
-                        "fr": {
-                            "title": "Édition vidéo avec {{IA}}",
-                            "text": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
-                        },
-                        "ko": {
-                            "title": "{{AI}} 비디오 편집",
-                            "text": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
-                        }
-                    }
-                },
-                {
-                    "id": 2,
-                    "faIcon": "fa-solid fa-palette",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "label": null,
-                    "link": {"href": null, "tooltipString": null},
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Practicing digital art and exploring new styles."
-                        },
-                        "hi": {
-                            "title": "{{Arte}} y Ilustración",
-                            "text": "Practicando arte digital y explorando nuevos estilos."
-                        },
-                        "fr": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Pratiquer l'art numérique et explorer de nouveaux styles."
-                        },
-                        "ko": {
-                            "title": "{{예술}} 및 일러스트레이션",
-                            "text": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
-                        }
-                    }
-                },
-                {
-                    "id": 3,
-                    "faIcon": "fa-solid fa-chart-line",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "label": null,
-                    "link": {"href": null, "tooltipString": null},
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": {
-                            "title": "{{Investing}} & Finance",
-                            "text": "Learning the basics of stocks and personal finance."
-                        },
-                        "hi": {
-                            "title": "{{Inversión}} y Finanzas",
-                            "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
-                        },
-                        "fr": {
-                            "title": "{{Investissement}} & Finance",
-                            "text": "Apprendre les bases des actions et des finances personnelles."
-                        },
-                        "ko": {
-                            "title": "{{투자}} 및 재정 관리",
-                            "text": "주식과 개인 재정의 기초 배우기."
-                        }
-                    }
-                },
-                {
-                    "id": 4,
-                    "faIcon": "fa-solid fa-window-restore",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "label": null,
-                    "link": {"href": null, "tooltipString": null},
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": {
-                            "title": "{{UX}} design",
-                            "text": "Studying user experience principles."
-                        },
-                        "hi": {
-                            "title": "Diseño {{UX}}",
-                            "text": "Estudiando los principios de la experiencia del usuario."
-                        },
-                        "fr": {
-                            "title": "Conception {{UX}}",
-                            "text": "Étudier les principes de l'expérience utilisateur."
-                        },
-                        "ko": {
-                            "title": "{{UX}} 디자인",
-                            "text": "사용자 경험 원칙을 공부하기."
-                        }
-                    }
-                },
-                {
-                    "id": 5,
-                    "img": "",
-                    "faIcon": "fa-solid fa-camera-retro",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "label": null,
-                    "link": {"href": null, "tooltipString": null},
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": {
-                            "title": "{{Photography}} & Photoshop",
-                            "text": "Enhancing photos through creative editing techniques."
-                        },
-                        "hi": {
-                            "title": "{{Fotografía}} y Photoshop",
-                            "text": "Mejorando fotos a través de técnicas creativas de edición."
-                        },
-                        "fr": {
-                            "title": "{{Photographie}} & Photoshop",
-                            "text": "Améliorer des photos avec des techniques de montage créatives."
-                        },
-                        "ko": {
-                            "title": "{{사진}} 및 포토샵",
-                            "text": "창의적인 편집 기술을 통해 사진을 향상시키기."
-                        }
-                    }
-                },
-                {
-                    "id": 6,
-                    "faIcon": "fa-solid fa-drum-steelpan",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "label": null,
-                    "link": {"href": null, "tooltipString": null},
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": {
-                            "title": "Playing {{drums}}",
-                            "text": "Exploring different genres and improving my skills."
-                        },
-                        "hi": {
-                            "title": "Tocar {{batería}}",
-                            "text": "Explorando diferentes géneros y mejorando mis habilidades."
-                        },
-                        "fr": {
-                            "title": "Jouer de la {{batterie}}",
-                            "text": "Explorer différents genres et améliorer mes compétences."
-                        },
-                        "ko": {
-                            "title": "{{드럼}} 연주",
-                            "text": "다양한 장르를 탐험하고 기술을 향상시키기."
-                        }
-                    }
-                }
-            ]
+            "ko": {
+              "text": "<p>{{VEDA.ws}} एगो ज्ञान आधारित डिजिटल मंच बा, जवन {{वैदिक खोज, समझ आ चेतना}} पर केंद्रित बा। एह प्लेटफॉर्म पर हम एगो किताब लिख रहल बानी।</p><p>एह काम के मकसद प्राचीन वैदिक ज्ञान के आज के सोच से जोड़ल बा—दर्शन आ आत्मचिंतन के सरल बनावल।</p><p>अउरी जान खातिर देखीं: [[https://veda.ws]]</p>"
+            }
+          }
         }
-    ]
+      ]
+    },
+
+    {
+      "id": 3,
+      "component": "ArticleText",
+      "locales": {
+        "en": { "title": "{{Projects}} on hold" },
+        "hi": { "title": "{{स्थगित}} परियोजनाएँ" },
+        "fr": { "title": "Projets {{en pause}}" },
+        "ko": { "title": "{{रुका}} परियोजना" }
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "images/pictures/ChaloPadhe.svg",
+          "locales": {
+            "en": {
+              "text": "<p>{{ChaloPadhe.com}} is an independent educational initiative that was conceived to provide structured learning resources for students.</p><p>The project is currently on hold, with its focus having shifted toward long-form research, writing, and foundational knowledge work.</p>"
+            },
+            "hi": {
+              "text": "<p>{{ChaloPadhe.com}} एक स्वतंत्र शैक्षिक पहल थी, जिसका उद्देश्य छात्रों के लिए संरचित अध्ययन सामग्री उपलब्ध कराना था।</p><p>यह परियोजना वर्तमान में स्थगित है, और मेरा मुख्य ध्यान अब शोध एवं लेखन कार्य पर केंद्रित है।</p>"
+            },
+            "fr": {
+              "text": "<p>{{ChaloPadhe.com}} était une initiative éducative indépendante visant à fournir des ressources pédagogiques structurées.</p><p>Le projet est actuellement en pause, l’accent étant désormais mis sur la recherche et l’écriture à long terme.</p>"
+            },
+            "ko": {
+              "text": "<p>{{ChaloPadhe.com}} एगो स्वतंत्र शिक्षा पहल रहल, जवन पढ़ाई सामग्री देवे खातिर बनावल गइल रहे।</p><p>ई परियोजना अभी रुका हुआ बा, आ ध्यान अब शोध आ लेखन पर बा।</p>"
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "component": "ArticleInfoList",
+      "locales": {
+        "en": { "title": "Personal {{Interests}}" },
+        "hi": { "title": "व्यक्तिगत {{रुचियाँ}}" },
+        "fr": { "title": "Intérêts {{personnels}}" },
+        "ko": { "title": "निजी {{रुचि}}" }
+      },
+      "items": [
+                {
+            "id": 1,
+            "faIcon": "fa-solid fa-book",
+            "locales": {
+                "en": {
+                "title": "{{Writing}} & Authorship",
+                "text": "Authoring a book through VEDA.ws that explores Vedic philosophy, consciousness, self-inquiry, and timeless knowledge systems in a modern context."
+                },
+                "hi": {
+                "title": "{{लेखन}} एवं लेखन-कार्य",
+                "text": "VEDA.ws के माध्यम से वैदिक दर्शन, चेतना और आत्म-जिज्ञासा पर आधारित पुस्तक लेखन।"
+                },
+                "fr": {
+                "title": "{{Écriture}} & Auteuriat",
+                "text": "Rédaction d’un livre via VEDA.ws explorant la philosophie védique, la conscience et la connaissance intemporelle."
+                },
+                "ko": {
+                "title": "{{लेखन}} आ किताब",
+                "text": "VEDA.ws के माध्यम से वैदिक दर्शन आ चेतना पर किताब लिखतानी।"
+                }
+            }
+            },
+            {
+            "id": 2,
+            "faIcon": "fa-solid fa-brain",
+            "locales": {
+                "en": {
+                "title": "{{Philosophy}} & Consciousness",
+                "text": "Deep interest in Indian philosophical traditions, consciousness studies, metaphysics, and the synthesis of ancient wisdom with modern thought."
+                },
+                "hi": {
+                "title": "{{दर्शन}} एवं चेतना",
+                "text": "भारतीय दर्शन, चेतना अध्ययन, तत्त्वमीमांसा तथा प्राचीन ज्ञान और आधुनिक चिंतन के समन्वय में रुचि।"
+                },
+                "fr": {
+                "title": "{{Philosophie}} & Conscience",
+                "text": "Intérêt profond pour les traditions philosophiques indiennes, l’étude de la conscience et la métaphysique."
+                },
+                "ko": {
+                "title": "{{दर्शन}} आ चेतना",
+                "text": "भारतीय दर्शन, चेतना आ गूढ़ ज्ञान में गहरी रुचि।"
+                }
+            }
+            },
+            {
+            "id": 3,
+            "faIcon": "fa-solid fa-graduation-cap",
+            "locales": {
+                "en": {
+                "title": "{{Education}} & Learning Design",
+                "text": "Designing structured, accessible learning resources with a focus on clarity, depth, and long-term understanding."
+                },
+                "hi": {
+                "title": "{{शिक्षा}} एवं अध्ययन-डिज़ाइन",
+                "text": "स्पष्ट, गहन और दीर्घकालिक समझ पर आधारित संरचित शिक्षण सामग्री का निर्माण।"
+                },
+                "fr": {
+                "title": "{{Éducation}} & Conception pédagogique",
+                "text": "Conception de contenus éducatifs structurés, accessibles et orientés vers la compréhension profonde."
+                },
+                "ko": {
+                "title": "{{शिक्षा}} आ सीखाई",
+                "text": "सरल आ गहराई वाला पढ़ाई सामग्री बनावे में रुचि।"
+                }
+            }
+            },
+            {
+            "id": 4,
+            "faIcon": "fa-solid fa-laptop-code",
+            "locales": {
+                "en": {
+                "title": "{{Technology}} & Systems Thinking",
+                "text": "Interest in software systems, backend architecture, scalability, and using technology as an enabler for knowledge dissemination."
+                },
+                "hi": {
+                "title": "{{प्रौद्योगिकी}} एवं सिस्टम चिंतन",
+                "text": "सॉफ्टवेयर सिस्टम, बैकएंड संरचना और ज्ञान प्रसार हेतु तकनीक के उपयोग में रुचि।"
+                },
+                "fr": {
+                "title": "{{Technologie}} & Pensée systémique",
+                "text": "Intérêt pour l’architecture logicielle, les systèmes évolutifs et la technologie comme outil de diffusion du savoir."
+                },
+                "ko": {
+                "title": "{{तकनीक}} आ सिस्टम",
+                "text": "सॉफ्टवेयर सिस्टम आ ज्ञान फैलावे खातिर तकनीक में रुचि।"
+                }
+            }
+            },
+            {
+            "id": 5,
+            "faIcon": "fa-solid fa-language",
+            "locales": {
+                "en": {
+                "title": "{{Languages}} & Accessibility",
+                "text": "Promoting multilingual knowledge access, especially through Hindi and Bhojpuri, to make learning inclusive."
+                },
+                "hi": {
+                "title": "{{भाषाएँ}} एवं सुलभता",
+                "text": "हिंदी और भोजपुरी के माध्यम से बहुभाषी ज्ञान को सुलभ बनाना।"
+                },
+                "fr": {
+                "title": "{{Langues}} & Accessibilité",
+                "text": "Promotion de l’accès multilingue au savoir, notamment via les langues indiennes."
+                },
+                "ko": {
+                "title": "{{भाषा}} आ पहुँच",
+                "text": "हिंदी-भोजपुरी में ज्ञान सब तक पहुँचावे में रुचि।"
+                }
+            }
+            },
+        
+        {
+          "id": 6,
+          "faIcon": "fa-solid fa-language",
+          "locales": {
+            "en": { "title": "{{Languages}} & Knowledge Access", "text": "Making knowledge accessible through Hindi and Bhojpuri." },
+            "hi": { "title": "{{भाषाएँ}} एवं सुलभता", "text": "हिंदी और भोजपुरी के माध्यम से ज्ञान को सुलभ बनाना।" },
+            "fr": { "title": "{{Langues}} & Accessibilité", "text": "Rendre le savoir accessible via des langues locales." },
+            "ko": { "title": "{{भाषा}} आ पहुँच", "text": "हिंदी-भोजपुरी में ज्ञान पहुँचावल।" }
+          }
+        },
+        {
+          "id": 7,
+          "faIcon": "fa-solid fa-laptop-code",
+          "locales": {
+            "en": { "title": "{{Technology}} & Systems", "text": "Backend systems, software architecture, and long-term thinking." },
+            "hi": { "title": "{{प्रौद्योगिकी}} एवं सिस्टम", "text": "सॉफ्टवेयर संरचना और सिस्टम चिंतन।" },
+            "fr": { "title": "{{Technologie}} & Systèmes", "text": "Architecture logicielle et réflexion systémique." },
+            "ko": { "title": "{{तकनीक}} आ सिस्टम", "text": "सॉफ्टवेयर सिस्टम आ दीर्घ सोच।" }
+          }
+        }
+      ]
+    }
+  ]
 }

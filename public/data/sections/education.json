@@ -8,10 +8,11 @@
                 "title_long": "{{Education}} Background"
             },
             "hi": {
-                "title_short": "Educación",
-                "title_short_nav": "Educación",
-                "title_long_prefix": "Esta es mi",
-                "title_long": "{{Formación}} Educativa"
+                "title_short": "शिक्षा",
+                "title_short_nav": "शिक्षा",
+                "title_long_prefix": "यह मेरी",
+                "title_long": "{{शिक्षा}} पृष्ठभूमि"
+
             },
             "fr": {
                 "title_short": "Éducation",
@@ -47,29 +48,49 @@
                     "dateEnd": {"year": 2005, "month": 5},
                     "locales": {
                         "en": {
-                            "title": "Primary and Secondary {{Education}}",
+                            "title": "Primary and Secondary Education",
                             "province": "Varanasi",
                             "country": "India",
                             "institution": "Uttar Pradesh Board",
-                            "text": "Successfully completed an intensive Nanodegree program with a strong emphasis on [[PHP development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
-                            "list": [],
-                            "tags": []
+                            "text": "Completed Intermediate education with a strong foundation in Physics, Chemistry, Mathematics, Hindi, and English, developing analytical thinking and problem-solving skills essential for engineering studies.",
+                            "list": [
+                                "Physics",
+                                "Chemistry",
+                                "Mathematics",
+                                "Hindi",
+                                "English"
+                            ],
+                            "tags": ["Intermediate", "Science", "Uttar Pradesh Board"]
                         },
                         "hi": {
-                            "title": "Desarrollo en PHP {{Nanodegree}}",
-                            "province": "",
-                            "country": "Remoto",
-                            "institution": "Udacity",
-                            "text": "Completé con éxito un programa intensivo de Nanodegree con un fuerte enfoque en [[PHP development]], donde adquirí una experiencia práctica y completa en la creación de aplicaciones web dinámicas y escalables.",
-                            "list": []
+                            "title": "प्राथमिक एवं माध्यमिक शिक्षा",
+                            "province": "वाराणसी",
+                            "country": "भारत",
+                            "institution": "उत्तर प्रदेश बोर्ड",
+                            "text": "भौतिकी, रसायन विज्ञान, गणित, हिंदी एवं अंग्रेज़ी विषयों के साथ इंटरमीडिएट शिक्षा सफलतापूर्वक पूर्ण की, जिससे इंजीनियरिंग अध्ययन के लिए आवश्यक विश्लेषणात्मक सोच और समस्या-समाधान कौशल विकसित हुआ।",
+                            "list": [
+                                "भौतिकी",
+                                "रसायन विज्ञान",
+                                "गणित",
+                                "हिंदी",
+                                "अंग्रेज़ी"
+                            ],
+                            "tags": ["इंटरमीडिएट", "विज्ञान", "उत्तर प्रदेश बोर्ड"]
                         },
                         "fr": {
-                            "title": "Développement PHP {{Nanodegree}}",
-                            "province": "",
-                            "country": "À distance",
-                            "institution": "Udacity",
-                            "text": "J'ai terminé avec succès un programme Nanodegree intensif axé sur [[PHP development]], au cours duquel j'ai acquis une expérience pratique approfondie dans la création d'applications web dynamiques et évolutives.",
-                            "list": []
+                            "title": "Enseignement primaire et secondaire",
+                            "province": "Varanasi",
+                            "country": "Inde",
+                            "institution": "Uttar Pradesh Board",
+                            "text": "A achevé avec succès les études intermédiaires avec une solide formation en physique, chimie, mathématiques, hindi et anglais, développant une pensée analytique et des compétences en résolution de problèmes essentielles aux études d’ingénierie.",
+                            "list": [
+                                "Physique",
+                                "Chimie",
+                                "Mathématiques",
+                                "Hindi",
+                                "Anglais"
+                            ],
+                            "tags": ["Intermédiaire", "Sciences", "Uttar Pradesh Board"]
                         },
                         "ko": {
                             "title": "PHP 개발 {{Nanodegree}}",
@@ -90,31 +111,61 @@
                     "dateEnd": {"year": 2011, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Bachelor}} in Mechanical Engineering",
+                            "title": "{{Bachelor of Technology}} in Mechanical Engineering",
                             "province": "Rae Bareli",
                             "country": "India",
-                            "institution": "FGIET",
-                            "text": "Earned a [[Bachelor's degree in Mechanical Engineering]], focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects, coding boot camps, and many collaborative team-based software development activities.",
-                            "list": [],
-                            "tags": []
+                            "institution": "Feroze Gandhi Institute of Engineering and Technology (FGIET)",
+                            "text": "Earned a Bachelor of Technology in Mechanical Engineering with comprehensive training in core engineering subjects including manufacturing science, machine design, thermodynamics, fluid mechanics, heat and mass transfer, material science, and advanced welding processes, building a strong foundation for higher studies and research.",
+                            "list": [
+                                "Manufacturing Science",
+                                "Machine Design",
+                                "Material Science",
+                                "Fluid Mechanics",
+                                "Applied Thermodynamics",
+                                "Heat and Mass Transfer",
+                                "Advanced Welding Processes",
+                                "Strength of Materials",
+                                "Dynamics of Machines"
+                            ],
+                            "tags": ["B.Tech", "Mechanical Engineering", "Manufacturing", "Design"]
                         },
                         "hi": {
-                            "title": "{{Grado}} en Ciencias de la Computación",
-                            "province": "Rae Bareli",
-                            "country": "EE. UU.",
-                            "institution": "FGIET",
-                            "text": "Obtuve un [[grado en Ciencias de la Computación]], con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de diversos proyectos de programación, bootcamps de codificación y actividades colaborativas de desarrollo en equipo.",
-                            "list": [],
-                            "tags": []
+                            "title": "यांत्रिक अभियांत्रिकी में प्रौद्योगिकी स्नातक",
+                            "province": "रायबरेली",
+                            "country": "भारत",
+                            "institution": "फिरोज़ गांधी इंस्टीट्यूट ऑफ़ इंजीनियरिंग एंड टेक्नोलॉजी (FGIET)",
+                            "text": "यांत्रिक अभियांत्रिकी में प्रौद्योगिकी स्नातक की डिग्री प्राप्त की, जिसमें विनिर्माण विज्ञान, मशीन डिजाइन, ऊष्मागतिकी, द्रव यांत्रिकी, ऊष्मा एवं द्रव्यमान अंतरण, पदार्थ विज्ञान तथा उन्नत वेल्डिंग प्रक्रियाओं जैसे मुख्य अभियान्त्रिकी विषयों में व्यापक प्रशिक्षण शामिल था, जिससे उच्च अध्ययन एवं शोध के लिए मजबूत आधार विकसित हुआ।",
+                            "list": [
+                                "विनिर्माण विज्ञान",
+                                "मशीन डिजाइन",
+                                "पदार्थ विज्ञान",
+                                "द्रव यांत्रिकी",
+                                "अनुप्रयुक्त ऊष्मागतिकी",
+                                "ऊष्मा एवं द्रव्यमान अंतरण",
+                                "उन्नत वेल्डिंग प्रक्रियाएँ",
+                                "द्रव्यों की शक्ति",
+                                "मशीनों की गतिकी"
+                            ],
+                            "tags": ["बी.टेक", "यांत्रिक अभियांत्रिकी", "विनिर्माण", "डिज़ाइन"]
                         },
                         "fr": {
-                            "title": "{{Licence}} en informatique",
+                            "title": "Licence en Génie Mécanique",
                             "province": "Rae Bareli",
-                            "country": "États-Unis",
-                            "institution": "FGIET",
-                            "text": "J'ai obtenu une [[licence en informatique]], avec un accent sur les algorithmes, les structures de données, l’ingénierie logicielle et le développement web. J'ai acquis une solide expérience pratique grâce à divers projets de programmation, des bootcamps de code et des activités collaboratives en équipe.",
-                            "list": [],
-                            "tags": []
+                            "country": "Inde",
+                            "institution": "Feroze Gandhi Institute of Engineering and Technology (FGIET)",
+                            "text": "A obtenu une licence en génie mécanique avec une formation approfondie dans les disciplines fondamentales de l’ingénierie, notamment les sciences de la fabrication, la conception des machines, la thermodynamique, la mécanique des fluides, les transferts de chaleur et de masse, la science des matériaux et les procédés de soudage avancés, constituant une base solide pour des études supérieures et la recherche.",
+                            "list": [
+                                "Sciences de la fabrication",
+                                "Conception des machines",
+                                "Science des matériaux",
+                                "Mécanique des fluides",
+                                "Thermodynamique appliquée",
+                                "Transferts de chaleur et de masse",
+                                "Procédés de soudage avancés",
+                                "Résistance des matériaux",
+                                "Dynamique des machines"
+                            ],
+                            "tags": ["Licence", "Génie mécanique", "Fabrication", "Conception"]
                         },
                         "ko": {
                             "title": "컴퓨터 과학 {{학사}}",
@@ -136,67 +187,91 @@
                     "dateEnd": {"year": 2014, "month": 8},
                     "locales": {
                         "en": {
-                            "title": "{{Master's Exchange}} in Mechanical Engineering",
-                            "province": "",
+                            "title": "Master’s Exchange in Mechanical Engineering",
+                            "province": "Nantes",
                             "country": "France",
-                            "institution": "Ecole Centrale de Nantes",
-                            "text": "Completed a comprehensive Master's Exchange program focused on [[cutting-edge AI topics]], including:",
+                            "institution": "École Centrale de Nantes",
+                            "text": "Completed a Master’s Exchange program in Mechanical Engineering with a focus on numerical methods and continuum mechanics, along with academic training in the French language. Conducted a master’s thesis on the development of a hybrid magnetic pulse spot welding process for joining FRP composites with metals.",
                             "list": [
-                                "Machine Learning",
-                                "Natural Language Processing (NLP)",
-                                "Neural Networks"
+                                "Numerical Methods",
+                                "Continuum Mechanics",
+                                "French Language",
+                                "Hybrid Magnetic Pulse Spot Welding",
+                                "FRP–Metal Joining"
                             ],
                             "tags": [
-                                "Neural Networks",
-                                "Machine Learning"
+                                "Master Exchange",
+                                "Mechanical Engineering",
+                                "Numerical Methods",
+                                "Continuum Mechanics",
+                                "Welding Processes",
+                                "Composites"
                             ]
                         },
                         "hi": {
-                            "title": "{{Máster}} en Inteligencia Artificial",
-                            "province": "",
-                            "country": "Francia",
-                            "institution": "Universidad de París",
-                            "text": "Completé un programa de máster integral centrado en [[temas avanzados de IA]], incluyendo:",
+                            "title": "यांत्रिक अभियांत्रिकी में मास्टर्स एक्सचेंज कार्यक्रम",
+                            "province": "नान्त",
+                            "country": "फ्रांस",
+                            "institution": "एकोल सेंट्राल दे नान्त",
+                            "text": "यांत्रिक अभियांत्रिकी में मास्टर्स एक्सचेंज कार्यक्रम सफलतापूर्वक पूर्ण किया, जिसमें संख्यात्मक विधियाँ एवं सतत यांत्रिकी पर विशेष ध्यान दिया गया। फ्रेंच भाषा में अकादमिक प्रशिक्षण प्राप्त किया तथा एफआरपी कंपोज़िट्स एवं धातुओं के संयोजन हेतु हाइब्रिड मैग्नेटिक पल्स स्पॉट वेल्डिंग प्रक्रिया के विकास पर मास्टर थीसिस सम्पन्न की।",
                             "list": [
-                                "Aprendizaje automático",
-                                "Procesamiento del lenguaje natural (PLN)",
-                                "Redes neuronales"
+                                "संख्यात्मक विधियाँ",
+                                "सतत यांत्रिकी",
+                                "फ्रेंच भाषा",
+                                "हाइब्रिड मैग्नेटिक पल्स स्पॉट वेल्डिंग",
+                                "एफआरपी–धातु संयोजन"
                             ],
                             "tags": [
-                                "Redes neuronales",
-                                "Aprendizaje automático"
+                                "मास्टर्स एक्सचेंज",
+                                "यांत्रिक अभियांत्रिकी",
+                                "संख्यात्मक विधियाँ",
+                                "सतत यांत्रिकी",
+                                "वेल्डिंग प्रक्रियाएँ",
+                                "कंपोज़िट्स"
                             ]
                         },
                         "fr": {
-                            "title": "{{Master}} en Intelligence Artificielle",
-                            "province": "",
+                            "title": "Programme d’échange de Master en Génie Mécanique",
+                            "province": "Nantes",
                             "country": "France",
-                            "institution": "Université de Paris",
-                            "text": "J'ai terminé un programme de master complet axé sur [[les sujets avancés en IA]], notamment :",
+                            "institution": "École Centrale de Nantes",
+                            "text": "A suivi un programme d’échange de Master en génie mécanique, axé sur les méthodes numériques et la mécanique des milieux continus. A également reçu une formation académique en langue française et réalisé un mémoire de master portant sur le développement d’un procédé hybride de soudage par impulsion magnétique pour l’assemblage de composites FRP avec des métaux.",
                             "list": [
-                                "Apprentissage automatique",
-                                "Traitement du langage naturel (NLP)",
-                                "Réseaux de neurones"
+                                "Méthodes numériques",
+                                "Mécanique des milieux continus",
+                                "Langue française",
+                                "Soudage par impulsion magnétique hybride",
+                                "Assemblage FRP–métal"
                             ],
                             "tags": [
-                                "Réseaux de neurones",
-                                "Apprentissage automatique"
+                                "Échange de Master",
+                                "Génie mécanique",
+                                "Méthodes numériques",
+                                "Mécanique continue",
+                                "Procédés de soudage",
+                                "Composites"
                             ]
                         },
                         "ko": {
-                            "title": "인공지능 {{석사}}",
-                            "province": "",
-                            "country": "프랑스",
-                            "institution": "파리 대학교",
-                            "text": "[[최첨단 인공지능 주제]]를 중심으로 한 종합적인 석사 과정을 수료하였으며, 주요 내용은 다음과 같습니다:",
+                             "title": "यांत्रिक अभियांत्रिकी में मास्टर एक्सचेंज कार्यक्रम",
+                            "province": "नान्त",
+                            "country": "फ्रांस",
+                            "institution": "एकोल सेंट्राल दे नान्त",
+                            "text": "यांत्रिक अभियांत्रिकी में मास्टर एक्सचेंज कार्यक्रम पूरा कइल गइल, जवना में संख्यात्मक विधि आ सतत यांत्रिकी पर खास जोर रहल। फ्रेंच भाषा में अकादमिक प्रशिक्षण लिहल गइल आ एफआरपी कंपोज़िट आ धातु के जोड़ खातिर हाइब्रिड मैग्नेटिक पल्स स्पॉट वेल्डिंग प्रक्रिया के विकास पर मास्टर शोध कार्य पूरा कइल गइल।",
                             "list": [
-                                "머신러닝",
-                                "자연어 처리 (NLP)",
-                                "신경망"
+                                "संख्यात्मक विधि",
+                                "सतत यांत्रिकी",
+                                "फ्रेंच भाषा",
+                                "हाइब्रिड मैग्नेटिक पल्स स्पॉट वेल्डिंग",
+                                "एफआरपी–धातु संयोजन"
                             ],
                             "tags": [
-                                "신경망",
-                                "머신러닝"
+                                "मास्टर एक्सचेंज",
+                                "यांत्रिक अभियांत्रिकी",
+                                "संख्यात्मक विधि",
+                                "सतत यांत्रिकी",
+                                "वेल्डिंग प्रक्रिया",
+                                "कंपोज़िट"
                             ]
                         }
                     }
@@ -210,58 +285,108 @@
                     "dateEnd": {"year": 2015, "month": 5},
                     "locales": {
                         "en": {
-                            "title": "{{M. Tech}} in Production Engineering",
+                            "title": "Master of Technology in Production Engineering",
                             "province": "New Delhi",
                             "country": "India",
                             "institution": "Indian Institute of Technology Delhi",
-                            "text": "Currently pursuing a M. Tech with a focus on [[deep learning]] and its real-world applications, particularly in:",
+                            "text": "Completed a Master of Technology in Production Engineering with specialization in composite materials and manufacturing processes, including rapid prototyping and tooling, automation in manufacturing, metal forming analysis, casting technology, machining processes, CNC technology, metrology, and welding and allied processes.",
                             "list": [
-                                "Computer Vision",
-                                "Innovative AI research",
-                                "Developing [[novel algorithms]] for image recognition"
+                                "Composite Materials and Processes",
+                                "Rapid Prototyping and Tooling",
+                                "Automation in Manufacturing",
+                                "Metal Forming Analysis",
+                                "Casting Technology",
+                                "Machining Processes Analysis",
+                                "CNC Technology and Programming",
+                                "Metrology",
+                                "Welding and Allied Processes"
                             ],
                             "tags": [
-                                "Deep Learning", "Computer Vision", "AI Research", "Algorithms"
+                                "M.Tech",
+                                "Production Engineering",
+                                "Manufacturing",
+                                "Composites",
+                                "Automation",
+                                "Welding"
                             ]
                         },
                         "hi": {
-                            "title": "{{Doctorado}} en Ciencias de la Computación",
-                            "province": "New Delhi",
-                            "country": "EE. UU.",
-                            "institution": "Universidad de Harvard",
-                            "text": "Actualmente cursando un doctorado con enfoque en [[aprendizaje profundo]] y sus aplicaciones en el mundo real, especialmente en:",
+                            "title": "उत्पादन अभियांत्रिकी में प्रौद्योगिकी स्नातकोत्तर",
+                            "province": "नई दिल्ली",
+                            "country": "भारत",
+                            "institution": "भारतीय प्रौद्योगिकी संस्थान दिल्ली",
+                            "text": "उत्पादन अभियांत्रिकी में प्रौद्योगिकी स्नातकोत्तर की डिग्री पूर्ण की, जिसमें कंपोज़िट पदार्थ एवं विनिर्माण प्रक्रियाओं में विशेषज्ञता प्राप्त की। अध्ययन में रैपिड प्रोटोटाइपिंग एवं टूलिंग, विनिर्माण में स्वचालन, धातु रूपांतरण विश्लेषण, कास्टिंग प्रौद्योगिकी, मशीनिंग प्रक्रियाएँ, सीएनसी प्रौद्योगिकी, मेट्रोलॉजी तथा वेल्डिंग एवं संबद्ध प्रक्रियाएँ शामिल रहीं।",
                             "list": [
-                                "Visión por computadora",
-                                "Investigación innovadora en IA",
-                                "Desarrollo de [[nuevos algoritmos]] para el reconocimiento de imágenes"
+                                "कंपोज़िट पदार्थ एवं प्रक्रियाएँ",
+                                "रैपिड प्रोटोटाइपिंग एवं टूलिंग",
+                                "विनिर्माण में स्वचालन",
+                                "धातु रूपांतरण विश्लेषण",
+                                "कास्टिंग प्रौद्योगिकी",
+                                "मशीनिंग प्रक्रियाएँ",
+                                "सीएनसी प्रौद्योगिकी एवं प्रोग्रामिंग",
+                                "मेट्रोलॉजी",
+                                "वेल्डिंग एवं संबद्ध प्रक्रियाएँ"
                             ],
-                            "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
+                            "tags": [
+                                "एम.टेक",
+                                "उत्पादन अभियांत्रिकी",
+                                "विनिर्माण",
+                                "कंपोज़िट्स",
+                                "स्वचालन",
+                                "वेल्डिंग"
+                            ]
                         },
                         "fr": {
-                            "title": "{{Doctorat}} en informatique",
+                            "title": "Master en Génie de la Production",
                             "province": "New Delhi",
-                            "country": "États-Unis",
-                            "institution": "Université Harvard",
-                            "text": "Actuellement en doctorat, avec une spécialisation en [[deep learning]] et ses applications concrètes, notamment dans :",
+                            "country": "Inde",
+                            "institution": "Indian Institute of Technology Delhi",
+                            "text": "A obtenu un Master en génie de la production avec une spécialisation en matériaux composites et procédés de fabrication, incluant le prototypage rapide et l’outillage, l’automatisation de la fabrication, l’analyse de la mise en forme des métaux, les technologies de fonderie, l’usinage, la technologie CNC, la métrologie ainsi que les procédés de soudage et associés.",
                             "list": [
-                                "La vision par ordinateur",
-                                "La recherche innovante en IA",
-                                "Le développement de [[nouveaux algorithmes]] pour la reconnaissance d’images"
+                                "Matériaux composites et procédés",
+                                "Prototypage rapide et outillage",
+                                "Automatisation de la fabrication",
+                                "Analyse de la mise en forme des métaux",
+                                "Technologie de fonderie",
+                                "Procédés d’usinage",
+                                "Technologie et programmation CNC",
+                                "Métrologie",
+                                "Procédés de soudage et associés"
                             ],
-                            "tags": ["Apprentissage profond", "Vision par ordinateur", "Recherche en IA", "Algorithmes"]
+                            "tags": [
+                                "Master",
+                                "Génie de la production",
+                                "Fabrication",
+                                "Composites",
+                                "Automatisation",
+                                "Soudage"
+                            ]
                         },
                         "ko": {
-                            "title": "컴퓨터 과학 {{박사}}",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "하버드 대학교",
-                            "text": "[[딥러닝]] 및 그 실생활 적용에 중점을 둔 박사 과정을 진행 중이며, 주요 연구 분야는 다음과 같습니다:",
+                            "title": "उत्पादन अभियांत्रिकी में मास्टर ऑफ टेक्नोलॉजी",
+                            "province": "नई दिल्ली",
+                            "country": "भारत",
+                            "institution": "इंडियन इंस्टिट्यूट ऑफ टेक्नोलॉजी दिल्ली",
+                            "text": "उत्पादन अभियांत्रिकी में मास्टर ऑफ टेक्नोलॉजी के डिग्री पूरा कइल गइल, जवना में कंपोज़िट सामग्री आ विनिर्माण प्रक्रिया में विशेष प्रशिक्षण मिलल। एह अध्ययन में रैपिड प्रोटोटाइपिंग आ टूलिंग, विनिर्माण में स्वचालन, धातु रूपांतरण विश्लेषण, कास्टिंग तकनीक, मशीनिंग प्रक्रिया, सीएनसी तकनीक, मेट्रोलॉजी आ वेल्डिंग से जुड़ल प्रक्रिया शामिल रहल।",
                             "list": [
-                                "컴퓨터 비전",
-                                "혁신적인 인공지능 연구",
-                                "이미지 인식을 위한 새로운 알고리즘 개발"
+                                "कंपोज़िट सामग्री आ प्रक्रिया",
+                                "रैपिड प्रोटोटाइपिंग आ टूलिंग",
+                                "विनिर्माण में स्वचालन",
+                                "धातु रूपांतरण विश्लेषण",
+                                "कास्टिंग तकनीक",
+                                "मशीनिंग प्रक्रिया",
+                                "सीएनसी तकनीक आ प्रोग्रामिंग",
+                                "मेट्रोलॉजी",
+                                "वेल्डिंग आ संबंधित प्रक्रिया"
                             ],
-                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
+                            "tags": [
+                                "एम.टेक",
+                                "उत्पादन अभियांत्रिकी",
+                                "विनिर्माण",
+                                "कंपोज़िट",
+                                "स्वचालन",
+                                "वेल्डिंग"
+                            ]
                         }
                     }
                 }

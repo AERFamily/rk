@@ -1,14 +1,14 @@
 import "./PacMan.scss"
 import React, {useEffect, useState} from 'react'
 
-function PacMan({ className = "", color = "pacman-color-variant-loader", hidden = false }) {
+function PacMan({ className = "", color = "saraswati-color-variant-loader", hidden = false }) {
     const hiddenClass = hidden ?
-        `pacman-wrapper-hidden` : ``
+        `saraswati-wrapper-hidden` : ``
 
     return (
-        <div className={`pacman-wrapper ${className} ${hiddenClass}`}>
-            <div className={`pacman ${color}`}>
-                <div className={`pacman-content`}>
+        <div className={`saraswati-wrapper ${className} ${hiddenClass}`}>
+            <div className={`saraswati ${color}`}>
+                <div className={`saraswati-content`}>
                     <div>
                         <div></div>
                         <div></div>
@@ -26,7 +26,7 @@ function PacMan({ className = "", color = "pacman-color-variant-loader", hidden 
 }
 
 PacMan.ColorVariants = {
-    LOADER: "pacman-color-variant-loader"
+    LOADER: "saraswati-color-variant-loader"
 }
 
 export default PacMan

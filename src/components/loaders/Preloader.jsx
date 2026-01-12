@@ -174,10 +174,10 @@ function PreloaderWindow({ title, subtitle, logoOffset, setDidLoadAllImages, sho
             return
         }
 
-        scheduler.clearAllWithTag("preloader-pacman")
+        scheduler.clearAllWithTag("preloader-saraswati")
         scheduler.schedule(() => {
             setIsPacManHidden(false)
-        }, 100, "preloader-pacman")
+        }, 100, "preloader-saraswati")
     }, [showElements])
 
     return (
