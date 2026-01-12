@@ -19,7 +19,7 @@
         "title_long_prefix": "मेरी",
         "title_long": "हालिया {{यात्रा}}"
       },
-      "ko": {
+      "bho": {
         "title_short": "दक्षिणा",
         "title_short_nav": "दक्षिणा",
         "title_long_prefix": "हमार",
@@ -47,7 +47,7 @@
             "en": { "title": "1", "text": "Book in progress" },
             "fr": { "title": "1", "text": "Livre en cours" },
             "hi": { "title": "1", "text": "पुस्तक लेखन प्रगति पर" },
-            "ko": { "title": "1", "text": "किताब लिखल जा रहल बा" }
+            "bho": { "title": "1", "text": "किताब लिखल जा रहल बा" }
           }
         },
         {
@@ -59,7 +59,7 @@
             "en": { "title": "10+", "text": "Years in engineering & research" },
             "fr": { "title": "10+", "text": "Années en ingénierie et recherche" },
             "hi": { "title": "10+", "text": "इंजीनियरिंग एवं शोध में वर्ष" },
-            "ko": { "title": "10+", "text": "इंजीनियरिंग आ रिसर्च के साल" }
+            "bho": { "title": "10+", "text": "इंजीनियरिंग आ रिसर्च के साल" }
           }
         },
         {
@@ -71,7 +71,7 @@
             "en": { "title": "2", "text": "Educational initiatives founded" },
             "fr": { "title": "2", "text": "Initiatives éducatives fondées" },
             "hi": { "title": "2", "text": "शैक्षिक पहलें स्थापित" },
-            "ko": { "title": "2", "text": "शैक्षिक पहल शुरू कइल गइल" }
+            "bho": { "title": "2", "text": "शैक्षिक पहल शुरू कइल गइल" }
           }
         },
         {
@@ -83,7 +83,7 @@
             "en": { "title": "Multiple", "text": "Industrial & research collaborations" },
             "fr": { "title": "Multiples", "text": "Collaborations industrielles et scientifiques" },
             "hi": { "title": "अनेक", "text": "औद्योगिक एवं शोध सहयोग" },
-            "ko": { "title": "कई", "text": "इंडस्ट्रियल आ रिसर्च सहयोग" }
+            "bho": { "title": "कई", "text": "इंडस्ट्रियल आ रिसर्च सहयोग" }
           }
         },
         {
@@ -95,7 +95,7 @@
             "en": { "title": "Lifelong", "text": "Commitment to learning & teaching" },
             "fr": { "title": "Durable", "text": "Engagement envers l’apprentissage" },
             "hi": { "title": "आजीवन", "text": "सीखने एवं सिखाने के प्रति समर्पण" },
-            "ko": { "title": "आजीवन", "text": "सीखल आ सिखावे के समर्पण" }
+            "bho": { "title": "आजीवन", "text": "सीखल आ सिखावे के समर्पण" }
           }
         }
       ]
@@ -108,7 +108,7 @@
         "en": { "title": "Recent Reflections" },
         "fr": { "title": "Réflexions Récentes" },
         "hi": { "title": "हालिया चिंतन" },
-        "ko": { "title": "हालिया चिंतन" }
+        "bho": { "title": "हालिया चिंतन" }
       },
       "settings": {
         "max_rows_collapse_threshold": 3,
@@ -142,7 +142,7 @@
               "institution": "",
               "text": "इंजीनियरिंग, अनुसंधान, उद्योग एवं शिक्षा को जोड़ती पुस्तक पर केंद्रित कार्य।"
             },
-            "ko": {
+            "bho": {
               "title": "{{किताब लेखन}} पर फोकस",
               "province": "",
               "country": "भारत",
@@ -178,7 +178,7 @@
               "institution": "",
               "text": "इंजीनियरिंग परामर्श, स्वतंत्र शोध एवं शिक्षा सुधार कार्यों का संतुलन।"
             },
-            "ko": {
+            "bho": {
               "title": "{{रिसर्च, इंडस्ट्री आ शिक्षा}} के संतुलन",
               "province": "",
               "country": "भारत",
@@ -214,7 +214,7 @@
               "institution": "",
               "text": "ज्ञान, मार्गदर्शन एवं सार्थक कार्य के माध्यम से योगदान की भावना।"
             },
-            "ko": {
+            "bho": {
               "title": "{{दक्षिणा}} पर चिंतन",
               "province": "",
               "country": "",

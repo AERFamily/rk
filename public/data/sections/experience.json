@@ -19,7 +19,7 @@
         "title_long_prefix": "मेरे",
         "title_long": "{{कार्य}} अनुभव का सार"
       },
-      "ko": {
+      "bho": {
         "title_short": "अनुभव",
         "title_short_nav": "अनुभव",
         "title_long_prefix": "हमार",
@@ -41,7 +41,7 @@
 
         {
           "id": 1,
-          "img": "",
+          "img": "images/pictures/timeline-place-IITD.png",
           "faIcon": "fa-solid fa-microscope",
           "faIconColors": {"bg": "", "fill": ""},
           "dateStart": {"year": 2015, "month": 11},
@@ -78,7 +78,7 @@
               "list": [],
               "tags": []
             },
-            "ko": {
+            "bho": {
               "title": "रिसर्च वैज्ञानिक",
               "province": "नई दिल्ली",
               "country": "भारत",
@@ -92,7 +92,7 @@
 
         {
           "id": 2,
-          "img": "",
+          "img": "images/pictures/timeline-place-Aquasense.png",
           "faIcon": "fa-solid fa-industry",
           "faIconColors": {"bg": "", "fill": ""},
           "dateStart": {"year": 2017, "month": 1},
@@ -125,7 +125,7 @@
               "list": [],
               "tags": []
             },
-            "ko": {
+            "bho": {
               "title": "सह-संस्थापक आ प्रमुख यांत्रिक डिज़ाइनर",
               "province": "नई दिल्ली",
               "country": "भारत",
@@ -139,7 +139,7 @@
 
         {
           "id": 3,
-          "img": "",
+          "img": "images/pictures/timeline-place-Honeywell.png",
           "faIcon": "fa-solid fa-gear",
           "faIconColors": {"bg": "", "fill": ""},
           "dateStart": {"year": 2018, "month": 1},
@@ -172,7 +172,7 @@
               "list": [],
               "tags": []
             },
-            "ko": {
+            "bho": {
               "title": "आर एंड डी इंजीनियर II",
               "province": "गुरुग्राम",
               "country": "भारत",
@@ -186,7 +186,7 @@
 
         {
           "id": 4,
-          "img": "",
+          "img": "images/pictures/timeline-place-AER.png",
           "faIcon": "fa-solid fa-users",
           "faIconColors": {"bg": "", "fill": ""},
           "dateStart": {"year": 2020, "month": 6},
@@ -219,7 +219,7 @@
               "list": [],
               "tags": []
             },
-            "ko": {
+            "bho": {
               "title": "संस्थापक आ सीईओ",
               "province": "",
               "country": "भारत",
@@ -233,7 +233,7 @@
 
         {
           "id": 5,
-          "img": "",
+          "img": "images/pictures/timeline-place-DK.png",
           "faIcon": "fa-solid fa-lightbulb",
           "faIconColors": {"bg": "", "fill": ""},
           "dateStart": {"year": 2020, "month": 2},
@@ -266,7 +266,7 @@
               "list": [],
               "tags": []
             },
-            "ko": {
+            "bho": {
               "title": "संस्थापक आ सीटीओ",
               "province": "गुरुग्राम",
               "country": "भारत",
@@ -280,7 +280,7 @@
 
         {
           "id": 6,
-          "img": "",
+          "img": "images/pictures/timeline-place-VEDA.png",
           "faIcon": "fa-solid fa-pen-nib",
           "faIconColors": {"bg": "", "fill": ""},
           "dateStart": {"year": 2017, "month": 9},
@@ -313,7 +313,7 @@
               "list": [],
               "tags": []
             },
-            "ko": {
+            "bho": {
               "title": "फ्रीलांस डिज़ाइन इंजीनियर आ लेखक",
               "province": "",
               "country": "भारत",

@@ -19,7 +19,7 @@
                 "title_long_prefix": "Explorer",
                 "title_long": "Mes {{Compétences}}"
             },
-            "ko": {
+            "bho": {
                 "title_short": "कौशल",
                 "title_short_nav": "कौशल",
                 "title_long_prefix": "देखीं",
@@ -58,7 +58,7 @@
             "title": "यांत्रिक {{डिज़ाइन}} एवं उत्पाद विकास",
             "text": "निर्माणयोग्यता, विश्वसनीयता एवं वास्तविक औद्योगिक अनुप्रयोगों पर केंद्रित यांत्रिक प्रणालियों एवं उत्पादों का विकास।"
           },
-          "ko": {
+          "bho": {
             "title": "इंजीनियरिंग {{डिज़ाइन}} आ प्रोडक्ट डेवलपमेंट",
             "text": "निर्माण योग्य, भरोसेमंद आ असली औद्योगिक उपयोग खातिर यांत्रिक सिस्टम आ प्रोडक्ट के विकास।"
           }
@@ -85,7 +85,7 @@
             "title": "{{अनुसंधान}} एवं अनुप्रयुक्त आरएंडडी",
             "text": "कंपोज़िट पदार्थ, उच्च स्ट्रेन रेट सामग्री, उन्नत वेल्डिंग प्रक्रियाओं एवं मेडिकल डिवाइस विकास में अनुप्रयुक्त अनुसंधान।"
           },
-          "ko": {
+          "bho": {
             "title": "{{रिसर्च}} आ एप्लाइड आर एंड डी",
             "text": "कंपोज़िट, हाई स्ट्रेन रेट सामग्री, एडवांस वेल्डिंग प्रक्रिया आ मेडिकल डिवाइस पर लागू रिसर्च।"
           }
@@ -112,7 +112,7 @@
             "title": "{{कंपोज़िट्स}} एवं उन्नत सामग्री",
             "text": "कंपोज़िट सामग्री, STF-ट्रीटेड UHMWPE तथा FRP–धातु संयोजन तकनीकों में विशेषज्ञता।"
           },
-          "ko": {
+          "bho": {
             "title": "{{कंपोज़िट}} आ एडवांस सामग्री",
             "text": "कंपोज़िट सामग्री, STF ट्रीटेड UHMWPE आ FRP–धातु जोड़ तकनीक में विशेषज्ञता।"
           }
@@ -139,7 +139,7 @@
             "title": "{{लेखक}} एवं ज्ञान सृजनकर्ता",
             "text": "इंजीनियरिंग अनुसंधान, औद्योगिक आरएंडडी, नवाचार एवं उद्यमिता को एकीकृत करते हुए पुस्तक लेखन कार्य प्रगति पर।"
           },
-          "ko": {
+          "bho": {
             "title": "{{लेखक}} आ ज्ञान सृजनकर्ता",
             "text": "इंजीनियरिंग रिसर्च, इंडस्ट्रियल आर एंड डी, नवाचार आ उद्यमिता पर आधारित किताब लिखे के काम चल रहल बा।"
           }
@@ -155,7 +155,7 @@
       "en": {"title": "Core Engineering & Research Skills"},
       "fr": {"title": "Compétences Clés en Ingénierie & Recherche"},
       "hi": {"title": "मुख्य इंजीनियरिंग एवं अनुसंधान कौशल"},
-      "ko": {"title": "मुख्य इंजीनियरिंग आ रिसर्च कौशल"}
+      "bho": {"title": "मुख्य इंजीनियरिंग आ रिसर्च कौशल"}
     },
     "settings": {
       "max_items_per_row": 3,
@@ -173,7 +173,7 @@
           "en": {"title": "Composite Materials", "text": "Design, testing, and characterization of advanced composite materials."},
           "fr": {"title": "Matériaux Composites", "text": "Conception, essais et caractérisation de matériaux composites avancés."},
           "hi": {"title": "कंपोज़िट सामग्री", "text": "उन्नत कंपोज़िट सामग्रियों का डिज़ाइन, परीक्षण एवं विश्लेषण।"},
-          "ko": {"title": "कंपोज़िट सामग्री", "text": "उन्नत कंपोज़िट सामग्री के डिज़ाइन, टेस्ट आ विश्लेषण।"}
+          "bho": {"title": "कंपोज़िट सामग्री", "text": "उन्नत कंपोज़िट सामग्री के डिज़ाइन, टेस्ट आ विश्लेषण।"}
         }
       },
 
@@ -185,7 +185,7 @@
           "en": {"title": "Welding & Joining Processes", "text": "Advanced welding and FRP–metal joining technologies."},
           "fr": {"title": "Procédés de Soudage", "text": "Procédés avancés de soudage et d’assemblage FRP–métal."},
           "hi": {"title": "वेल्डिंग एवं संयोजन", "text": "उन्नत वेल्डिंग एवं FRP–धातु संयोजन तकनीक।"},
-          "ko": {"title": "वेल्डिंग आ जोड़ प्रक्रिया", "text": "एडवांस वेल्डिंग आ FRP–धातु जोड़ तकनीक।"}
+          "bho": {"title": "वेल्डिंग आ जोड़ प्रक्रिया", "text": "एडवांस वेल्डिंग आ FRP–धातु जोड़ तकनीक।"}
         }
       },
 
@@ -197,7 +197,7 @@
           "en": {"title": "Manufacturing & Automation", "text": "CNC machining, automation, rapid prototyping, and tooling."},
           "fr": {"title": "Fabrication & Automatisation", "text": "Usinage CNC, automatisation, prototypage rapide et outillage."},
           "hi": {"title": "विनिर्माण एवं स्वचालन", "text": "सीएनसी मशीनिंग, स्वचालन, रैपिड प्रोटोटाइपिंग एवं टूलिंग।"},
-          "ko": {"title": "विनिर्माण आ स्वचालन", "text": "सीएनसी मशीनिंग, ऑटोमेशन, रैपिड प्रोटोटाइपिंग आ टूलिंग।"}
+          "bho": {"title": "विनिर्माण आ स्वचालन", "text": "सीएनसी मशीनिंग, ऑटोमेशन, रैपिड प्रोटोटाइपिंग आ टूलिंग।"}
         }
       }
     ]
@@ -208,9 +208,9 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Languages"},
-                "hi": {"title": "Idiomas"},
+                "hi": {"title": "भाषाएँ"},
                 "fr": {"title": "Langues"},
-                "zh": {"title": "语言"}
+                "bho": {"title": "भाषा के बारे में बतावल गइल बा"}
             },
             "settings": {
                 "max_items_per_row": 1,
@@ -229,114 +229,114 @@
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Hindi",
-                            "text": "Native speaker with excellent communication and writing skills.",
-                            "level": "Native"
+                        "title": "Hindi",
+                        "text": "Native speaker with excellent communication and writing skills.",
+                        "level": "Native"
                         },
                         "hi": {
-                            "title": "Inglés",
-                            "text": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
-                            "level": "Nativo"
+                        "title": "हिंदी",
+                        "text": "मातृभाषा वक्ता; उत्कृष्ट संप्रेषण और लेखन कौशल।",
+                        "level": "मातृभाषा"
                         },
                         "fr": {
-                            "title": "Anglais",
-                            "text": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "level": "Natif"
+                        "title": "Hindi",
+                        "text": "Langue maternelle avec d’excellentes compétences en communication et en rédaction.",
+                        "level": "Langue maternelle"
                         },
-                        "ko": {
-                            "title": "영어",
-                            "text": "탁월한 의사소통 및 작문 능력을 갖춘 원어민.",
-                            "level": "원어민"
+                        "bho": {
+                        "title": "हिंदी",
+                        "text": "मातृभाषा हई; बोलचाल आ लेखन में बहुत बढ़िया क्षमता।",
+                        "level": "मातृभाषा"
                         }
                     }
-                },
-                {
+                    },
+                    {
                     "id": 2,
                     "img": "images/flags/en-us.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "date": {"year": null, "month": null},
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "date": { "year": null, "month": null },
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "English",
-                            "text": "Fluent in both spoken and written English; confident in professional communication.",
-                            "level": "Fluent"
+                        "title": "English",
+                        "text": "Fluent in both spoken and written English; confident in professional communication.",
+                        "level": "Fluent"
                         },
                         "hi": {
-                            "title": "Francés",
-                            "text": "Fluido en francés hablado y escrito; seguro en la comunicación profesional.",
-                            "level": "Fluido"
+                        "title": "अंग्रेज़ी",
+                        "text": "बोली और लिखित अंग्रेज़ी में प्रवाह; पेशेवर संचार में आत्मविश्वास।",
+                        "level": "प्रवाहपूर्ण"
                         },
                         "fr": {
-                            "title": "Français",
-                            "text": "Fluent en français parlé et écrit ; confiant dans la communication professionnelle.",
-                            "level": "Courant"
+                        "title": "Anglais",
+                        "text": "Courant à l’oral comme à l’écrit ; à l’aise dans la communication professionnelle.",
+                        "level": "Courant"
                         },
-                        "ko": {
-                            "title": "프랑스어",
-                            "text": "구어 및 서면 프랑스어에 능통; 전문적인 의사소통에 자신감이 있습니다.",
-                            "level": "유창함"
+                        "bho": {
+                        "title": "अंग्रेजी",
+                        "text": "बोलचाल आ लिखाई में बढ़िया पकड़; पेशेवर बातचीत में आत्मविश्वास।",
+                        "level": "प्रवाहपूर्ण"
                         }
                     }
-                },
-                {
+                    },
+                    {
                     "id": 3,
                     "img": "images/flags/hi.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "date": {"year": null, "month": null},
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "date": { "year": null, "month": null },
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Bhojpuri",
-                            "text": "Native speaker with excellent communication and writing skills.",
-                            "level": "Native"
+                        "title": "Bhojpuri",
+                        "text": "Native speaker with strong oral communication skills.",
+                        "level": "Native"
                         },
                         "hi": {
-                            "title": "Vietnamita",
-                            "text": "Competencia intermedia en el idioma vietnamita; puedo mantener conversaciones y entender textos escritos.",
-                            "level": "Intermedio"
+                        "title": "भोजपुरी",
+                        "text": "मातृभाषा; बोलचाल में मजबूत संप्रेषण क्षमता।",
+                        "level": "मातृभाषा"
                         },
                         "fr": {
-                            "title": "Vietnamien",
-                            "text": "Compétence intermédiaire en vietnamien ; je peux tenir des conversations et comprendre des textes écrits.",
-                            "level": "Intermédiaire"
+                        "title": "Bhojpuri",
+                        "text": "Langue maternelle avec de solides compétences orales.",
+                        "level": "Langue maternelle"
                         },
-                        "ko": {
-                            "title": "베트남어",
-                            "text": "중간 수준의 베트남어 실력; 대화 가능 및 글을 이해할 수 있음.",
-                            "level": "중급"
+                        "bho": {
+                        "title": "भोजपुरी",
+                        "text": "मातृभाषा हई; बोलचाल में मजबूत पकड़।",
+                        "level": "मातृभाषा"
                         }
                     }
-                },
-                {
+                    },
+                    {
                     "id": 4,
                     "img": "images/flags/fr.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "date": {"year": null, "month": null},
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "date": { "year": null, "month": null },
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "French",
-                            "text": "Basic understanding of French.",
-                            "level": "Basic"
+                        "title": "French",
+                        "text": "Basic understanding of spoken and written French.",
+                        "level": "Basic"
                         },
                         "hi": {
-                            "title": "Coreano",
-                            "text": "Comprensión básica del coreano; aprendiendo y mejorando.",
-                            "level": "Básico"
+                        "title": "फ़्रेंच",
+                        "text": "फ़्रेंच भाषा की बुनियादी समझ; अध्ययनरत।",
+                        "level": "मूलभूत"
                         },
                         "fr": {
-                            "title": "Coréen",
-                            "text": "Compréhension de base du coréen; en apprentissage et amélioration.",
-                            "level": "Basique"
+                        "title": "Français",
+                        "text": "Compréhension de base du français à l’oral et à l’écrit.",
+                        "level": "Basique"
                         },
-                        "ko": {
-                            "title": "한국어",
-                            "text": "기초적인 한국어 이해; 배우는 중이며 향상 중.",
-                            "level": "기초"
+                        "bho": {
+                        "title": "फ्रेंच",
+                        "text": "फ्रेंच भाषा के बुनियादी समझ; अभी सीखतानी।",
+                        "level": "बुनियादी"
                         }
                     }
                 }

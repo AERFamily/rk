@@ -19,7 +19,7 @@
         "title_long_prefix": "Bonjour,",
         "title_long": "Je suis {{Rama Kant Singh}}"
       },
-      "ko": {
+      "bho": {
         "title_short": "स्वागत बा",
         "title_short_nav": "हमार बारे में",
         "title_long_prefix": "नमस्कार,",
@@ -65,7 +65,7 @@
         "en": { "title": "{{Currently}} working on" },
         "hi": { "title": "{{वर्तमान}} में कार्य" },
         "fr": { "title": "{{Actuellement}} en cours" },
-        "ko": { "title": "{{अभी}} काम करतानी" }
+        "bho": { "title": "{{अभी}} काम करतानी" }
       },
       "items": [
         {
@@ -81,7 +81,7 @@
             "fr": {
               "text": "<p>{{VEDA.ws}} est une plateforme numérique axée sur la connaissance, dédiée à {{l’exploration, la découverte et la conscience védiques}}. Elle constitue également la base d’un livre que je suis en train d’écrire.</p><p>L’objectif est de relier la sagesse védique ancienne à la pensée moderne, à travers la philosophie, la conscience et la réflexion personnelle.</p><p>En savoir plus : [[https://veda.ws]]</p>"
             },
-            "ko": {
+            "bho": {
               "text": "<p>{{VEDA.ws}} एगो ज्ञान आधारित डिजिटल मंच बा, जवन {{वैदिक खोज, समझ आ चेतना}} पर केंद्रित बा। एह प्लेटफॉर्म पर हम एगो किताब लिख रहल बानी।</p><p>एह काम के मकसद प्राचीन वैदिक ज्ञान के आज के सोच से जोड़ल बा—दर्शन आ आत्मचिंतन के सरल बनावल।</p><p>अउरी जान खातिर देखीं: [[https://veda.ws]]</p>"
             }
           }
@@ -96,7 +96,7 @@
         "en": { "title": "{{Projects}} on hold" },
         "hi": { "title": "{{स्थगित}} परियोजनाएँ" },
         "fr": { "title": "Projets {{en pause}}" },
-        "ko": { "title": "{{रुका}} परियोजना" }
+        "bho": { "title": "{{रुका}} परियोजना" }
       },
       "items": [
         {
@@ -112,7 +112,7 @@
             "fr": {
               "text": "<p>{{ChaloPadhe.com}} était une initiative éducative indépendante visant à fournir des ressources pédagogiques structurées.</p><p>Le projet est actuellement en pause, l’accent étant désormais mis sur la recherche et l’écriture à long terme.</p>"
             },
-            "ko": {
+            "bho": {
               "text": "<p>{{ChaloPadhe.com}} एगो स्वतंत्र शिक्षा पहल रहल, जवन पढ़ाई सामग्री देवे खातिर बनावल गइल रहे।</p><p>ई परियोजना अभी रुका हुआ बा, आ ध्यान अब शोध आ लेखन पर बा।</p>"
             }
           }
@@ -127,7 +127,7 @@
         "en": { "title": "Personal {{Interests}}" },
         "hi": { "title": "व्यक्तिगत {{रुचियाँ}}" },
         "fr": { "title": "Intérêts {{personnels}}" },
-        "ko": { "title": "निजी {{रुचि}}" }
+        "bho": { "title": "निजी {{रुचि}}" }
       },
       "items": [
                 {
@@ -146,7 +146,7 @@
                 "title": "{{Écriture}} & Auteuriat",
                 "text": "Rédaction d’un livre via VEDA.ws explorant la philosophie védique, la conscience et la connaissance intemporelle."
                 },
-                "ko": {
+                "bho": {
                 "title": "{{लेखन}} आ किताब",
                 "text": "VEDA.ws के माध्यम से वैदिक दर्शन आ चेतना पर किताब लिखतानी।"
                 }
@@ -168,7 +168,7 @@
                 "title": "{{Philosophie}} & Conscience",
                 "text": "Intérêt profond pour les traditions philosophiques indiennes, l’étude de la conscience et la métaphysique."
                 },
-                "ko": {
+                "bho": {
                 "title": "{{दर्शन}} आ चेतना",
                 "text": "भारतीय दर्शन, चेतना आ गूढ़ ज्ञान में गहरी रुचि।"
                 }
@@ -190,7 +190,7 @@
                 "title": "{{Éducation}} & Conception pédagogique",
                 "text": "Conception de contenus éducatifs structurés, accessibles et orientés vers la compréhension profonde."
                 },
-                "ko": {
+                "bho": {
                 "title": "{{शिक्षा}} आ सीखाई",
                 "text": "सरल आ गहराई वाला पढ़ाई सामग्री बनावे में रुचि।"
                 }
@@ -212,7 +212,7 @@
                 "title": "{{Technologie}} & Pensée systémique",
                 "text": "Intérêt pour l’architecture logicielle, les systèmes évolutifs et la technologie comme outil de diffusion du savoir."
                 },
-                "ko": {
+                "bho": {
                 "title": "{{तकनीक}} आ सिस्टम",
                 "text": "सॉफ्टवेयर सिस्टम आ ज्ञान फैलावे खातिर तकनीक में रुचि।"
                 }
@@ -234,7 +234,7 @@
                 "title": "{{Langues}} & Accessibilité",
                 "text": "Promotion de l’accès multilingue au savoir, notamment via les langues indiennes."
                 },
-                "ko": {
+                "bho": {
                 "title": "{{भाषा}} आ पहुँच",
                 "text": "हिंदी-भोजपुरी में ज्ञान सब तक पहुँचावे में रुचि।"
                 }
@@ -248,7 +248,7 @@
             "en": { "title": "{{Languages}} & Knowledge Access", "text": "Making knowledge accessible through Hindi and Bhojpuri." },
             "hi": { "title": "{{भाषाएँ}} एवं सुलभता", "text": "हिंदी और भोजपुरी के माध्यम से ज्ञान को सुलभ बनाना।" },
             "fr": { "title": "{{Langues}} & Accessibilité", "text": "Rendre le savoir accessible via des langues locales." },
-            "ko": { "title": "{{भाषा}} आ पहुँच", "text": "हिंदी-भोजपुरी में ज्ञान पहुँचावल।" }
+            "bho": { "title": "{{भाषा}} आ पहुँच", "text": "हिंदी-भोजपुरी में ज्ञान पहुँचावल।" }
           }
         },
         {
@@ -258,7 +258,7 @@
             "en": { "title": "{{Technology}} & Systems", "text": "Backend systems, software architecture, and long-term thinking." },
             "hi": { "title": "{{प्रौद्योगिकी}} एवं सिस्टम", "text": "सॉफ्टवेयर संरचना और सिस्टम चिंतन।" },
             "fr": { "title": "{{Technologie}} & Systèmes", "text": "Architecture logicielle et réflexion systémique." },
-            "ko": { "title": "{{तकनीक}} आ सिस्टम", "text": "सॉफ्टवेयर सिस्टम आ दीर्घ सोच।" }
+            "bho": { "title": "{{तकनीक}} आ सिस्टम", "text": "सॉफ्टवेयर सिस्टम आ दीर्घ सोच।" }
           }
         }
       ]

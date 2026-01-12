@@ -43,10 +43,10 @@
             "Auteur en cours d’écriture"
             ]
         },
-        "ko": {
-            "localized_name": "최민석",
-            "localized_name_stylized": "{{최}}민석",
-            "status_message_available_for_freelance": "프리랜스 가능합니다!",
+        "bho": {
+            "localized_name": "रमा कांत सिंह",
+            "localized_name_stylized": "[[रमा कांत {{सिंह}}]]",
+            "status_message_available_for_freelance": "काम आ मस्ती! करत बानी!",
             "roles": [
             "उत्पादन अभियंता",
             "डिज़ाइन अभियंता",
@@ -54,8 +54,8 @@
             "स्वतंत्र ज्ञान शोधकर्ता",
             "लेखन में लागल लेखक"
             ],
-            "name_pronunciation_ipa": "/singh min-seok/",
-            "name_pronunciation_audio_url": "audio/korean-name-pronunciation.mp3"
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
         }
     }
 }

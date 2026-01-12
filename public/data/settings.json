@@ -37,6 +37,11 @@
             "id": "hi",
             "flagUrl": "images/flags/hi.png"
         },
+                {
+            "name": "भोजपुरी",
+            "id": "bho",
+            "flagUrl": "images/flags/hi.png"
+        },
         {
             "name": "Français",
             "id": "fr",
@@ -53,7 +58,7 @@
                 "en": {"name": "Dark Mode"},
                 "hi": {"name": "रात्रि रंग"},
                 "fr": {"name": "Mode Sombre"},
-                "ko": {"name": "다크 모드"}
+                "bho": {"name": "रात्रि रंग"}
             }
         },
         {
@@ -64,7 +69,7 @@
                 "en": {"name": "Light Mode"},
                 "hi": {"name": "दिन रंग"},
                 "fr": {"name": "Mode Clair"},
-                "ko": {"name": "라이트 모드"}
+                "bho": {"name": "दिन रंग"}
             }
         }
     ],
