@@ -41,11 +41,6 @@
             "name": "Français",
             "id": "fr",
             "flagUrl": "images/flags/fr.png"
-        },
-        {
-            "name": "한국어",
-            "id": "ko",
-            "flagUrl": "images/flags/ko.png"
         }
     ],
 

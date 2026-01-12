@@ -34,23 +34,23 @@
             "component": "ArticleTimeline",
             "locales": {},
             "settings": {
-                "order_items_by": "dateStart",
+                "order_items_by": "dateEnd",
                 "order_items_sort": "desc"
             },
             "items": [
                 {
                     "id": 1,
-                    "img": "images/pictures/timeline-place-udacity.png",
+                    "img": "images/pictures/timeline-place-UPBoard.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2014, "month": 1},
-                    "dateEnd": {"year": 2014, "month": 6},
+                    "dateStart": {"year": 1992, "month": 1},
+                    "dateEnd": {"year": 2005, "month": 5},
                     "locales": {
                         "en": {
-                            "title": "PHP Development {{Nanodegree}}",
-                            "province": "",
-                            "country": "Remote",
-                            "institution": "Udacity",
+                            "title": "Primary and Secondary {{Education}}",
+                            "province": "Varanasi",
+                            "country": "India",
+                            "institution": "Uttar Pradesh Board",
                             "text": "Successfully completed an intensive Nanodegree program with a strong emphasis on [[PHP development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
                             "list": [],
                             "tags": []
@@ -86,8 +86,8 @@
                     "img": "images/pictures/timeline-place-fgiet.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2016, "month": 1},
-                    "dateEnd": {"year": 2020, "month": 12},
+                    "dateStart": {"year": 2007, "month": 7},
+                    "dateEnd": {"year": 2011, "month": 6},
                     "locales": {
                         "en": {
                             "title": "{{Bachelor}} in Mechanical Engineering",
@@ -132,8 +132,8 @@
                     "img": "images/pictures/timeline-place-ECN.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 9},
-                    "dateEnd": {"year": 2022, "month": 6},
+                    "dateStart": {"year": 2013, "month": 9},
+                    "dateEnd": {"year": 2014, "month": 8},
                     "locales": {
                         "en": {
                             "title": "{{Master's Exchange}} in Mechanical Engineering",
@@ -206,8 +206,8 @@
                     "img": "images/pictures/timeline-place-IITD.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2022, "month": 9},
-                    "dateEnd": {"year": 2025, "month": 6},
+                    "dateStart": {"year": 2012, "month": 7},
+                    "dateEnd": {"year": 2015, "month": 5},
                     "locales": {
                         "en": {
                             "title": "{{M. Tech}} in Production Engineering",
