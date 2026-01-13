@@ -218,34 +218,12 @@
                 }
             }
             },
-            {
-            "id": 5,
-            "faIcon": "fa-solid fa-language",
-            "locales": {
-                "en": {
-                "title": "{{Languages}} & Accessibility",
-                "text": "Promoting multilingual knowledge access, especially through Hindi and Bhojpuri, to make learning inclusive."
-                },
-                "hi": {
-                "title": "{{भाषाएँ}} एवं सुलभता",
-                "text": "हिंदी और भोजपुरी के माध्यम से बहुभाषी ज्ञान को सुलभ बनाना।"
-                },
-                "fr": {
-                "title": "{{Langues}} & Accessibilité",
-                "text": "Promotion de l’accès multilingue au savoir, notamment via les langues indiennes."
-                },
-                "bho": {
-                "title": "{{भाषा}} आ पहुँच",
-                "text": "हिंदी-भोजपुरी में ज्ञान सब तक पहुँचावे में रुचि।"
-                }
-            }
-            },
         
         {
           "id": 6,
           "faIcon": "fa-solid fa-language",
           "locales": {
-            "en": { "title": "{{Languages}} & Knowledge Access", "text": "Making knowledge accessible through Hindi and Bhojpuri." },
+            "en": { "title": "{{Languages}} & Knowledge Access", "text": "Promoting multilingual knowledge access,Making knowledge accessible through multiple languages." },
             "hi": { "title": "{{भाषाएँ}} एवं सुलभता", "text": "हिंदी और भोजपुरी के माध्यम से ज्ञान को सुलभ बनाना।" },
             "fr": { "title": "{{Langues}} & Accessibilité", "text": "Rendre le savoir accessible via des langues locales." },
             "bho": { "title": "{{भाषा}} आ पहुँच", "text": "हिंदी-भोजपुरी में ज्ञान पहुँचावल।" }
@@ -255,7 +233,7 @@
           "id": 7,
           "faIcon": "fa-solid fa-laptop-code",
           "locales": {
-            "en": { "title": "{{Technology}} & Systems", "text": "Backend systems, software architecture, and long-term thinking." },
+            "en": { "title": "{{Technology}} & Systems", "text": "software architecture, and long-term thinking." },
             "hi": { "title": "{{प्रौद्योगिकी}} एवं सिस्टम", "text": "सॉफ्टवेयर संरचना और सिस्टम चिंतन।" },
             "fr": { "title": "{{Technologie}} & Systèmes", "text": "Architecture logicielle et réflexion systémique." },
             "bho": { "title": "{{तकनीक}} आ सिस्टम", "text": "सॉफ्टवेयर सिस्टम आ दीर्घ सोच।" }

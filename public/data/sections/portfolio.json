@@ -68,7 +68,7 @@
         {
           "id": 1,
           "categoryId": "category_research",
-          "img": "",
+          "img": "images/pictures/timeline-place-IITD.png",
           "faIcon": "fa-solid fa-microscope",
           "faIconColors": {"bg": "", "fill": ""},
           "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
@@ -99,7 +99,7 @@
         {
           "id": 2,
           "categoryId": "category_research",
-          "img": "",
+          "img": "images/pictures/timeline-place-ECN.png",
           "faIcon": "fa-solid fa-fire-flame-curved",
           "faIconColors": {"bg": "", "fill": ""},
           "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
@@ -130,7 +130,7 @@
         {
           "id": 3,
           "categoryId": "category_products",
-          "img": "",
+          "img": "images/pictures/timeline-place-Aquasense.png",
           "faIcon": "fa-solid fa-industry",
           "faIconColors": {"bg": "", "fill": ""},
           "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
@@ -161,7 +161,7 @@
         {
           "id": 4,
           "categoryId": "category_education",
-          "img": "",
+          "img": "images/pictures/timeline-place-AER.png",
           "faIcon": "fa-solid fa-users",
           "faIconColors": {"bg": "", "fill": ""},
           "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
@@ -192,7 +192,7 @@
         {
           "id": 5,
           "categoryId": "category_education",
-          "img": "",
+          "img": "images/pictures/timeline-place-VEDA.png",
           "faIcon": "fa-solid fa-book",
           "faIconColors": {"bg": "", "fill": ""},
           "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},

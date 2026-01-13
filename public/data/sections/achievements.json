@@ -45,7 +45,7 @@
       "items": [
         {
           "id": 1,
-          "img": "",
+          "img": "images/pictures/timeline-place-IITD.png",
           "faIcon": "fa-solid fa-graduation-cap",
           "faIconColors": {"bg": "", "fill": ""},
           "date": {"year": 2015, "month": 5},
@@ -72,7 +72,7 @@
 
         {
           "id": 2,
-          "img": "",
+          "img": "images/pictures/timeline-place-IITD.png",
           "faIcon": "fa-solid fa-flask",
           "faIconColors": {"bg": "", "fill": ""},
           "date": {"year": 2017, "month": 7},
@@ -99,7 +99,7 @@
 
         {
           "id": 3,
-          "img": "",
+          "img": "images/pictures/timeline-place-AER.png",
           "faIcon": "fa-solid fa-users",
           "faIconColors": {"bg": "", "fill": ""},
           "date": {"year": 2020, "month": 6},
@@ -126,7 +126,7 @@
 
         {
           "id": 4,
-          "img": "",
+          "img": "images/pictures/timeline-place-VEDA.png",
           "faIcon": "fa-solid fa-book",
           "faIconColors": {"bg": "", "fill": ""},
           "date": {"year": 2024, "month": 1},
