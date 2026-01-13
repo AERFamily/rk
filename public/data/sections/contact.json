@@ -33,9 +33,9 @@
       "id": 1,
       "component": "ArticleContactForm",
       "settings": {
-        "email_js_public_key": "xyz",
-        "email_js_service_id": "abc",
-        "email_js_template_id": "vdgh"
+        "email_js_public_key": "uChzAk2gkbeCPshmb",
+        "email_js_service_id": "service_2seg4f7",
+        "email_js_template_id": "template_xec6icn"
       },
       "locales": {
         "en": {
