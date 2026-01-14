@@ -1,207 +1,475 @@
-{
-    "title": {
+    {
+      "title": {
         "locales": {
-            "en": {
-                "title_short": "Skills",
-                "title_short_nav": "Skills",
-                "title_long_prefix": "Explore",
-                "title_long": "My {{Skill Set}}"
+          "en": {
+            "title_short": "Skills",
+            "title_short_nav": "Skills",
+            "title_long_prefix": "Explore",
+            "title_long": "My {{Skill Set}}"
+          },
+          "hi": {
+            "title_short": "कौशल",
+            "title_short_nav": "कौशल",
+            "title_long_prefix": "अन्वेषण करें",
+            "title_long": "मेरे {{कौशल}}"
+          },
+          "fr": {
+            "title_short": "Compétences",
+            "title_short_nav": "Compétences",
+            "title_long_prefix": "Explorer",
+            "title_long": "Mes {{Compétences}}"
+          },
+          "bho": {
+            "title_short": "कौशल",
+            "title_short_nav": "कौशल",
+            "title_long_prefix": "देखीं",
+            "title_long": "हमार {{कौशल}}"
+          }
+        }
+      },
+
+      "articles": [
+
+        {
+          "id": 1,
+          "component": "ArticleCards",
+          "locales": {},
+          "settings": {
+            "order_items_by": "id",
+            "order_items_sort": "asc"
+          },
+          "items": [
+
+            {
+              "id": 1,
+              "faIcon": "fa-solid fa-industry",
+              "locales": {
+                "en": {
+                  "title": "Engineering Design & Product Realization",
+                  "text": "End-to-end mechanical design and product realization covering concept development, CAD modeling, simulation-driven optimization, prototyping, testing, and manufacturing handover."
+                },
+                "hi": {
+                  "title": "इंजीनियरिंग डिज़ाइन एवं उत्पाद विकास",
+                  "text": "कॉन्सेप्ट डेवलपमेंट से लेकर CAD मॉडलिंग, सिमुलेशन-आधारित अनुकूलन, प्रोटोटाइपिंग, परीक्षण एवं विनिर्माण तक पूर्ण उत्पाद विकास।"
+                },
+                "fr": {
+                  "title": "Conception en ingénierie et réalisation produit",
+                  "text": "Conception mécanique de bout en bout incluant modélisation CAO, optimisation par simulation, prototypage, essais et industrialisation."
+                },
+                "bho": {
+                  "title": "इंजीनियरिंग डिज़ाइन आ प्रोडक्ट डेवलपमेंट",
+                  "text": "कॉन्सेप्ट से CAD मॉडलिंग, सिमुलेशन, प्रोटोटाइप, टेस्टिंग आ मैन्युफैक्चरिंग तक पूरा प्रोडक्ट डेवलपमेंट।"
+                }
+              }
             },
-            "hi": {
-                "title_short": "कौशल",
-                "title_short_nav": "कौशल",
-                "title_long_prefix": "अन्वेषण करें",
-                "title_long": "मेरे {{कौशल}}"
+
+            {
+              "id": 2,
+              "faIcon": "fa-solid fa-microscope",
+              "locales": {
+                "en": {
+                  "title": "Research, Experimental Mechanics & Applied R&D",
+                  "text": "Applied research in composite materials, impact mechanics, high strain-rate behavior, welding science, and translational R&D for defense and medical applications."
+                },
+                "hi": {
+                  "title": "अनुसंधान, प्रयोगात्मक यांत्रिकी एवं अनुप्रयुक्त आरएंडडी",
+                  "text": "कंपोज़िट सामग्री, इम्पैक्ट मैकेनिक्स, उच्च स्ट्रेन-रेट व्यवहार, वेल्डिंग विज्ञान एवं रक्षा व मेडिकल अनुप्रयोगों हेतु अनुप्रयुक्त अनुसंधान।"
+                },
+                "fr": {
+                  "title": "Recherche expérimentale et R&D appliquée",
+                  "text": "Recherche appliquée en composites, mécanique des impacts, comportement à haut taux de déformation et R&D translationnelle."
+                },
+                "bho": {
+                  "title": "रिसर्च, एक्सपेरिमेंटल मैकेनिक्स आ आरएंडडी",
+                  "text": "कंपोज़िट, इम्पैक्ट मैकेनिक्स, हाई-स्ट्रेन रेट व्यवहार आ मेडिकल-डिफेंस उपयोग खातिर लागू रिसर्च।"
+                }
+              }
             },
-            "fr": {
-                "title_short": "Compétences",
-                "title_short_nav": "Compétences",
-                "title_long_prefix": "Explorer",
-                "title_long": "Mes {{Compétences}}"
+
+            {
+              "id": 3,
+              "faIcon": "fa-solid fa-shield-halved",
+              "locales": {
+                "en": {
+                  "title": "Defense, Armor Systems & Ballistic Materials",
+                  "text": "Hands-on experience in body armor R&D, ballistic material testing, UHMWPE-based systems, and defense-grade validation and performance evaluation."
+                },
+                "hi": {
+                  "title": "रक्षा, आर्मर सिस्टम एवं बैलिस्टिक सामग्री",
+                  "text": "बॉडी आर्मर आरएंडडी, बैलिस्टिक सामग्री परीक्षण, UHMWPE-आधारित प्रणालियाँ एवं रक्षा-स्तरीय सत्यापन का व्यावहारिक अनुभव।"
+                },
+                "fr": {
+                  "title": "Défense, systèmes de protection et matériaux balistiques",
+                  "text": "Expérience pratique en R&D d’armures, essais balistiques et évaluation de performances pour applications de défense."
+                },
+                "bho": {
+                  "title": "डिफेंस, आर्मर सिस्टम आ बैलिस्टिक सामग्री",
+                  "text": "बॉडी आर्मर आरएंडडी, बैलिस्टिक टेस्टिंग आ UHMWPE सिस्टम पर व्यावहारिक काम।"
+                }
+              }
             },
-            "bho": {
-                "title_short": "कौशल",
-                "title_short_nav": "कौशल",
-                "title_long_prefix": "देखीं",
-                "title_long": "हमार {{कौशल}}"
+
+            {
+              "id": 4,
+              "faIcon": "fa-solid fa-heart-pulse",
+              "locales": {
+                "en": {
+                  "title": "Medical Device Design & Biomedical Engineering",
+                  "text": "Design and development of medical devices including breast biopsy markers, dental implants, orthopedic screws, with focus on precision, materials, manufacturability, and clinical usability."
+                },
+                "hi": {
+                  "title": "मेडिकल डिवाइस डिज़ाइन एवं बायोमेडिकल इंजीनियरिंग",
+                  "text": "ब्रेस्ट बायोप्सी मार्कर, डेंटल इम्प्लांट एवं मेडिकल स्क्रू जैसे उपकरणों का सटीक डिज़ाइन एवं विकास।"
+                },
+                "fr": {
+                  "title": "Dispositifs médicaux et ingénierie biomédicale",
+                  "text": "Conception de dispositifs médicaux axée sur la précision, les matériaux, la fabricabilité et l’usage clinique."
+                },
+                "bho": {
+                  "title": "मेडिकल डिवाइस डिज़ाइन आ बायोमेडिकल इंजीनियरिंग",
+                  "text": "ब्रेस्ट बायोप्सी मार्कर, डेंटल इम्प्लांट आ मेडिकल स्क्रू के डिज़ाइन आ डेवलपमेंट।"
+                }
+              }
+            },
+
+            {
+              "id": 5,
+              "faIcon": "fa-solid fa-book-open",
+              "locales": {
+                "en": {
+                  "title": "Scientific Writing, Knowledge Systems & Philosophy",
+                  "text": "Authoring and knowledge creation at the intersection of modern science, engineering, Indian philosophy, and Vedic conceptual frameworks."
+                },
+                "hi": {
+                  "title": "वैज्ञानिक लेखन, ज्ञान प्रणाली एवं दर्शन",
+                  "text": "आधुनिक विज्ञान, इंजीनियरिंग एवं भारतीय दर्शन को जोड़ने वाला ज्ञान सृजन एवं लेखन।"
+                },
+                "fr": {
+                  "title": "Écriture scientifique et philosophie des connaissances",
+                  "text": "Création de contenu reliant science moderne, ingénierie et philosophie indienne."
+                },
+                "bho": {
+                  "title": "वैज्ञानिक लेखन आ ज्ञान दर्शन",
+                  "text": "आधुनिक विज्ञान आ भारतीय दर्शन के जोड़त लेखन आ ज्ञान सृजन।"
+                }
+              }
             }
-        }
-    },
 
- "articles": [
-  {
-    "id": 1,
-    "component": "ArticleCards",
-    "locales": {},
-    "settings": {
-      "order_items_by": "id",
-      "order_items_sort": "asc"
-    },
-    "items": [
-      {
-        "id": 1,
-        "img": "",
-        "faIcon": "fa-solid fa-industry",
-        "faIconColors": {"bg": "", "fill": ""},
-        "date": {"year": null, "month": null},
-        "link": {"href": "", "tooltipString": ""},
-        "locales": {
-          "en": {
-            "title": "Engineering {{Design}} & Product Development",
-            "text": "Mechanical system and product development with emphasis on manufacturability, reliability, and real-world applications."
-          },
-          "fr": {
-            "title": "Conception {{Mécanique}} & Développement de Produits",
-            "text": "Conception et développement de systèmes et produits mécaniques avec un accent sur la fabricabilité, la fiabilité et les applications industrielles réelles."
-          },
-          "hi": {
-            "title": "यांत्रिक {{डिज़ाइन}} एवं उत्पाद विकास",
-            "text": "निर्माणयोग्यता, विश्वसनीयता एवं वास्तविक औद्योगिक अनुप्रयोगों पर केंद्रित यांत्रिक प्रणालियों एवं उत्पादों का विकास।"
-          },
-          "bho": {
-            "title": "इंजीनियरिंग {{डिज़ाइन}} आ प्रोडक्ट डेवलपमेंट",
-            "text": "निर्माण योग्य, भरोसेमंद आ असली औद्योगिक उपयोग खातिर यांत्रिक सिस्टम आ प्रोडक्ट के विकास।"
-          }
-        }
-      },
+          ]
+        },
 
-      {
-        "id": 2,
-        "img": "",
-        "faIcon": "fa-solid fa-flask",
-        "faIconColors": {"bg": "", "fill": ""},
-        "date": {"year": null, "month": null},
-        "link": {"href": "", "tooltipString": ""},
-        "locales": {
-          "en": {
-            "title": "{{Research}} & Applied R&D",
-            "text": "Applied research in composites, high strain-rate materials, advanced welding processes, and medical device development."
+        {
+          "id": 31,
+          "component": "ArticleSkills",
+          "locales": {
+            "en": { "title": "Computer & Software Skills" },
+            "hi": { "title": "कंप्यूटर एवं सॉफ़्टवेयर कौशल" },
+            "fr": { "title": "Compétences informatiques et logicielles" },
+            "bho": { "title": "कंप्यूटर आ सॉफ्टवेयर कौशल" }
           },
-          "fr": {
-            "title": "{{Recherche}} & R&D Appliquée",
-            "text": "Recherche appliquée sur les composites, les matériaux à haut taux de déformation, les procédés de soudage avancés et les dispositifs médicaux."
+          "settings": {
+            "max_items_per_row": 3,
+            "order_items_by": "percentage",
+            "order_items_sort": "desc"
           },
-          "hi": {
-            "title": "{{अनुसंधान}} एवं अनुप्रयुक्त आरएंडडी",
-            "text": "कंपोज़िट पदार्थ, उच्च स्ट्रेन रेट सामग्री, उन्नत वेल्डिंग प्रक्रियाओं एवं मेडिकल डिवाइस विकास में अनुप्रयुक्त अनुसंधान।"
-          },
-          "bho": {
-            "title": "{{रिसर्च}} आ एप्लाइड आर एंड डी",
-            "text": "कंपोज़िट, हाई स्ट्रेन रेट सामग्री, एडवांस वेल्डिंग प्रक्रिया आ मेडिकल डिवाइस पर लागू रिसर्च।"
-          }
-        }
-      },
+          "items": [
+            {
+              "id": 1,
+              "percentage": 95,
+              "img": "images/pictures/skills-solidworks.png",
+              "faIcon": "fa-solid fa-cube",
+              "locales": {
+                "en": { "title": "SolidWorks", "text": "Advanced part, assembly, surfacing, and design-for-manufacturing workflows." },
+                "hi": { "title": "SolidWorks", "text": "उन्नत पार्ट, असेंबली, सरफेसिंग एवं DFM डिज़ाइन।" },
+                "fr": { "title": "SolidWorks", "text": "Conception avancée de pièces, assemblages et surfaces." },
+                "bho": { "title": "SolidWorks", "text": "एडवांस पार्ट आ असेंबली डिज़ाइन।" }
+              }
+            },
+            {
+              "id": 2,
+              "percentage": 92,
+              "img": "images/pictures/skills-ansys.png",
+              "faIcon": "fa-solid fa-chart-area",
+              "locales": {
+                "en": { "title": "ANSYS (FEA)", "text": "Structural, static, dynamic, and durability simulations." },
+                "hi": { "title": "ANSYS (FEA)", "text": "संरचनात्मक, स्थैतिक एवं टिकाऊपन सिमुलेशन।" },
+                "fr": { "title": "ANSYS (FEA)", "text": "Analyses structurelles et dynamiques par éléments finis." },
+                "bho": { "title": "ANSYS (FEA)", "text": "स्ट्रक्चरल आ ड्यूरैबिलिटी सिमुलेशन।" }
+              }
+            },
+            {
+              "id": 3,
+              "percentage": 88,
+              "img": "images/pictures/skills-Autocad.png",
+              "faIcon": "fa-solid fa-laptop-code",
+              "locales": {
+                "en": { "title": "AutoCAD & Drafting", "text": "2D drafting, layouts, manufacturing drawings." },
+                "hi": { "title": "AutoCAD एवं ड्राफ्टिंग", "text": "2D ड्राफ्टिंग एवं मैन्युफैक्चरिंग ड्रॉइंग।" },
+                "fr": { "title": "AutoCAD & dessin technique", "text": "Plans 2D et dessins de fabrication." },
+                "bho": { "title": "AutoCAD", "text": "2D ड्रॉइंग आ ड्राफ्टिंग।" }
+              }
+            },
+            {
+              "id": 4,
+              "percentage": 85,
+              "faIcon": "fa-solid fa-code",
+              "locales": {
+                "en": { "title": "MATLAB & Numerical Computing", "text": "Data analysis, numerical methods, simulation scripting." },
+                "hi": { "title": "MATLAB एवं संख्यात्मक गणना", "text": "डाटा विश्लेषण एवं संख्यात्मक सिमुलेशन।" },
+                "fr": { "title": "MATLAB & calcul numérique", "text": "Analyse numérique et scripts de simulation." },
+                "bho": { "title": "MATLAB", "text": "न्यूमेरिकल एनालिसिस आ सिमुलेशन।" }
+              }
+            },
+            {
+              "id": 5,
+              "percentage": 80,
+              "faIcon": "fa-solid fa-terminal",
+              "locales": {
+                "en": { "title": "C/C++ & CNC Programming", "text": "Basic C/C++ and CNC programming for manufacturing systems." },
+                "hi": { "title": "C/C++ एवं CNC प्रोग्रामिंग", "text": "बेसिक C/C++ एवं CNC प्रोग्रामिंग।" },
+                "fr": { "title": "C/C++ & CNC", "text": "Programmation C/C++ et CNC de base." },
+                "bho": { "title": "C/C++ आ CNC", "text": "बेसिक C/C++ आ CNC प्रोग्रामिंग।" }
+              }
+            }
+          ]
+        },
 
-      {
-        "id": 3,
-        "img": "",
-        "faIcon": "fa-solid fa-microscope",
-        "faIconColors": {"bg": "", "fill": ""},
-        "date": {"year": null, "month": null},
-        "link": {"href": "", "tooltipString": ""},
-        "locales": {
-          "en": {
-            "title": "{{Composites}} & Advanced Materials",
-            "text": "Specialization in composite materials, STF-treated UHMWPE, and FRP–metal joining technologies."
+        {
+          "id": 32,
+          "component": "ArticleSkills",
+          "locales": {
+            "en": { "title": "Engineering Design & Product Development" },
+            "hi": { "title": "इंजीनियरिंग डिज़ाइन एवं उत्पाद विकास" },
+            "fr": { "title": "Conception mécanique et développement produit" },
+            "bho": { "title": "इंजीनियरिंग डिज़ाइन आ प्रोडक्ट डेवलपमेंट" }
           },
-          "fr": {
-            "title": "{{Composites}} & Matériaux Avancés",
-            "text": "Spécialisation en matériaux composites, UHMWPE traité STF et technologies d’assemblage FRP–métal."
+          "settings": {
+            "max_items_per_row": 3,
+            "order_items_by": "percentage",
+            "order_items_sort": "desc"
           },
-          "hi": {
-            "title": "{{कंपोज़िट्स}} एवं उन्नत सामग्री",
-            "text": "कंपोज़िट सामग्री, STF-ट्रीटेड UHMWPE तथा FRP–धातु संयोजन तकनीकों में विशेषज्ञता।"
-          },
-          "bho": {
-            "title": "{{कंपोज़िट}} आ एडवांस सामग्री",
-            "text": "कंपोज़िट सामग्री, STF ट्रीटेड UHMWPE आ FRP–धातु जोड़ तकनीक में विशेषज्ञता।"
-          }
-        }
-      },
+          "items": [
+            {
+              "id": 1,
+              "percentage": 95,
+              "faIcon": "fa-solid fa-drafting-compass",
+              "locales": {
+                "en": { "title": "Mechanical System Design", "text": "Concept-to-detail mechanical system design." },
+                "hi": { "title": "यांत्रिक सिस्टम डिज़ाइन", "text": "कॉन्सेप्ट से डिटेल डिज़ाइन तक।" },
+                "fr": { "title": "Conception mécanique", "text": "Conception de systèmes mécaniques complets." },
+                "bho": { "title": "मैकेनिकल सिस्टम डिज़ाइन", "text": "कॉन्सेप्ट से डिटेल डिज़ाइन।" }
+              }
+            },
+            {
+              "id": 2,
+              "percentage": 92,
+              "faIcon": "fa-solid fa-cube",
+              "locales": {
+                "en": { "title": "Simulation-Driven Design", "text": "Design optimization using FEA and simulations." },
+                "hi": { "title": "सिमुलेशन आधारित डिज़ाइन", "text": "FEA आधारित डिज़ाइन अनुकूलन।" },
+                "fr": { "title": "Conception guidée par simulation", "text": "Optimisation par simulation." },
+                "bho": { "title": "सिमुलेशन आधारित डिज़ाइन", "text": "FEA से डिज़ाइन सुधार।" }
+              }
+            },
+            {
+              "id": 3,
+              "percentage": 90,
+              "faIcon": "fa-solid fa-ruler-combined",
+              "locales": {
+                "en": { "title": "Tolerance & GD&T", "text": "Tolerance stack-up and manufacturability analysis." },
+                "hi": { "title": "टॉलरेंस एवं GD&T", "text": "टॉलरेंस विश्लेषण एवं GD&T।" },
+                "fr": { "title": "Tolérances & GD&T", "text": "Analyse des tolérances." },
+                "bho": { "title": "टॉलरेंस एनालिसिस", "text": "टॉलरेंस आ GD&T।" }
+              }
+            },
+            {
+              "id": 4,
+              "percentage": 88,
+              "faIcon": "fa-solid fa-print",
+              "locales": {
+                "en": { "title": "Prototyping & Validation", "text": "3D printing, functional testing, validation." },
+                "hi": { "title": "प्रोटोटाइपिंग एवं परीक्षण", "text": "3D प्रिंटिंग एवं कार्यात्मक परीक्षण।" },
+                "fr": { "title": "Prototypage & validation", "text": "Impression 3D et essais fonctionnels." },
+                "bho": { "title": "प्रोटोटाइपिंग", "text": "3D प्रिंटिंग आ टेस्टिंग।" }
+              }
+            }
+          ]
+        },
 
-      {
-        "id": 4,
-        "img": "",
-        "faIcon": "fa-solid fa-book",
-        "faIconColors": {"bg": "", "fill": ""},
-        "date": {"year": null, "month": null},
-        "link": {"href": "", "tooltipString": ""},
-        "locales": {
-          "en": {
-            "title": "{{Author}} & Knowledge Creator",
-            "text": "Currently authoring a book integrating engineering research, industrial R&D, innovation, and entrepreneurship."
+        {
+          "id": 33,
+          "component": "ArticleSkills",
+          "locales": {
+            "en": { "title": "Manufacturing & Production Skills" },
+            "hi": { "title": "विनिर्माण एवं उत्पादन कौशल" },
+            "fr": { "title": "Fabrication et production" },
+            "bho": { "title": "विनिर्माण आ प्रोडक्शन कौशल" }
           },
-          "fr": {
-            "title": "{{Auteur}} & Créateur de Connaissances",
-            "text": "Auteur d’un livre en cours combinant recherche en ingénierie, R&D industrielle, innovation et entrepreneuriat."
+          "settings": {
+            "max_items_per_row": 3,
+            "order_items_by": "percentage",
+            "order_items_sort": "desc"
           },
-          "hi": {
-            "title": "{{लेखक}} एवं ज्ञान सृजनकर्ता",
-            "text": "इंजीनियरिंग अनुसंधान, औद्योगिक आरएंडडी, नवाचार एवं उद्यमिता को एकीकृत करते हुए पुस्तक लेखन कार्य प्रगति पर।"
+          "items": [
+            {
+              "id": 1,
+              "percentage": 92,
+              "faIcon": "fa-solid fa-gears",
+              "locales": {
+                "en": { "title": "CNC Machining", "text": "CNC turning, milling, process planning." },
+                "hi": { "title": "CNC मशीनिंग", "text": "CNC टर्निंग एवं मिलिंग।" },
+                "fr": { "title": "Usinage CNC", "text": "Tournage et fraisage CNC." },
+                "bho": { "title": "CNC मशीनिंग", "text": "CNC टर्निंग आ मिलिंग।" }
+              }
+            },
+            {
+              "id": 2,
+              "percentage": 90,
+              "faIcon": "fa-solid fa-industry",
+              "locales": {
+                "en": { "title": "Molding & Tooling", "text": "Injection molding concepts, tooling design." },
+                "hi": { "title": "मोल्डिंग एवं टूलिंग", "text": "मोल्ड डिज़ाइन एवं टूलिंग।" },
+                "fr": { "title": "Moulage & outillage", "text": "Conception de moules et outillage." },
+                "bho": { "title": "मोल्डिंग आ टूलिंग", "text": "मोल्ड डिज़ाइन आ टूलिंग।" }
+              }
+            },
+            {
+              "id": 3,
+              "percentage": 88,
+              "faIcon": "fa-solid fa-fire-flame-curved",
+              "locales": {
+                "en": { "title": "Welding Processes", "text": "Advanced welding and joining technologies." },
+                "hi": { "title": "वेल्डिंग प्रक्रियाएँ", "text": "उन्नत वेल्डिंग तकनीक।" },
+                "fr": { "title": "Procédés de soudage", "text": "Soudage avancé." },
+                "bho": { "title": "वेल्डिंग प्रक्रिया", "text": "एडवांस वेल्डिंग।" }
+              }
+            },
+            {
+              "id": 4,
+              "percentage": 85,
+              "faIcon": "fa-solid fa-clipboard-check",
+              "locales": {
+                "en": { "title": "Quality & Validation", "text": "Testing, inspection, and validation." },
+                "hi": { "title": "गुणवत्ता एवं सत्यापन", "text": "परीक्षण एवं निरीक्षण।" },
+                "fr": { "title": "Qualité & validation", "text": "Contrôle et validation." },
+                "bho": { "title": "क्वालिटी आ वैलिडेशन", "text": "टेस्टिंग आ जांच।" }
+              }
+            }
+          ]
+        },
+
+        {
+          "id": 34,
+          "component": "ArticleSkills",
+          "locales": {
+            "en": { "title": "Research, Medical & Defense Skills" },
+            "hi": { "title": "अनुसंधान, मेडिकल एवं रक्षा कौशल" },
+            "fr": { "title": "Recherche, médical et défense" },
+            "bho": { "title": "रिसर्च, मेडिकल आ डिफेंस कौशल" }
           },
-          "bho": {
-            "title": "{{लेखक}} आ ज्ञान सृजनकर्ता",
-            "text": "इंजीनियरिंग रिसर्च, इंडस्ट्रियल आर एंड डी, नवाचार आ उद्यमिता पर आधारित किताब लिखे के काम चल रहल बा।"
-          }
-        }
-      }
-    ]
-  },
+          "settings": {
+            "max_items_per_row": 3,
+            "order_items_by": "percentage",
+            "order_items_sort": "desc"
+          },
+          "items": [
+            {
+              "id": 1,
+              "percentage": 95,
+              "faIcon": "fa-solid fa-microscope",
+              "locales": {
+                "en": { "title": "Composite Materials Research", "text": "UHMWPE, STF-treated composites, impact testing." },
+                "hi": { "title": "कंपोज़िट सामग्री अनुसंधान", "text": "UHMWPE एवं STF-ट्रीटेड कंपोज़िट।" },
+                "fr": { "title": "Recherche sur composites", "text": "Composites UHMWPE et STF." },
+                "bho": { "title": "कंपोज़िट रिसर्च", "text": "UHMWPE आ STF कंपोज़िट।" }
+              }
+            },
+            {
+              "id": 2,
+              "percentage": 90,
+              "faIcon": "fa-solid fa-shield-halved",
+              "locales": {
+                "en": { "title": "Ballistics & Armor Systems", "text": "Body armor materials and ballistic evaluation." },
+                "hi": { "title": "बैलिस्टिक्स एवं आर्मर सिस्टम", "text": "बॉडी आर्मर एवं बैलिस्टिक परीक्षण।" },
+                "fr": { "title": "Balistique & armures", "text": "Matériaux de protection balistique." },
+                "bho": { "title": "बैलिस्टिक आ आर्मर", "text": "बॉडी आर्मर टेस्टिंग।" }
+              }
+            },
+            {
+              "id": 3,
+              "percentage": 88,
+              "faIcon": "fa-solid fa-heart-pulse",
+              "locales": {
+                "en": { "title": "Medical Device Engineering", "text": "Biopsy markers, implants, surgical components." },
+                "hi": { "title": "मेडिकल डिवाइस इंजीनियरिंग", "text": "बायोप्सी मार्कर एवं मेडिकल इम्प्लांट।" },
+                "fr": { "title": "Ingénierie médicale", "text": "Dispositifs médicaux implantables." },
+                "bho": { "title": "मेडिकल इंजीनियरिंग", "text": "मेडिकल डिवाइस डिज़ाइन।" }
+              }
+            }
+          ]
+        },
 
-  {
-    "id": 2,
-    "component": "ArticleSkills",
-    "locales": {
-      "en": {"title": "Core Engineering & Research Skills"},
-      "fr": {"title": "Compétences Clés en Ingénierie & Recherche"},
-      "hi": {"title": "मुख्य इंजीनियरिंग एवं अनुसंधान कौशल"},
-      "bho": {"title": "मुख्य इंजीनियरिंग आ रिसर्च कौशल"}
-    },
-    "settings": {
-      "max_items_per_row": 3,
-      "max_rows_collapse_threshold": 6,
-      "order_items_by": "percentage",
-      "order_items_sort": "desc",
-      "round_icons": false
-    },
-    "items": [
-      {
-        "id": 1,
-        "faIcon": "fa-solid fa-cubes",
-        "percentage": 95,
-        "locales": {
-          "en": {"title": "Composite Materials", "text": "Design, testing, and characterization of advanced composite materials."},
-          "fr": {"title": "Matériaux Composites", "text": "Conception, essais et caractérisation de matériaux composites avancés."},
-          "hi": {"title": "कंपोज़िट सामग्री", "text": "उन्नत कंपोज़िट सामग्रियों का डिज़ाइन, परीक्षण एवं विश्लेषण।"},
-          "bho": {"title": "कंपोज़िट सामग्री", "text": "उन्नत कंपोज़िट सामग्री के डिज़ाइन, टेस्ट आ विश्लेषण।"}
-        }
-      },
-
-      {
-        "id": 2,
-        "faIcon": "fa-solid fa-fire-flame-curved",
-        "percentage": 90,
-        "locales": {
-          "en": {"title": "Welding & Joining Processes", "text": "Advanced welding and FRP–metal joining technologies."},
-          "fr": {"title": "Procédés de Soudage", "text": "Procédés avancés de soudage et d’assemblage FRP–métal."},
-          "hi": {"title": "वेल्डिंग एवं संयोजन", "text": "उन्नत वेल्डिंग एवं FRP–धातु संयोजन तकनीक।"},
-          "bho": {"title": "वेल्डिंग आ जोड़ प्रक्रिया", "text": "एडवांस वेल्डिंग आ FRP–धातु जोड़ तकनीक।"}
-        }
-      },
-
-      {
-        "id": 3,
-        "faIcon": "fa-solid fa-gears",
-        "percentage": 90,
-        "locales": {
-          "en": {"title": "Manufacturing & Automation", "text": "CNC machining, automation, rapid prototyping, and tooling."},
-          "fr": {"title": "Fabrication & Automatisation", "text": "Usinage CNC, automatisation, prototypage rapide et outillage."},
-          "hi": {"title": "विनिर्माण एवं स्वचालन", "text": "सीएनसी मशीनिंग, स्वचालन, रैपिड प्रोटोटाइपिंग एवं टूलिंग।"},
-          "bho": {"title": "विनिर्माण आ स्वचालन", "text": "सीएनसी मशीनिंग, ऑटोमेशन, रैपिड प्रोटोटाइपिंग आ टूलिंग।"}
-        }
-      }
-    ]
-  },
+        {
+          "id": 35,
+          "component": "ArticleSkills",
+          "locales": {
+            "en": { "title": "Management, Leadership & Communication" },
+            "hi": { "title": "प्रबंधन, नेतृत्व एवं संप्रेषण" },
+            "fr": { "title": "Gestion, leadership et communication" },
+            "bho": { "title": "प्रबंधन आ नेतृत्व कौशल" }
+          },
+          "settings": {
+            "max_items_per_row": 3,
+            "order_items_by": "percentage",
+            "order_items_sort": "desc"
+          },
+          "items": [
+            {
+              "id": 1,
+              "percentage": 95,
+              "faIcon": "fa-solid fa-book-open",
+              "locales": {
+                "en": { "title": "Reading & Knowledge Synthesis", "text": "Scientific, technical, philosophical literature." },
+                "hi": { "title": "पठन एवं ज्ञान संश्लेषण", "text": "वैज्ञानिक एवं दार्शनिक अध्ययन।" },
+                "fr": { "title": "Lecture & synthèse", "text": "Lecture scientifique et philosophique." },
+                "bho": { "title": "पढ़ाई आ ज्ञान", "text": "वैज्ञानिक आ दार्शनिक अध्ययन।" }
+              }
+            },
+            {
+              "id": 2,
+              "percentage": 95,
+              "faIcon": "fa-solid fa-pen-nib",
+              "locales": {
+                "en": { "title": "Writing & Authorship", "text": "Research papers, technical documentation, books." },
+                "hi": { "title": "लेखन एवं लेखनकला", "text": "शोध पत्र, तकनीकी लेखन एवं पुस्तक लेखन।" },
+                "fr": { "title": "Rédaction & écriture", "text": "Publications scientifiques et ouvrages." },
+                "bho": { "title": "लिखाई आ लेखन", "text": "रिसर्च पेपर आ किताब लेखन।" }
+              }
+            },
+            {
+              "id": 3,
+              "percentage": 92,
+              "faIcon": "fa-solid fa-users",
+              "locales": {
+                "en": { "title": "Leadership & Team Building", "text": "Leading R&D labs, startups, academic teams." },
+                "hi": { "title": "नेतृत्व एवं टीम निर्माण", "text": "आरएंडडी, स्टार्टअप एवं अकादमिक टीम नेतृत्व।" },
+                "fr": { "title": "Leadership & équipes", "text": "Direction d’équipes R&D et projets." },
+                "bho": { "title": "नेतृत्व आ टीम निर्माण", "text": "टीम लीडरशिप आ संगठन निर्माण।" }
+              }
+            },
+            {
+              "id": 4,
+              "percentage": 88,
+              "faIcon": "fa-solid fa-briefcase",
+              "locales": {
+                "en": { "title": "Project & Organizational Management", "text": "Planning, coordination, execution, and delivery." },
+                "hi": { "title": "परियोजना एवं संगठन प्रबंधन", "text": "योजना, समन्वय एवं निष्पादन।" },
+                "fr": { "title": "Gestion de projet", "text": "Planification et coordination." },
+                "bho": { "title": "प्रोजेक्ट प्रबंधन", "text": "योजना आ निष्पादन।" }
+              }
+            }
+          ]
+        },
 
         {
             "id": 4,

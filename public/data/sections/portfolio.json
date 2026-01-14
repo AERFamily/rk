@@ -35,31 +35,35 @@
       "locales": {
         "en": {
           "category_all": "All",
-          "category_research": "Research",
-          "category_products": "Products",
-          "category_education": "Education"
+          "category_research": "Research & Development",
+          "category_products": "Products & Engineering",
+          "category_education": "Education & Thought Leadership"
         },
         "fr": {
           "category_all": "Tout",
-          "category_research": "Recherche",
-          "category_products": "Produits",
-          "category_education": "Éducation"
+          "category_research": "Recherche et Développement",
+          "category_products": "Produits & Ingénierie",
+          "category_education": "Éducation & Leadership"
         },
         "hi": {
           "category_all": "सभी",
-          "category_research": "अनुसंधान",
-          "category_products": "उत्पाद",
-          "category_education": "शिक्षा"
+          "category_research": "अनुसंधान एवं विकास",
+          "category_products": "उत्पाद एवं इंजीनियरिंग",
+          "category_education": "शिक्षा एवं विचार नेतृत्व"
         },
         "bho": {
           "category_all": "सब",
-          "category_research": "रिसर्च",
-          "category_products": "प्रोडक्ट",
-          "category_education": "शिक्षा"
+          "category_research": "अनुसंधान आ विकास",
+          "category_products": "प्रोडक्ट आ इंजीनियरिंग",
+          "category_education": "शिक्षा आ विचार नेतृत्व"
         }
       },
       "settings": {
-        "categorize_by": ["category_research", "category_products", "category_education"],
+        "categorize_by": [
+          "category_research",
+          "category_products",
+          "category_education"
+        ],
         "order_items_by": "id",
         "order_items_sort": "asc"
       },
@@ -70,28 +74,28 @@
           "categoryId": "category_research",
           "img": "images/pictures/timeline-place-IITD.png",
           "faIcon": "fa-solid fa-microscope",
-          "faIconColors": {"bg": "", "fill": ""},
-          "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
           "locales": {
             "en": {
-              "title": "High Strain-Rate Composite Research",
-              "text": "Experimental research on STF-treated UHMWPE and composite materials, focusing on high strain-rate behavior and performance characterization.",
-              "tags": ["Composites", "Research", "Materials"]
+              "title": "High Strain-Rate Composite & Armor Materials Research",
+              "text": "Advanced experimental research on STF-treated UHMWPE and high-performance composite materials, focused on impact mechanics, ballistic relevance, and high strain-rate behavior for protective applications.",
+              "tags": ["Composites", "Ballistics", "Impact Mechanics", "R&D"]
             },
             "fr": {
-              "title": "Recherche sur les composites à haut taux de déformation",
-              "text": "Recherche expérimentale sur les composites UHMWPE traités STF et leur comportement à haut taux de déformation.",
-              "tags": ["Composites", "Recherche"]
+              "title": "Recherche sur les composites et matériaux de protection à haut taux de déformation",
+              "text": "Recherche expérimentale avancée sur les composites UHMWPE traités STF, axée sur la mécanique d’impact, le comportement balistique et les applications de protection.",
+              "tags": ["Composites", "Balistique", "Recherche"]
             },
             "hi": {
-              "title": "उच्च स्ट्रेन रेट कंपोज़िट अनुसंधान",
-              "text": "STF-ट्रीटेड UHMWPE एवं कंपोज़िट सामग्रियों के उच्च स्ट्रेन रेट व्यवहार पर प्रयोगात्मक अनुसंधान।",
-              "tags": ["कंपोज़िट", "अनुसंधान"]
+              "title": "उच्च स्ट्रेन-रेट कंपोज़िट एवं आर्मर सामग्री अनुसंधान",
+              "text": "STF-ट्रीटेड UHMWPE एवं उच्च-प्रदर्शन कंपोज़िट सामग्रियों पर उन्नत प्रयोगात्मक अनुसंधान, जिसमें प्रभाव यांत्रिकी, बैलिस्टिक उपयोगिता एवं उच्च स्ट्रेन-रेट व्यवहार शामिल है।",
+              "tags": ["कंपोज़िट", "बैलिस्टिक", "अनुसंधान"]
             },
             "bho": {
-              "title": "हाई स्ट्रेन रेट कंपोज़िट रिसर्च",
-              "text": "STF-ट्रीटेड UHMWPE आ कंपोज़िट सामग्री के हाई स्ट्रेन रेट व्यवहार पर रिसर्च।",
-              "tags": ["कंपोज़िट", "रिसर्च"]
+              "title": "हाई स्ट्रेन-रेट कंपोज़िट आ आर्मर सामग्री रिसर्च",
+              "text": "STF-ट्रीटेड UHMWPE आ उन्नत कंपोज़िट सामग्री पर गहिरा प्रयोगात्मक रिसर्च, जेहमें इम्पैक्ट मैकेनिक्स आ बैलिस्टिक उपयोग शामिल बा।",
+              "tags": ["कंपोज़िट", "बैलिस्टिक", "रिसर्च"]
             }
           }
         },
@@ -100,29 +104,29 @@
           "id": 2,
           "categoryId": "category_research",
           "img": "images/pictures/timeline-place-ECN.png",
-          "faIcon": "fa-solid fa-fire-flame-curved",
-          "faIconColors": {"bg": "", "fill": ""},
-          "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
+          "faIcon": "fa-solid fa-bolt",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
           "locales": {
             "en": {
-              "title": "Hybrid Magnetic Pulse Spot Welding",
-              "text": "Development of a hybrid electromagnetic pulse spot welding process for joining FRP composites with metals.",
-              "tags": ["Welding", "FRP", "Manufacturing"]
+              "title": "Hybrid Magnetic Pulse Welding for FRP–Metal Joining",
+              "text": "Development and numerical-experimental validation of a hybrid electromagnetic pulse spot welding process enabling high-integrity joining of FRP composites with metallic substrates.",
+              "tags": ["Welding", "FRP", "Advanced Manufacturing"]
             },
             "fr": {
-              "title": "Soudage par impulsion magnétique hybride",
-              "text": "Développement d’un procédé hybride de soudage par impulsion magnétique pour l’assemblage FRP-métal.",
-              "tags": ["Soudage", "FRP"]
+              "title": "Soudage hybride par impulsion magnétique FRP–Métal",
+              "text": "Développement et validation numérique-expérimentale d’un procédé de soudage par impulsion magnétique pour l’assemblage FRP-métal.",
+              "tags": ["Soudage", "Fabrication avancée"]
             },
             "hi": {
-              "title": "हाइब्रिड मैग्नेटिक पल्स स्पॉट वेल्डिंग",
-              "text": "FRP कंपोज़िट एवं धातु संयोजन हेतु हाइब्रिड मैग्नेटिक पल्स वेल्डिंग प्रक्रिया का विकास।",
-              "tags": ["वेल्डिंग", "FRP"]
+              "title": "FRP–धातु संयोजन हेतु हाइब्रिड मैग्नेटिक पल्स वेल्डिंग",
+              "text": "FRP कंपोज़िट एवं धातुओं के उच्च-अखंडता संयोजन हेतु हाइब्रिड इलेक्ट्रोमैग्नेटिक पल्स स्पॉट वेल्डिंग प्रक्रिया का विकास।",
+              "tags": ["वेल्डिंग", "निर्माण"]
             },
             "bho": {
-              "title": "हाइब्रिड मैग्नेटिक पल्स वेल्डिंग",
-              "text": "FRP आ धातु जोड़ खातिर हाइब्रिड मैग्नेटिक पल्स वेल्डिंग प्रक्रिया।",
-              "tags": ["वेल्डिंग", "FRP"]
+              "title": "FRP–धातु जोड़ खातिर हाइब्रिड मैग्नेटिक पल्स वेल्डिंग",
+              "text": "FRP आ धातु के मजबूत जोड़ खातिर हाइब्रिड इलेक्ट्रोमैग्नेटिक पल्स वेल्डिंग प्रक्रिया के विकास।",
+              "tags": ["वेल्डिंग", "मैन्युफैक्चरिंग"]
             }
           }
         },
@@ -132,28 +136,28 @@
           "categoryId": "category_products",
           "img": "images/pictures/timeline-place-Aquasense.png",
           "faIcon": "fa-solid fa-industry",
-          "faIconColors": {"bg": "", "fill": ""},
-          "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
           "locales": {
             "en": {
-              "title": "Industrial Product Development",
-              "text": "Mechanical design and product development for industrial and technology-driven applications, including manufacturability and system integration.",
-              "tags": ["Product Development", "Design"]
+              "title": "IoT-Enabled Industrial Product Design & Manufacturing",
+              "text": "End-to-end mechanical design and development of rugged, manufacturable products for industrial and IoT applications, including enclosure design, prototyping, and system integration.",
+              "tags": ["Product Design", "IoT", "Manufacturing"]
             },
             "fr": {
-              "title": "Développement de produits industriels",
-              "text": "Conception mécanique et développement de produits pour des applications industrielles.",
-              "tags": ["Produit", "Conception"]
+              "title": "Conception et fabrication de produits industriels IoT",
+              "text": "Conception mécanique complète de produits industriels robustes intégrant des systèmes IoT et prêts pour la fabrication.",
+              "tags": ["Produit", "IoT", "Fabrication"]
             },
             "hi": {
-              "title": "औद्योगिक उत्पाद विकास",
-              "text": "औद्योगिक अनुप्रयोगों हेतु यांत्रिक डिज़ाइन एवं उत्पाद विकास।",
-              "tags": ["उत्पाद विकास"]
+              "title": "आईओटी-आधारित औद्योगिक उत्पाद डिज़ाइन एवं निर्माण",
+              "text": "औद्योगिक एवं आईओटी अनुप्रयोगों हेतु मजबूत, विनिर्माण-उपयुक्त उत्पादों का एंड-टू-एंड यांत्रिक डिज़ाइन एवं विकास।",
+              "tags": ["उत्पाद डिज़ाइन", "आईओटी"]
             },
             "bho": {
-              "title": "इंडस्ट्रियल प्रोडक्ट डेवलपमेंट",
-              "text": "इंडस्ट्रियल उपयोग खातिर यांत्रिक डिज़ाइन आ प्रोडक्ट डेवलपमेंट।",
-              "tags": ["प्रोडक्ट"]
+              "title": "आईओटी आधारित इंडस्ट्रियल प्रोडक्ट डिज़ाइन",
+              "text": "इंडस्ट्रियल आ आईओटी उपयोग खातिर मजबूत आ मैन्युफैक्चरिंग-रेडी प्रोडक्ट डिज़ाइन आ डेवलपमेंट।",
+              "tags": ["प्रोडक्ट", "आईओटी"]
             }
           }
         },
@@ -163,62 +167,129 @@
           "categoryId": "category_education",
           "img": "images/pictures/timeline-place-AER.png",
           "faIcon": "fa-solid fa-users",
-          "faIconColors": {"bg": "", "fill": ""},
-          "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
           "locales": {
             "en": {
-              "title": "Educational Reform Initiatives",
-              "text": "Leadership in educational reform initiatives aimed at innovation, systemic improvement, and learner-centric models.",
-              "tags": ["Education", "Leadership"]
+              "title": "Educational Innovation & Systemic Reform",
+              "text": "Founded and led large-scale educational reform initiatives focused on learner-centric models, digital platforms, and professional-led online education.",
+              "tags": ["Education", "Leadership", "EdTech"]
             },
             "fr": {
-              "title": "Initiatives de réforme éducative",
-              "text": "Leadership dans des initiatives de réforme éducative et d’innovation pédagogique.",
-              "tags": ["Éducation"]
+              "title": "Innovation éducative et réforme systémique",
+              "text": "Leadership dans des initiatives de réforme éducative axées sur des modèles centrés sur l’apprenant et des plateformes numériques.",
+              "tags": ["Éducation", "Leadership"]
             },
             "hi": {
-              "title": "शैक्षिक सुधार पहल",
-              "text": "शिक्षा में नवाचार एवं प्रणालीगत सुधार हेतु नेतृत्व।",
-              "tags": ["शिक्षा"]
+              "title": "शैक्षिक नवाचार एवं प्रणालीगत सुधार",
+              "text": "शिक्षार्थी-केंद्रित मॉडल, डिजिटल प्लेटफ़ॉर्म एवं पेशेवर-आधारित ऑनलाइन शिक्षा पर केंद्रित शैक्षिक सुधार पहलों का नेतृत्व।",
+              "tags": ["शिक्षा", "नेतृत्व"]
             },
             "bho": {
-              "title": "शैक्षिक सुधार पहल",
-              "text": "शिक्षा सुधार आ नवाचार खातिर नेतृत्व।",
-              "tags": ["शिक्षा"]
+              "title": "शैक्षिक नवाचार आ प्रणालीगत सुधार",
+              "text": "शिक्षार्थी-केंद्रित मॉडल आ डिजिटल प्लेटफ़ॉर्म पर आधारित शिक्षा सुधार पहल के नेतृत्व।",
+              "tags": ["शिक्षा", "नेतृत्व"]
+            }
+          }
+        },
+        {
+          "id": 5,
+          "categoryId": "category_products",
+          "img": "images/pictures/timeline-place-Topline.png",
+          "faIcon": "fa-solid fa-cube",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
+          "locales": {
+            "en": {
+              "title": "Industrial Water Tank Design, Simulation & Validation",
+              "text": "Designed and validated multiple large-capacity water storage tanks using SolidWorks and ANSYS. Performed structural, load, and durability simulations to optimize geometry, wall thickness, and manufacturability prior to production.",
+              "tags": ["SolidWorks", "ANSYS", "Simulation", "Product Design", "Manufacturing"]
+            },
+            "fr": {
+              "title": "Conception et simulation de réservoirs d’eau industriels",
+              "text": "Conception et validation de plusieurs réservoirs de stockage d’eau de grande capacité à l’aide de SolidWorks et ANSYS. Réalisation d’analyses structurelles, de charge et de durabilité pour optimiser la géométrie et la fabricabilité.",
+              "tags": ["SolidWorks", "ANSYS", "Simulation", "Fabrication"]
+            },
+            "hi": {
+              "title": "औद्योगिक जल टैंक डिज़ाइन, सिमुलेशन एवं परीक्षण",
+              "text": "SolidWorks एवं ANSYS का उपयोग करके बड़े क्षमता वाले जल भंडारण टैंकों का डिज़ाइन एवं सत्यापन किया। संरचनात्मक, लोड एवं टिकाऊपन सिमुलेशन के माध्यम से ज्योमेट्री, दीवार मोटाई एवं निर्माण-उपयुक्तता का अनुकूलन किया।",
+              "tags": ["सॉलिडवर्क्स", "ANSYS", "सिमुलेशन", "उत्पाद डिज़ाइन"]
+            },
+            "bho": {
+              "title": "इंडस्ट्रियल वाटर टैंक डिज़ाइन आ सिमुलेशन",
+              "text": "SolidWorks आ ANSYS के उपयोग से बड़े क्षमता वाला पानी टैंक के डिज़ाइन आ सत्यापन कइल। संरचनात्मक, लोड आ टिकाऊपन सिमुलेशन से ज्योमेट्री आ मैन्युफैक्चरिंग के अनुकूलन कइल।",
+              "tags": ["SolidWorks", "ANSYS", "सिमुलेशन", "डिज़ाइन"]
             }
           }
         },
 
         {
-          "id": 5,
-          "categoryId": "category_education",
-          "img": "images/pictures/timeline-place-VEDA.png",
-          "faIcon": "fa-solid fa-book",
-          "faIconColors": {"bg": "", "fill": ""},
-          "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
+          "id": 6,
+          "categoryId": "category_products",
+          "img": "images/pictures/timeline-place-AIIMS.png",
+          "faIcon": "fa-solid fa-heart-pulse",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
           "locales": {
             "en": {
-              "title": "Book Authorship (In Progress)",
-              "text": "Authoring a book integrating engineering research, industrial R&D experience, innovation, and education.",
-              "tags": ["Author", "Book"]
+              "title": "Medical Device Design & Translational R&D",
+              "text": "Designed and developed multiple medical devices including breast biopsy markers, dental implants, and orthopedic screws. Focused on precision design, material selection, manufacturability, and clinical usability in collaboration with medical institutions.",
+              "tags": ["Medical Devices", "Biomedical Design", "R&D", "Healthcare"]
             },
             "fr": {
-              "title": "Livre en cours d’écriture",
-              "text": "Rédaction d’un ouvrage reliant recherche en ingénierie, industrie et innovation.",
-              "tags": ["Auteur"]
+              "title": "Conception de dispositifs médicaux et R&D translationnelle",
+              "text": "Conception et développement de dispositifs médicaux comprenant des marqueurs de biopsie mammaire, des implants dentaires et des vis orthopédiques. Accent mis sur la précision, le choix des matériaux, la fabricabilité et l’usage clinique.",
+              "tags": ["Dispositifs médicaux", "Biomédical", "R&D"]
             },
             "hi": {
-              "title": "पुस्तक लेखन (प्रगति पर)",
-              "text": "इंजीनियरिंग अनुसंधान, उद्योग अनुभव एवं नवाचार पर आधारित पुस्तक लेखन।",
-              "tags": ["लेखक"]
+              "title": "मेडिकल डिवाइस डिज़ाइन एवं ट्रांसलेशनल आरएंडडी",
+              "text": "ब्रेस्ट बायोप्सी मार्कर, डेंटल इम्प्लांट एवं ऑर्थोपेडिक स्क्रू सहित विभिन्न मेडिकल डिवाइस का डिज़ाइन एवं विकास किया। सटीक डिज़ाइन, सामग्री चयन, निर्माण-उपयुक्तता एवं क्लिनिकल उपयोगिता पर विशेष ध्यान दिया।",
+              "tags": ["मेडिकल डिवाइस", "बायोमेडिकल", "आरएंडडी"]
             },
             "bho": {
-              "title": "किताब लेखन (चल रहल बा)",
-              "text": "इंजीनियरिंग रिसर्च, इंडस्ट्री अनुभव आ नवाचार पर आधारित किताब लिखल जा रहल बा।",
-              "tags": ["लेखक"]
+              "title": "मेडिकल डिवाइस डिज़ाइन आ आरएंडडी",
+              "text": "ब्रेस्ट बायोप्सी मार्कर, डेंटल इम्प्लांट आ मेडिकल स्क्रू समेत कई गो मेडिकल डिवाइस के डिज़ाइन आ डेवलपमेंट कइल। सटीक डिज़ाइन, सामग्री चयन आ क्लिनिकल उपयोग पर जोर रहल।",
+              "tags": ["मेडिकल डिवाइस", "बायोमेडिकल", "रिसर्च"]
+            }
+          }
+        },
+
+        {
+          "id": 7,
+          "categoryId": "category_education",
+          "img": "images/pictures/timeline-place-VEDA.png",
+          "faIcon": "fa-solid fa-book-open",
+          "faIconColors": { "bg": "", "fill": "" },
+          "preview": {
+            "links": [],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "Science, Indian Philosophy & Vedic Principles — Book (In Progress)",
+              "text": "Authoring a book that integrates modern science and engineering with Indian philosophical thought. The work explores how Vedic principles and classical Indian knowledge systems can be used as conceptual frameworks to explain scientific phenomena, fostering a dialogue between ancient wisdom and contemporary science.",
+              "tags": ["Author", "Science", "Indian Philosophy", "Vedic Knowledge"]
+            },
+            "fr": {
+              "title": "Science, philosophie indienne et principes védiques — Livre (en cours)",
+              "text": "Rédaction d’un ouvrage reliant la science moderne et l’ingénierie à la philosophie indienne. Le livre explore l’utilisation des principes védiques et des systèmes de connaissance indiens classiques comme cadres conceptuels pour expliquer des phénomènes scientifiques.",
+              "tags": ["Auteur", "Science", "Philosophie indienne", "Savoirs védiques"]
+            },
+            "hi": {
+              "title": "विज्ञान, भारतीय दर्शन एवं वैदिक सिद्धांत — पुस्तक (प्रगति पर)",
+              "text": "आधुनिक विज्ञान एवं इंजीनियरिंग को भारतीय दर्शन से जोड़ने वाली पुस्तक का लेखन। इस कृति में वैदिक सिद्धांतों एवं प्राचीन भारतीय ज्ञान परंपराओं को वैज्ञानिक घटनाओं की व्याख्या हेतु वैचारिक ढांचे के रूप में प्रस्तुत किया गया है।",
+              "tags": ["लेखक", "विज्ञान", "भारतीय दर्शन", "वैदिक ज्ञान"]
+            },
+            "bho": {
+              "title": "विज्ञान, भारतीय दर्शन आ वैदिक सिद्धांत — किताब (चल रहल बा)",
+              "text": "आधुनिक विज्ञान आ इंजीनियरिंग के भारतीय दर्शन से जोड़त किताब लिखल जा रहल बा। एह में वैदिक सिद्धांत आ प्राचीन भारतीय ज्ञान परंपरा के इस्तेमाल वैज्ञानिक घटनन के समझावे खातिर वैचारिक ढांचा के रूप में कइल जा रहल बा।",
+              "tags": ["लेखक", "विज्ञान", "भारतीय दर्शन", "वैदिक ज्ञान"]
             }
           }
         }
+
 
       ]
     }

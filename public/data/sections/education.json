@@ -110,6 +110,110 @@
                     }
                 },
                 {
+                    "id": 1.5,
+                    "img": "images/pictures/timeline-place-DLW.png",
+                    "faIcon": "",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "dateStart": { "year": 2010, "month": 6 },
+                    "dateEnd": { "year": 2010, "month": 7 },
+                    "locales": {
+                        "en": {
+                            "title": "Vocational Training in Railway Engine Manufacturing",
+                            "province": "Varanasi",
+                            "country": "India",
+                            "institution": "Diesel Locomotive Works (DLW), Indian Railways",
+                            "text": "Completed intensive vocational training at Diesel Locomotive Works (DLW), Varanasi, gaining comprehensive hands-on exposure to the complete manufacturing lifecycle of diesel railway locomotives. The training covered end-to-end production, assembly, inspection, and maintenance processes, providing practical understanding of large-scale industrial manufacturing systems.",
+                            "list": [
+                                "Wheel, axle, and bogie manufacturing and assembly",
+                                "Engine block machining and crankshaft assembly",
+                                "Diesel engine erection and alignment",
+                                "Transmission, traction motor, and braking systems",
+                                "Plant maintenance and material handling systems",
+                                "Quality control, inspection, and metallurgical testing",
+                                "Understanding of full locomotive assembly from wheel to engine"
+                            ],
+                            "tags": [
+                                "Vocational Training",
+                                "Indian Railways",
+                                "Diesel Locomotive",
+                                "Manufacturing",
+                                "Heavy Engineering",
+                                "Industrial Training"
+                            ]
+                        },
+                        "hi": {
+                            "title": "रेलवे इंजन निर्माण में व्यावसायिक प्रशिक्षण",
+                            "province": "वाराणसी",
+                            "country": "भारत",
+                            "institution": "डीज़ल लोकोमोटिव वर्क्स (DLW), भारतीय रेल",
+                            "text": "डीज़ल लोकोमोटिव वर्क्स (DLW), वाराणसी में गहन व्यावसायिक प्रशिक्षण पूर्ण किया, जिसमें डीज़ल रेलवे लोकोमोटिव के संपूर्ण निर्माण चक्र का व्यावहारिक अनुभव प्राप्त हुआ। प्रशिक्षण के दौरान व्हील से लेकर इंजन तक, उत्पादन, असेंबली, निरीक्षण एवं रखरखाव प्रक्रियाओं की गहरी समझ विकसित हुई।",
+                            "list": [
+                                "व्हील, एक्सल एवं बोगी निर्माण एवं असेंबली",
+                                "इंजन ब्लॉक मशीनिंग एवं क्रैंकशाफ्ट असेंबली",
+                                "डीज़ल इंजन एरेक्शन एवं एलाइनमेंट",
+                                "ट्रांसमिशन, ट्रैक्शन मोटर एवं ब्रेकिंग सिस्टम",
+                                "प्लांट मेंटेनेंस एवं सामग्री प्रबंधन",
+                                "गुणवत्ता नियंत्रण, निरीक्षण एवं धातुकर्म परीक्षण",
+                                "व्हील से इंजन तक संपूर्ण लोकोमोटिव निर्माण की समझ"
+                            ],
+                            "tags": [
+                                "व्यावसायिक प्रशिक्षण",
+                                "भारतीय रेल",
+                                "डीज़ल लोकोमोटिव",
+                                "विनिर्माण",
+                                "हेवी इंजीनियरिंग"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Formation Professionnelle en Fabrication de Locomotives Ferroviaires",
+                            "province": "Varanasi",
+                            "country": "Inde",
+                            "institution": "Diesel Locomotive Works (DLW), Chemins de fer indiens",
+                            "text": "A suivi une formation professionnelle approfondie à Diesel Locomotive Works (DLW), Varanasi, avec une exposition pratique complète au cycle de fabrication des locomotives diesel ferroviaires. La formation a couvert l’ensemble des processus de production, d’assemblage, d’inspection et de maintenance à l’échelle industrielle.",
+                            "list": [
+                                "Fabrication et assemblage des roues, essieux et bogies",
+                                "Usinage du bloc moteur et assemblage du vilebrequin",
+                                "Montage et alignement des moteurs diesel",
+                                "Systèmes de transmission, moteurs de traction et freinage",
+                                "Maintenance des installations industrielles",
+                                "Contrôle qualité et essais métallurgiques",
+                                "Compréhension complète de l’assemblage locomotive, de la roue au moteur"
+                            ],
+                            "tags": [
+                                "Formation professionnelle",
+                                "Chemins de fer indiens",
+                                "Locomotive diesel",
+                                "Fabrication industrielle",
+                                "Génie mécanique"
+                            ]
+                        },
+                        "bho": {
+                            "title": "रेलवे इंजन बनावे के व्यावसायिक प्रशिक्षण",
+                            "province": "वाराणसी",
+                            "country": "भारत",
+                            "institution": "डीज़ल लोकोमोटिव वर्क्स (DLW), भारतीय रेल",
+                            "text": "डीज़ल लोकोमोटिव वर्क्स (DLW), वाराणसी में व्यावसायिक प्रशिक्षण लिहल गइल, जवना में डीज़ल रेलवे इंजन के पूरा निर्माण प्रक्रिया के व्यावहारिक अनुभव मिलल। एह प्रशिक्षण में व्हील से लेके इंजन तक, असेंबली, निरीक्षण आ रखरखाव के गहिरा ज्ञान हासिल भइल।",
+                            "list": [
+                                "व्हील, एक्सल आ बोगी बनावे आ जोड़ाई",
+                                "इंजन ब्लॉक मशीनिंग आ क्रैंकशाफ्ट असेंबली",
+                                "डीज़ल इंजन एरेक्शन आ एलाइनमेंट",
+                                "ट्रांसमिशन, ट्रैक्शन मोटर आ ब्रेकिंग सिस्टम",
+                                "प्लांट मेंटेनेंस आ मटेरियल हैंडलिंग",
+                                "क्वालिटी कंट्रोल आ मेटल टेस्टिंग",
+                                "व्हील से इंजन तक पूरा लोकोमोटिव निर्माण समझ"
+                            ],
+                            "tags": [
+                                "व्यावसायिक प्रशिक्षण",
+                                "भारतीय रेल",
+                                "डीज़ल इंजन",
+                                "मैन्युफैक्चरिंग",
+                                "हेवी इंजीनियरिंग"
+                            ]
+                        }
+                    }
+                },
+
+                {
                     "id": 2,
                     "img": "images/pictures/timeline-place-fgiet.png",
                     "faIcon": "",
@@ -118,7 +222,7 @@
                     "dateEnd": {"year": 2011, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Bachelor of Technology}} in Mechanical Engineering",
+                            "title": "Bachelor of Technology in Mechanical Engineering",
                             "province": "Rae Bareli",
                             "country": "India",
                             "institution": "Feroze Gandhi Institute of Engineering and Technology (FGIET)",
@@ -175,7 +279,7 @@
                             "tags": ["Licence", "Génie mécanique", "Fabrication", "Conception"]
                         },
                         "bho": {
-                            "title": "{{मैकेनिकल इंजीनियरिंग}} में {{बैचलर ऑफ टेक्नोलॉजी}}",
+                            "title": "मैकेनिकल इंजीनियरिंग में बैचलर ऑफ टेक्नोलॉजी",
                             "province": "रायबरेली",
                             "country": "भारत",
                             "institution": "फेरोज़ गांधी इंस्टिट्यूट ऑफ इंजीनियरिंग एंड टेक्नोलॉजी (FGIET)",

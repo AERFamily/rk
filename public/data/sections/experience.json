@@ -52,40 +52,56 @@
               "province": "New Delhi",
               "country": "India",
               "institution": "Indian Institute of Technology Delhi / AIIMS",
-              "text": "Conducted applied research in composite materials, high strain-rate behavior, and medical device development as part of an institutional R&D project with AIIMS.",
+              "text": "Conducted high-impact institutional R&D focused on composite materials, impact mechanics, high-strain rate testing, and medical device development in collaboration with AIIMS.",
               "list": [
-                "Composite materials research",
-                "High strain-rate material behavior",
-                "Medical device R&D"
+                "Led experimental research into high strain-rate behavior of advanced composites",
+                "Designed custom test fixtures & instrumentation for dynamic characterization",
+                "Developed prototype biomedical devices based on research insights",
+                "Collaborated with multi-institutional teams for publication"
               ],
-              "tags": ["Research", "Composites", "Medical Devices"]
-            },
-            "fr": {
-              "title": "Chercheur Scientifique",
-              "province": "New Delhi",
-              "country": "Inde",
-              "institution": "Indian Institute of Technology Delhi / AIIMS",
-              "text": "Recherche appliquée sur les matériaux composites, le comportement à haut taux de déformation et le développement de dispositifs médicaux.",
-              "list": [],
-              "tags": []
+              "tags": ["Research", "Composites", "High Strain", "Medical Devices"]
             },
             "hi": {
               "title": "अनुसंधान वैज्ञानिक",
               "province": "नई दिल्ली",
               "country": "भारत",
               "institution": "भारतीय प्रौद्योगिकी संस्थान दिल्ली / एम्स",
-              "text": "कंपोज़िट सामग्री, उच्च स्ट्रेन रेट व्यवहार एवं मेडिकल डिवाइस विकास पर अनुप्रयुक्त अनुसंधान।",
-              "list": [],
-              "tags": []
+              "text": "एम्स के सहयोग से कंपोज़िट सामग्री, प्रभाव यांत्रिकी, उच्च स्ट्रेन-रेट परीक्षण एवं मेडिकल डिवाइस रणनीतियों पर उच्च-प्रभाव संस्थागत अनुसंधान किया।",
+              "list": [
+                "उन्नत कंपोज़िट्स के उच्च स्ट्रेन-रेट व्यवहार पर प्रयोगात्मक अनुसंधान",
+                "डायनेमिक परीक्षण हेतु कस्टम टेस्ट फिक्स्चर एवं उपकरण डिज़ाइन",
+                "अनुसंधान निष्कर्षों पर आधारित बायोमेडिकल डिवाइस प्रोटोटाइप विकसित किए",
+                "प्रकाशन एवं लेखन हेतु बहु-संस्थागत सहयोग"
+              ],
+              "tags": ["अनुसंधान", "कंपोज़िट्स", "उच्च स्ट्रेन", "मेडिकल डिवाइस"]
+            },
+            "fr": {
+              "title": "Chercheur Scientifique",
+              "province": "New Delhi",
+              "country": "Inde",
+              "institution": "Indian Institute of Technology Delhi / AIIMS",
+              "text": "Réalisation de travaux de R&D institutionnels à fort impact portant sur les matériaux composites, la mécanique des impacts, les essais à haut taux de déformation et le développement de dispositifs médicaux en collaboration avec l’AIIMS.",
+              "list": [
+                "Recherche expérimentale sur le comportement à haut taux de déformation des composites avancés",
+                "Conception de bancs d’essais et d’instrumentation pour la caractérisation dynamique",
+                "Développement de prototypes de dispositifs biomédicaux",
+                "Collaboration inter-institutionnelle pour publications"
+              ],
+              "tags": ["Recherche", "Composites", "Impact", "Dispositifs médicaux"]
             },
             "bho": {
-              "title": "रिसर्च वैज्ञानिक",
+              "title": "रिसर्च वैज्ञानिक (रिसर्च एसोसिएट)",
               "province": "नई दिल्ली",
               "country": "भारत",
               "institution": "आईआईटी दिल्ली / एम्स",
-              "text": "कंपोज़िट सामग्री, हाई स्ट्रेन रेट व्यवहार आ मेडिकल डिवाइस पर लागू रिसर्च।",
-              "list": [],
-              "tags": []
+              "text": "एम्स के सहयोग से कंपोज़िट सामग्री, इम्पैक्ट मैकेनिक्स, हाई-स्ट्रेन रेट टेस्टिंग आ मेडिकल डिवाइस डेवलपमेंट पर उच्च-स्तरीय संस्थागत रिसर्च कइल।",
+              "list": [
+                "उन्नत कंपोज़िट पर हाई-स्ट्रेन रेट व्यवहार के प्रयोगात्मक अध्ययन",
+                "डायनेमिक परीक्षण खातिर कस्टम टेस्ट फिक्स्चर आ उपकरण डिज़ाइन",
+                "रिसर्च आधारित बायोमेडिकल डिवाइस प्रोटोटाइप बनावल",
+                "प्रकाशन खातिर बहु-संस्थागत सहयोग"
+              ],
+              "tags": ["रिसर्च", "कंपोज़िट", "हाई स्ट्रेन", "मेडिकल"]
             }
           }
         },
@@ -100,43 +116,60 @@
           "locales": {
             "en": {
               "title": "Co-Founder & Lead Mechanical Designer",
-              "province": "New Delhi",
+              "province": "Noida / New Delhi",
               "country": "India",
               "institution": "AquaSense Private Limited",
-              "text": "Led mechanical design and product development with emphasis on manufacturability and applied innovation.",
-              "list": [],
-              "tags": ["Product Development", "Design"]
-            },
-            "fr": {
-              "title": "Co-fondateur & Responsable Conception Mécanique",
-              "province": "New Delhi",
-              "country": "Inde",
-              "institution": "AquaSense Private Limited",
-              "text": "Direction de la conception mécanique et du développement produit.",
-              "list": [],
-              "tags": []
+              "text": "Co-led product development for next-generation IoT-enabled groundwater level detectors. Focused on mechanical design, manufacturability, and integration of sensor hardware into field-ready modules.",
+              "list": [
+                "Designed rugged mechanical enclosures for IoT water level devices",
+                "Created multiple 3d printed prototype",
+                "Worked on moulding designes"
+              ],
+              "tags": ["IoT", "Water Monitoring", "Mechanical Design"]
             },
             "hi": {
               "title": "सह-संस्थापक एवं प्रमुख यांत्रिक डिज़ाइनर",
-              "province": "नई दिल्ली",
+              "province": "नोएडा / नई दिल्ली",
               "country": "भारत",
               "institution": "एक्वासेंस प्राइवेट लिमिटेड",
-              "text": "यांत्रिक डिज़ाइन एवं उत्पाद विकास का नेतृत्व।",
-              "list": [],
-              "tags": []
+              "text": "आईओटी-आधारित भू-जल एवं जल गुणवत्ता सेंसरों के लिए अगली पीढ़ी के उत्पाद विकास का सह-नेतृत्व किया। यांत्रिक डिज़ाइन, विनिर्माण-उपयुक्तता तथा फील्ड-रेडी मॉड्यूल में हार्डवेयर इंटीग्रेशन पर विशेष ध्यान दिया।",
+              "list": [
+                "आईओटी जल-स्तर उपकरणों हेतु मजबूत यांत्रिक एनक्लोज़र डिज़ाइन",
+                "कई 3डी प्रिंटेड प्रोटोटाइप तैयार किए",
+                "मोल्डिंग डिज़ाइनों पर कार्य किया"
+              ],
+              "tags": ["IoT", "जल निगरानी", "यांत्रिक डिज़ाइन"]
+            },
+            "fr": {
+              "title": "Co-fondateur & Responsable Conception Mécanique",
+              "province": "Noida / New Delhi",
+              "country": "Inde",
+              "institution": "AquaSense Private Limited",
+              "text": "Co-direction du développement de produits pour des capteurs intelligents de niveau et de qualité de l’eau basés sur l’IoT. Responsable de la conception mécanique, de l’industrialisation et de l’intégration matérielle pour une utilisation terrain.",
+              "list": [
+                "Conception d’enveloppes mécaniques robustes pour capteurs IoT",
+                "Création de plusieurs prototypes imprimés en 3D",
+                "Travail sur la conception de moules"
+              ],
+              "tags": ["IoT", "Eau", "Conception mécanique"]
             },
             "bho": {
               "title": "सह-संस्थापक आ प्रमुख यांत्रिक डिज़ाइनर",
-              "province": "नई दिल्ली",
+              "province": "नोएडा / नई दिल्ली",
               "country": "भारत",
               "institution": "एक्वासेंस प्राइवेट लिमिटेड",
-              "text": "यांत्रिक डिज़ाइन आ प्रोडक्ट डेवलपमेंट के नेतृत्व।",
-              "list": [],
-              "tags": []
+              "text": "आईओटी आधारित भू-जल आ जल गुणवत्ता सेंसर खातिर अगली पीढ़ी के प्रोडक्ट डेवलपमेंट के सह-नेतृत्व कइल। यांत्रिक डिज़ाइन, मैन्युफैक्चरिंग आ फील्ड-रेडी हार्डवेयर इंटीग्रेशन पर जोर रहल।",
+              "list": [
+                "आईओटी जल-स्तर उपकरण खातिर मजबूत यांत्रिक ढांचा डिज़ाइन",
+                "कई गो 3डी प्रिंटेड प्रोटोटाइप बनावल",
+                "मोल्डिंग डिज़ाइन पर काम कइल"
+              ],
+              "tags": ["IoT", "जल निगरानी", "डिज़ाइन"]
             }
           }
-        },
+        }
 
+       ,
         {
           "id": 3,
           "img": "images/pictures/timeline-place-Honeywell.png",
@@ -146,40 +179,60 @@
           "dateEnd": {"year": 2020, "month": 2},
           "locales": {
             "en": {
-              "title": "R&D Engineer II",
+              "title": "Lab Head & R&D Engineer II",
               "province": "Gurgaon",
               "country": "India",
               "institution": "Honeywell",
-              "text": "Worked on industrial R&D projects involving product development, testing, and engineering analysis.",
-              "list": [],
-              "tags": ["R&D", "Engineering"]
+              "text": "Headed Honeywell’s Armor R&D laboratory focusing on body armor material innovation, ballistic performance testing, and custom solutions for defense customers including the Indian Armed Forces. Worked extensively with advanced UHMWPE fiber composites such as Spectra Shield®, delivering lightweight yet high-performance protection materials.",
+              "list": [
+                "Led ballistic material evaluation using Spectra fiber composites",
+                "Managed armor plate and wearable protection prototyping",
+                "Coordinated testing with defense stakeholders",
+                "Led laboratory operations and R&D teams"
+              ],
+              "tags": ["R&D Leadership", "Ballistic Materials", "Defense"]
+            },
+            "hi": {
+              "title": "लैब हेड एवं आरएंडडी अभियंता II",
+              "province": "गुरुग्राम",
+              "country": "भारत",
+              "institution": "हनीवेल",
+              "text": "हनीवेल की आर्मर आरएंडडी प्रयोगशाला का नेतृत्व किया, जहाँ बॉडी आर्मर सामग्री नवाचार, बैलिस्टिक प्रदर्शन परीक्षण तथा भारतीय सशस्त्र बलों सहित रक्षा ग्राहकों के लिए अनुकूलित समाधान विकसित किए गए। Spectra Shield® जैसे उन्नत UHMWPE कंपोज़िट्स पर व्यापक कार्य किया।",
+              "list": [
+                "Spectra फाइबर कंपोज़िट्स द्वारा बैलिस्टिक सामग्री परीक्षण",
+                "आर्मर प्लेट एवं पहनने योग्य सुरक्षा उपकरणों का प्रोटोटाइप विकास",
+                "रक्षा एजेंसियों के साथ परीक्षण समन्वय",
+                "प्रयोगशाला संचालन एवं आरएंडडी टीम नेतृत्व"
+              ],
+              "tags": ["आरएंडडी नेतृत्व", "बैलिस्टिक सामग्री", "रक्षा"]
             },
             "fr": {
-              "title": "Ingénieur R&D II",
+              "title": "Chef de Laboratoire & Ingénieur R&D II",
               "province": "Gurgaon",
               "country": "Inde",
               "institution": "Honeywell",
-              "text": "Développement produit, essais et analyse technique en environnement industriel.",
-              "list": [],
-              "tags": []
-            },
-            "hi": {
-              "title": "आरएंडडी अभियंता II",
-              "province": "गुरुग्राम",
-              "country": "भारत",
-              "institution": "हनीवेल",
-              "text": "उद्योग आधारित उत्पाद विकास एवं परीक्षण कार्य।",
-              "list": [],
-              "tags": []
+              "text": "Direction du laboratoire R&D Armor de Honeywell, axé sur l’innovation des matériaux balistiques, les essais de performance et le développement de solutions sur mesure pour des clients de la défense, y compris les forces armées indiennes. Travail approfondi sur les composites UHMWPE tels que Spectra Shield®.",
+              "list": [
+                "Évaluation des matériaux balistiques à base de fibres Spectra",
+                "Développement de prototypes de plaques et protections portables",
+                "Coordination des essais avec les partenaires défense",
+                "Gestion des opérations du laboratoire et des équipes R&D"
+              ],
+              "tags": ["Leadership R&D", "Matériaux balistiques", "Défense"]
             },
             "bho": {
-              "title": "आर एंड डी इंजीनियर II",
+              "title": "लैब हेड आ आरएंडडी इंजीनियर II",
               "province": "गुरुग्राम",
               "country": "भारत",
               "institution": "हनीवेल",
-              "text": "इंडस्ट्रियल प्रोडक्ट डेवलपमेंट आ टेस्टिंग पर काम।",
-              "list": [],
-              "tags": []
+              "text": "हनीवेल के आर्मर आरएंडडी लैब के नेतृत्व कइल, जहाँ बॉडी आर्मर सामग्री नवाचार, बैलिस्टिक टेस्टिंग आ भारतीय सशस्त्र बल समेत रक्षा ग्राहकन खातिर कस्टम समाधान विकसित भइल। Spectra Shield® जइसन उन्नत UHMWPE कंपोज़िट पर गहिरा काम कइल।",
+              "list": [
+                "Spectra फाइबर कंपोज़िट से बैलिस्टिक सामग्री परीक्षण",
+                "आर्मर प्लेट आ पहनावे योग्य सुरक्षा प्रोटोटाइप",
+                "रक्षा एजेंसी के साथ टेस्ट समन्वय",
+                "लैब संचालन आ आरएंडडी टीम नेतृत्व"
+              ],
+              "tags": ["आरएंडडी", "बैलिस्टिक", "रक्षा"]
             }
           }
         },
@@ -197,36 +250,56 @@
               "province": "",
               "country": "India",
               "institution": "Association for Educational Reforms",
-              "text": "Founded and led an organization focused on educational innovation, institutional reform, and systemic improvement in learning practices.",
-              "list": [],
-              "tags": ["Leadership", "Education Reform"]
-            },
-            "fr": {
-              "title": "Fondateur & PDG",
-              "province": "",
-              "country": "Inde",
-              "institution": "Association for Educational Reforms",
-              "text": "Création et direction d’une organisation dédiée à la réforme et à l’innovation éducative.",
-              "list": [],
-              "tags": []
+              "text": "Founded and scaled an educational innovation organization that built teams, developed online learning platforms, and enabled professionals and IIT graduates to deliver online education to schools. The organization was eventually sold due to funding constraints.",
+              "list": [
+                "Built organization from inception",
+                "Developed digital education platforms",
+                "Onboarded educators and institutions",
+                "Led strategy, operations, and partnerships"
+              ],
+              "tags": ["Leadership", "EdTech", "Innovation"]
             },
             "hi": {
               "title": "संस्थापक एवं मुख्य कार्यकारी अधिकारी",
               "province": "",
               "country": "भारत",
               "institution": "एसोसिएशन फॉर एजुकेशनल रिफॉर्म्स",
-              "text": "शैक्षिक नवाचार एवं सुधार पर केंद्रित संगठन की स्थापना एवं नेतृत्व।",
-              "list": [],
-              "tags": []
+              "text": "शैक्षिक नवाचार संगठन की स्थापना की एवं उसे विस्तार दिया, जिसमें टीम निर्माण, ऑनलाइन लर्निंग प्लेटफ़ॉर्म विकास तथा आईआईटी स्नातकों एवं पेशेवरों द्वारा स्कूलों के लिए ऑनलाइन शिक्षा प्रदान की गई। वित्तीय सीमाओं के कारण संगठन का अधिग्रहण हुआ।",
+              "list": [
+                "शुरुआत से संगठन निर्माण",
+                "डिजिटल शिक्षा प्लेटफ़ॉर्म विकास",
+                "शिक्षकों एवं संस्थानों का ऑनबोर्डिंग",
+                "रणनीति, संचालन एवं साझेदारी नेतृत्व"
+              ],
+              "tags": ["नेतृत्व", "एडटेक", "नवाचार"]
+            },
+            "fr": {
+              "title": "Fondateur & PDG",
+              "province": "",
+              "country": "Inde",
+              "institution": "Association for Educational Reforms",
+              "text": "Création et développement d’une organisation d’innovation éducative, incluant la constitution d’équipes, le développement de plateformes numériques et la mise en relation d’enseignants professionnels et diplômés de l’IIT avec des établissements scolaires. L’organisation a été cédée pour des raisons de financement.",
+              "list": [
+                "Création de l’organisation dès l’origine",
+                "Développement de plateformes éducatives numériques",
+                "Partenariats avec enseignants et écoles",
+                "Pilotage stratégique et opérationnel"
+              ],
+              "tags": ["Leadership", "EdTech", "Innovation"]
             },
             "bho": {
               "title": "संस्थापक आ सीईओ",
               "province": "",
               "country": "भारत",
               "institution": "एसोसिएशन फॉर एजुकेशनल रिफॉर्म्स",
-              "text": "शिक्षा सुधार आ नवाचार पर केंद्रित संगठन के स्थापना आ नेतृत्व।",
-              "list": [],
-              "tags": []
+              "text": "शिक्षा नवाचार संगठन के स्थापना कइल आ टीम बनाके ऑनलाइन शिक्षा प्लेटफ़ॉर्म विकसित कइल, जवना से आईआईटी स्नातक आ पेशेवर लोग स्कूलन में ऑनलाइन पढ़ाई करवलस। फंडिंग कमी के कारण संगठन बेचल गइल।",
+              "list": [
+                "शुरुआत से संगठन बनावल",
+                "ऑनलाइन शिक्षा प्लेटफ़ॉर्म विकसित कइल",
+                "शिक्षक आ स्कूल के जोड़ल",
+                "रणनीति आ संचालन के नेतृत्व"
+              ],
+              "tags": ["नेतृत्व", "एडटेक", "नवाचार"]
             }
           }
         },
@@ -244,36 +317,56 @@
               "province": "Gurgaon",
               "country": "India",
               "institution": "Disha Kiran",
-              "text": "Founded and led technical development initiatives focused on innovation-driven solutions and technology-enabled services.",
-              "list": [],
-              "tags": ["Innovation", "Technology Leadership"]
-            },
-            "fr": {
-              "title": "Fondateur & CTO",
-              "province": "Gurgaon",
-              "country": "Inde",
-              "institution": "Disha Kiran",
-              "text": "Direction technique et développement de solutions innovantes basées sur la technologie.",
-              "list": [],
-              "tags": []
+              "text": "Developed the company’s app, website, and brand identity. Researched psychometric frameworks and created structured assessment tools including RIASEC and MBTI-based personality tests.",
+              "list": [
+                "Designed company logo and branding",
+                "Developed app and website",
+                "Researched psychometric models",
+                "Created personality assessment tools"
+              ],
+              "tags": ["Psychometrics", "Product", "Technology"]
             },
             "hi": {
               "title": "संस्थापक एवं सीटीओ",
               "province": "गुरुग्राम",
               "country": "भारत",
               "institution": "दिशा किरण",
-              "text": "तकनीक आधारित नवाचार समाधान के लिए नेतृत्व।",
-              "list": [],
-              "tags": []
+              "text": "कंपनी का ऐप, वेबसाइट एवं ब्रांड पहचान विकसित की। मनोमितीय ढाँचों पर शोध किया तथा RIASEC एवं MBTI आधारित व्यक्तित्व परीक्षण टूल्स तैयार किए।",
+              "list": [
+                "कंपनी लोगो एवं ब्रांड डिज़ाइन",
+                "ऐप एवं वेबसाइट विकास",
+                "मनोमितीय मॉडल पर शोध",
+                "व्यक्तित्व परीक्षण टूल निर्माण"
+              ],
+              "tags": ["मनोमिति", "प्रोडक्ट", "तकनीक"]
+            },
+            "fr": {
+              "title": "Fondateur & CTO",
+              "province": "Gurgaon",
+              "country": "Inde",
+              "institution": "Disha Kiran",
+              "text": "Développement de l’application, du site web et de l’identité visuelle de l’entreprise. Recherche sur les cadres psychométriques et création d’outils d’évaluation basés sur RIASEC et MBTI.",
+              "list": [
+                "Conception de l’identité de marque",
+                "Développement web et application",
+                "Recherche en psychométrie",
+                "Création de tests de personnalité"
+              ],
+              "tags": ["Psychométrie", "Produit", "Technologie"]
             },
             "bho": {
               "title": "संस्थापक आ सीटीओ",
               "province": "गुरुग्राम",
               "country": "भारत",
               "institution": "दिशा किरण",
-              "text": "टेक्नोलॉजी आधारित नवाचार समाधान के नेतृत्व।",
-              "list": [],
-              "tags": []
+              "text": "कंपनी के ऐप, वेबसाइट आ ब्रांड पहचान बनावल। मनोमितीय ढाँचा पर शोध कइल आ RIASEC आ MBTI आधारित व्यक्तित्व परीक्षण टूल तैयार कइल।",
+              "list": [
+                "लोगो आ ब्रांड डिज़ाइन",
+                "ऐप आ वेबसाइट बनावल",
+                "मनोमिति शोध",
+                "व्यक्तित्व परीक्षण टूल बनावल"
+              ],
+              "tags": ["मनोमिति", "टेक", "प्रोडक्ट"]
             }
           }
         },
@@ -287,40 +380,60 @@
           "dateEnd": {"now": true},
           "locales": {
             "en": {
-              "title": "Freelance Design Engineer & Author",
+              "title": "Freelance Design Engineer & Consultant",
               "province": "",
               "country": "India",
               "institution": "Self-Employed",
-              "text": "Independent engineering design, consulting, and authorship based on research, industry experience, and innovation practice.",
-              "list": [],
-              "tags": ["Design", "Author"]
+              "text": "Providing independent engineering design, product development, manufacturing support, and technical consulting across multiple industries.",
+              "list": [
+                "Engineering design & CAD modeling",
+                "Product development and prototyping",
+                "Manufacturing and process consulting",
+                "Technical documentation and advisory"
+              ],
+              "tags": ["Engineering", "Design", "Consulting"]
+            },
+            "hi": {
+              "title": "स्वतंत्र डिज़ाइन अभियंता एवं परामर्शदाता",
+              "province": "",
+              "country": "भारत",
+              "institution": "स्व-रोज़गार",
+              "text": "विभिन्न उद्योगों के लिए स्वतंत्र रूप से इंजीनियरिंग डिज़ाइन, उत्पाद विकास, निर्माण सहयोग एवं तकनीकी परामर्श सेवाएँ प्रदान करना।",
+              "list": [
+                "इंजीनियरिंग डिज़ाइन एवं CAD मॉडलिंग",
+                "उत्पाद विकास एवं प्रोटोटाइपिंग",
+                "निर्माण एवं प्रक्रिया परामर्श",
+                "तकनीकी दस्तावेज़ीकरण"
+              ],
+              "tags": ["इंजीनियरिंग", "डिज़ाइन", "परामर्श"]
             },
             "fr": {
-              "title": "Ingénieur Indépendant & Auteur",
+              "title": "Ingénieur Indépendant & Consultant",
               "province": "",
               "country": "Inde",
               "institution": "Indépendant",
-              "text": "Conseil en ingénierie et rédaction d’ouvrages basés sur la recherche et l’industrie.",
-              "list": [],
-              "tags": []
-            },
-            "hi": {
-              "title": "स्वतंत्र डिज़ाइन अभियंता एवं लेखक",
-              "province": "",
-              "country": "भारत",
-              "institution": "स्व-रोज़गार",
-              "text": "इंजीनियरिंग परामर्श एवं पुस्तक लेखन कार्य।",
-              "list": [],
-              "tags": []
+              "text": "Prestation de services indépendants en conception mécanique, développement produit, accompagnement industriel et conseil technique.",
+              "list": [
+                "Conception mécanique et modélisation CAO",
+                "Développement et prototypage produit",
+                "Conseil en fabrication et procédés",
+                "Documentation technique"
+              ],
+              "tags": ["Ingénierie", "Conception", "Conseil"]
             },
             "bho": {
-              "title": "फ्रीलांस डिज़ाइन इंजीनियर आ लेखक",
+              "title": "फ्रीलांस डिज़ाइन इंजीनियर आ सलाहकार",
               "province": "",
               "country": "भारत",
               "institution": "स्व-रोज़गार",
-              "text": "इंजीनियरिंग कंसल्टिंग आ किताब लेखन।",
-              "list": [],
-              "tags": []
+              "text": "अलग-अलग उद्योग खातिर स्वतंत्र रूप से इंजीनियरिंग डिज़ाइन, प्रोडक्ट डेवलपमेंट, मैन्युफैक्चरिंग सहयोग आ तकनीकी सलाह देवे के काम।",
+              "list": [
+                "इंजीनियरिंग डिज़ाइन आ CAD मॉडलिंग",
+                "प्रोडक्ट डेवलपमेंट आ प्रोटोटाइप",
+                "मैन्युफैक्चरिंग सलाह",
+                "तकनीकी डॉक्यूमेंटेशन"
+              ],
+              "tags": ["इंजीनियरिंग", "डिज़ाइन", "सलाह"]
             }
           }
         }

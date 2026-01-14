@@ -41,61 +41,61 @@
         {
           "id": 1,
           "img": null,
-          "faIcon": "fa-solid fa-book",
-          "faIconColors": {"bg": "", "fill": ""},
+          "faIcon": "fa-solid fa-book-open",
+          "faIconColors": { "bg": "", "fill": "" },
           "locales": {
-            "en": { "title": "1", "text": "Book in progress" },
-            "fr": { "title": "1", "text": "Livre en cours" },
-            "hi": { "title": "1", "text": "पुस्तक लेखन प्रगति पर" },
-            "bho": { "title": "1", "text": "किताब लिखल जा रहल बा" }
+            "en": { "title": "1", "text": "Book integrating science, engineering & Indian philosophy in progress" },
+            "fr": { "title": "1", "text": "Livre en cours reliant science, ingénierie et philosophie indienne" },
+            "hi": { "title": "1", "text": "विज्ञान, इंजीनियरिंग एवं भारतीय दर्शन पर आधारित पुस्तक प्रगति पर" },
+            "bho": { "title": "1", "text": "विज्ञान, इंजीनियरिंग आ भारतीय दर्शन पर आधारित किताब चल रहल बा" }
           }
         },
         {
           "id": 2,
           "img": null,
           "faIcon": "fa-solid fa-flask",
-          "faIconColors": {"bg": "", "fill": ""},
+          "faIconColors": { "bg": "", "fill": "" },
           "locales": {
-            "en": { "title": "10+", "text": "Years in engineering & research" },
-            "fr": { "title": "10+", "text": "Années en ingénierie et recherche" },
-            "hi": { "title": "10+", "text": "इंजीनियरिंग एवं शोध में वर्ष" },
-            "bho": { "title": "10+", "text": "इंजीनियरिंग आ रिसर्च के साल" }
+            "en": { "title": "10+", "text": "Years across engineering, research & industrial R&D" },
+            "fr": { "title": "10+", "text": "Années en ingénierie, recherche et R&D industrielle" },
+            "hi": { "title": "10+", "text": "इंजीनियरिंग, अनुसंधान एवं औद्योगिक आरएंडडी में वर्षों का अनुभव" },
+            "bho": { "title": "10+", "text": "इंजीनियरिंग, रिसर्च आ इंडस्ट्रियल आरएंडडी के साल" }
           }
         },
         {
           "id": 3,
           "img": null,
           "faIcon": "fa-solid fa-users",
-          "faIconColors": {"bg": "", "fill": ""},
+          "faIconColors": { "bg": "", "fill": "" },
           "locales": {
-            "en": { "title": "2", "text": "Educational initiatives founded" },
-            "fr": { "title": "2", "text": "Initiatives éducatives fondées" },
-            "hi": { "title": "2", "text": "शैक्षिक पहलें स्थापित" },
-            "bho": { "title": "2", "text": "शैक्षिक पहल शुरू कइल गइल" }
+            "en": { "title": "Multiple", "text": "Teams built and led across academia, startups & industry" },
+            "fr": { "title": "Multiples", "text": "Équipes créées et dirigées en académie, startups et industrie" },
+            "hi": { "title": "अनेक", "text": "अकादमिक, स्टार्टअप एवं उद्योग में टीम निर्माण एवं नेतृत्व" },
+            "bho": { "title": "कई", "text": "अकादमिक, स्टार्टअप आ इंडस्ट्री में टीम बनावल आ लीड कइल" }
           }
         },
         {
           "id": 4,
           "img": null,
           "faIcon": "fa-solid fa-industry",
-          "faIconColors": {"bg": "", "fill": ""},
+          "faIconColors": { "bg": "", "fill": "" },
           "locales": {
-            "en": { "title": "Multiple", "text": "Industrial & research collaborations" },
-            "fr": { "title": "Multiples", "text": "Collaborations industrielles et scientifiques" },
-            "hi": { "title": "अनेक", "text": "औद्योगिक एवं शोध सहयोग" },
-            "bho": { "title": "कई", "text": "इंडस्ट्रियल आ रिसर्च सहयोग" }
+            "en": { "title": "Diverse", "text": "Work across defense, medical devices, manufacturing & education" },
+            "fr": { "title": "Divers", "text": "Travaux en défense, dispositifs médicaux, fabrication et éducation" },
+            "hi": { "title": "विविध", "text": "रक्षा, मेडिकल डिवाइस, विनिर्माण एवं शिक्षा में कार्य" },
+            "bho": { "title": "विविध", "text": "डिफेंस, मेडिकल डिवाइस, विनिर्माण आ शिक्षा में काम" }
           }
         },
         {
           "id": 5,
           "img": null,
           "faIcon": "fa-solid fa-heart",
-          "faIconColors": {"bg": "", "fill": ""},
+          "faIconColors": { "bg": "", "fill": "" },
           "locales": {
-            "en": { "title": "Lifelong", "text": "Commitment to learning & teaching" },
-            "fr": { "title": "Durable", "text": "Engagement envers l’apprentissage" },
-            "hi": { "title": "आजीवन", "text": "सीखने एवं सिखाने के प्रति समर्पण" },
-            "bho": { "title": "आजीवन", "text": "सीखल आ सिखावे के समर्पण" }
+            "en": { "title": "Ongoing", "text": "Commitment to learning, teaching & knowledge sharing" },
+            "fr": { "title": "Continu", "text": "Engagement envers l’apprentissage, l’enseignement et le partage du savoir" },
+            "hi": { "title": "निरंतर", "text": "सीखने, सिखाने एवं ज्ञान साझा करने की प्रतिबद्धता" },
+            "bho": { "title": "निरंतर", "text": "सीखल, सिखावे आ ज्ञान बांटे के प्रतिबद्धता" }
           }
         }
       ]
@@ -122,104 +122,102 @@
           "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
           "locales": {
             "en": {
-              "title": "Deep focus on {{book writing}}",
+              "title": "A phase of {{deep writing and synthesis}}",
               "province": "",
               "country": "India",
               "institution": "",
-              "text": "Currently dedicating significant time to authoring a book that integrates engineering research, industrial R&D experience, education, and innovation into a coherent narrative."
+              "text": "This phase of my journey is centered on writing and synthesis—bringing together engineering practice, scientific research, lived experience, and philosophical inquiry into a coherent body of work."
             },
             "fr": {
-              "title": "Concentration sur l’{{écriture du livre}}",
+              "title": "Une phase de {{rédaction et synthèse}}",
               "province": "",
               "country": "Inde",
               "institution": "",
-              "text": "Période consacrée à la rédaction d’un livre reliant ingénierie, recherche, industrie et éducation."
+              "text": "Une période dédiée à l’écriture et à la synthèse reliant ingénierie, recherche scientifique et réflexion philosophique."
             },
             "hi": {
-              "title": "{{पुस्तक लेखन}} पर गहन कार्य",
+              "title": "{{लेखन एवं समन्वय}} का चरण",
               "province": "",
               "country": "भारत",
               "institution": "",
-              "text": "इंजीनियरिंग, अनुसंधान, उद्योग एवं शिक्षा को जोड़ती पुस्तक पर केंद्रित कार्य।"
+              "text": "इस चरण में इंजीनियरिंग अभ्यास, वैज्ञानिक शोध और दार्शनिक चिंतन को एक समग्र रूप में प्रस्तुत करने पर ध्यान है।"
             },
             "bho": {
-              "title": "{{किताब लेखन}} पर फोकस",
+              "title": "{{लेखन आ समन्वय}} के दौर",
               "province": "",
               "country": "भारत",
               "institution": "",
-              "text": "इंजीनियरिंग, रिसर्च, इंडस्ट्री आ शिक्षा पर आधारित किताब लिखे पर ध्यान।"
+              "text": "एह दौर में इंजीनियरिंग अनुभव, वैज्ञानिक रिसर्च आ दार्शनिक सोच के एक जगह जोड़ल जा रहल बा।"
             }
           }
         },
-
         {
           "id": 2,
           "date": { "year": 2024, "month": 6 },
           "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
           "locales": {
             "en": {
-              "title": "Balancing {{research, industry & education}}",
+              "title": "Living at the intersection of {{research, industry & education}}",
               "province": "",
               "country": "India",
               "institution": "",
-              "text": "Actively balancing engineering consulting, independent research, and long-term educational reform initiatives."
+              "text": "Continuing to balance independent research, engineering consulting, and long-term educational initiatives while remaining grounded in real-world practice."
             },
             "fr": {
-              "title": "Équilibre entre {{recherche, industrie et éducation}}",
+              "title": "À l’intersection de la {{recherche, industrie et éducation}}",
               "province": "",
               "country": "Inde",
               "institution": "",
-              "text": "Équilibre entre conseil en ingénierie, recherche indépendante et initiatives éducatives."
+              "text": "Équilibre entre recherche indépendante, conseil en ingénierie et initiatives éducatives."
             },
             "hi": {
-              "title": "{{अनुसंधान, उद्योग एवं शिक्षा}} का संतुलन",
+              "title": "{{अनुसंधान, उद्योग एवं शिक्षा}} के संगम पर",
               "province": "",
               "country": "भारत",
               "institution": "",
-              "text": "इंजीनियरिंग परामर्श, स्वतंत्र शोध एवं शिक्षा सुधार कार्यों का संतुलन।"
+              "text": "स्वतंत्र शोध, इंजीनियरिंग परामर्श एवं दीर्घकालिक शैक्षिक कार्यों के बीच संतुलन।"
             },
             "bho": {
-              "title": "{{रिसर्च, इंडस्ट्री आ शिक्षा}} के संतुलन",
+              "title": "{{रिसर्च, इंडस्ट्री आ शिक्षा}} के संगम",
               "province": "",
               "country": "भारत",
               "institution": "",
-              "text": "इंजीनियरिंग कंसल्टिंग, स्वतंत्र रिसर्च आ शिक्षा सुधार काम के संतुलन।"
+              "text": "स्वतंत्र रिसर्च, इंजीनियरिंग कंसल्टिंग आ शिक्षा सुधार के बीच संतुलन।"
             }
           }
         },
-
         {
           "id": 3,
           "date": { "year": 2023, "month": 11 },
           "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
           "locales": {
             "en": {
-              "title": "Reflecting on {{Dakshina}}",
+              "title": "Understanding {{Dakshina}} as practice",
               "province": "",
               "country": "",
               "institution": "",
-              "text": "Using the idea of Dakshina as a personal reflection practice—giving back through knowledge, mentorship, and meaningful work rather than accumulation."
+              "text": "Interpreting Dakshina not as accumulation, but as conscious return—offering time, knowledge, mentorship, and meaningful work back to society."
             },
             "fr": {
-              "title": "Réflexion sur la {{Dakshina}}",
+              "title": "Comprendre la {{Dakshina}} comme pratique",
               "province": "",
               "country": "",
               "institution": "",
-              "text": "La Dakshina comme pratique de réflexion personnelle et de transmission du savoir."
+              "text": "La Dakshina comme retour conscient par le savoir, le mentorat et le travail utile."
             },
             "hi": {
-              "title": "{{दक्षिणा}} पर चिंतन",
+              "title": "{{दक्षिणा}} को एक अभ्यास के रूप में समझना",
               "province": "",
               "country": "",
               "institution": "",
-              "text": "ज्ञान, मार्गदर्शन एवं सार्थक कार्य के माध्यम से योगदान की भावना।"
+              "text": "दक्षिणा को संग्रह नहीं, बल्कि समय, ज्ञान और मार्गदर्शन के माध्यम से समाज को लौटाने की प्रक्रिया के रूप में देखना।"
             },
             "bho": {
-              "title": "{{दक्षिणा}} पर चिंतन",
+              "title": "{{दक्षिणा}} के अभ्यास के रूप में",
               "province": "",
               "country": "",
               "institution": "",
-              "text": "ज्ञान, मार्गदर्शन आ सार्थक काम के जरिए कुछ लौटावे के भावना।"
+              "text": "दक्षिणा के मतलब जमा करना ना, बल्कि समय, ज्ञान आ मार्गदर्शन समाज के लौटावल।"
             }
           }
         }

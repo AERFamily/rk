@@ -62,10 +62,10 @@
       "id": 2,
       "component": "ArticleText",
       "locales": {
-        "en": { "title": "{{Currently}} working on" },
-        "hi": { "title": "{{वर्तमान}} में कार्य" },
-        "fr": { "title": "{{Actuellement}} en cours" },
-        "bho": { "title": "{{अभी}} काम करतानी" }
+        "en": { "title": "{{About}} Me" },
+        "hi": { "title": "{{मेरे}} बारे में" },
+        "fr": { "title": "{{À propos}} de moi" },
+        "bho": { "title": "{{हमरे}} बारे में" }
       },
       "items": [
         {
@@ -73,22 +73,22 @@
           "img": "images/pictures/about-texts-image-1.png",
           "locales": {
             "en": {
-              "text": "<p>{{VEDA.ws}} is a knowledge-oriented digital platform focused on {{Vedic Exploration, Discovery, and Awareness}}. It serves as a long-term research space and the foundation for a book I am currently authoring.</p><p>The work bridges ancient Vedic knowledge with modern inquiry, emphasizing philosophy, consciousness, self-reflection, and holistic understanding through structured and accessible writing.</p><p>Explore more at [[https://veda.ws]]</p>"
+              "text": "<p>I am a mechanical engineer, researcher, and product designer with experience spanning academic research, industrial R&D, defense systems, medical devices, and manufacturing. My work integrates analytical engineering rigor with hands-on design, testing, and real-world implementation.</p><p>I have worked as a research associate on advanced composite materials and high strain-rate mechanics, led an industrial R&D laboratory focused on body armor development, and contributed to the design and validation of medical devices such as biopsy markers, implants, and precision components. Alongside industry roles, I have founded and led educational and technology initiatives, building teams and platforms from inception.</p><p>Currently, I am authoring a book and developing {{VEDA.ws}}, a knowledge-oriented digital platform rooted in {{Vedic Exploration, Discovery, and Awareness}}. This work explores how ancient Indian philosophical principles can be used as conceptual frameworks to explain scientific thinking, systems, and human understanding—bridging engineering, science, and consciousness through structured, accessible writing.</p><p>Explore more at [[https://veda.ws]]</p>"
             },
             "hi": {
-              "text": "<p>{{VEDA.ws}} एक ज्ञान-आधारित डिजिटल मंच है, जो {{वैदिक अन्वेषण, खोज और जागरूकता}} पर केंद्रित है। यह उस पुस्तक का आधार भी है जिसे मैं वर्तमान में लिख रहा हूँ।</p><p>इसका उद्देश्य प्राचीन वैदिक ज्ञान को आधुनिक संदर्भ से जोड़ना है—दर्शन, चेतना और आत्मचिंतन को सरल एवं व्यावहारिक रूप में प्रस्तुत करना।</p><p>अधिक जानकारी हेतु देखें: [[https://veda.ws]]</p>"
+              "text": "<p>मैं एक यांत्रिक अभियंता, शोधकर्ता और उत्पाद डिज़ाइनर हूँ, जिसका अनुभव अकादमिक अनुसंधान, औद्योगिक आरएंडडी, रक्षा प्रणालियों, मेडिकल डिवाइस और विनिर्माण तक विस्तृत है। मेरा कार्य विश्लेषणात्मक इंजीनियरिंग दृष्टिकोण को व्यावहारिक डिज़ाइन, परीक्षण और वास्तविक अनुप्रयोगों से जोड़ता है।</p><p>मैंने उन्नत कंपोज़िट सामग्री और उच्च स्ट्रेन-रेट यांत्रिकी पर शोध सहयोगी के रूप में कार्य किया है, बॉडी आर्मर विकास हेतु औद्योगिक आरएंडडी प्रयोगशाला का नेतृत्व किया है, तथा बायोप्सी मार्कर, इम्प्लांट और सटीक मेडिकल घटकों के डिज़ाइन एवं सत्यापन में योगदान दिया है। इसके साथ ही, मैंने शैक्षिक और तकनीकी पहलों की स्थापना एवं नेतृत्व भी किया है।</p><p>वर्तमान में, मैं एक पुस्तक लिख रहा हूँ और {{VEDA.ws}} नामक ज्ञान-आधारित डिजिटल मंच विकसित कर रहा हूँ, जो {{वैदिक अन्वेषण, खोज और जागरूकता}} पर आधारित है। यह कार्य प्राचीन भारतीय दार्शनिक सिद्धांतों को वैज्ञानिक सोच, प्रणालियों और मानव समझ से जोड़ने का प्रयास करता है—जहाँ इंजीनियरिंग, विज्ञान और चेतना का संगम प्रस्तुत किया गया है।</p><p>अधिक जानकारी हेतु देखें: [[https://veda.ws]]</p>"
             },
             "fr": {
-              "text": "<p>{{VEDA.ws}} est une plateforme numérique axée sur la connaissance, dédiée à {{l’exploration, la découverte et la conscience védiques}}. Elle constitue également la base d’un livre que je suis en train d’écrire.</p><p>L’objectif est de relier la sagesse védique ancienne à la pensée moderne, à travers la philosophie, la conscience et la réflexion personnelle.</p><p>En savoir plus : [[https://veda.ws]]</p>"
+              "text": "<p>Je suis ingénieur mécanique, chercheur et concepteur de produits, avec une expérience couvrant la recherche académique, la R&D industrielle, les systèmes de défense, les dispositifs médicaux et la fabrication. Mon travail associe la rigueur analytique de l’ingénierie à la conception, aux essais et à la mise en œuvre concrète.</p><p>J’ai travaillé comme chercheur associé sur les matériaux composites et la mécanique à haut taux de déformation, dirigé un laboratoire de R&D industrielle dédié au développement d’armures corporelles, et contribué à la conception et à la validation de dispositifs médicaux tels que des marqueurs de biopsie et des implants. Parallèlement, j’ai fondé et dirigé des initiatives éducatives et technologiques.</p><p>Actuellement, j’écris un livre et développe {{VEDA.ws}}, une plateforme numérique axée sur la connaissance et fondée sur {{l’exploration, la découverte et la conscience védiques}}. Ce projet explore comment les principes philosophiques indiens anciens peuvent servir de cadres conceptuels pour expliquer la pensée scientifique, les systèmes et la compréhension humaine.</p><p>En savoir plus : [[https://veda.ws]]</p>"
             },
             "bho": {
-              "text": "<p>{{VEDA.ws}} एगो ज्ञान आधारित डिजिटल मंच बा, जवन {{वैदिक खोज, समझ आ चेतना}} पर केंद्रित बा। एह प्लेटफॉर्म पर हम एगो किताब लिख रहल बानी।</p><p>एह काम के मकसद प्राचीन वैदिक ज्ञान के आज के सोच से जोड़ल बा—दर्शन आ आत्मचिंतन के सरल बनावल।</p><p>अउरी जान खातिर देखीं: [[https://veda.ws]]</p>"
+              "text": "<p>हम एगो मैकेनिकल इंजीनियर, रिसर्चर आ प्रोडक्ट डिज़ाइनर बानी, जिनकर अनुभव अकादमिक रिसर्च, इंडस्ट्रियल आरएंडडी, डिफेंस सिस्टम, मेडिकल डिवाइस आ विनिर्माण तक फइलल बा। हमार काम इंजीनियरिंग के गहिरा विश्लेषण के असली डिज़ाइन, टेस्टिंग आ व्यवहारिक उपयोग से जोड़ेला।</p><p>हम उन्नत कंपोज़िट सामग्री आ हाई स्ट्रेन-रेट मैकेनिक्स पर रिसर्च सहयोगी के रूप में काम कइनी, बॉडी आर्मर विकास खातिर आरएंडडी लैब के नेतृत्व कइनी, आ बायोप्सी मार्कर, इम्प्लांट आ मेडिकल पार्ट के डिज़ाइन आ जांच में योगदान देनी। एकरा साथे-साथे हम शैक्षिक आ तकनीकी पहल के स्थापना आ संचालन भी कइनी।</p><p>अभी हम एगो किताब लिख रहल बानी आ {{VEDA.ws}} नाम के ज्ञान आधारित डिजिटल मंच विकसित करत बानी, जवन {{वैदिक खोज, समझ आ चेतना}} पर आधारित बा। एह काम में प्राचीन भारतीय दर्शन के वैज्ञानिक सोच, सिस्टम आ मानव समझ से जोड़ल जात बा।</p><p>अउरी जान खातिर देखीं: [[https://veda.ws]]</p>"
             }
           }
         }
       ]
     },
-
+        
     {
       "id": 3,
       "component": "ArticleText",

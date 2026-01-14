@@ -43,29 +43,30 @@
         "order_items_sort": "asc"
       },
       "items": [
+
         {
           "id": 1,
           "img": "images/pictures/timeline-place-IITD.png",
           "faIcon": "fa-solid fa-graduation-cap",
-          "faIconColors": {"bg": "", "fill": ""},
-          "date": {"year": 2015, "month": 5},
-          "link": {"href": "", "tooltipString": ""},
+          "faIconColors": { "bg": "", "fill": "" },
+          "date": { "year": 2015, "month": 5 },
+          "link": { "href": "", "tooltipString": "" },
           "locales": {
             "en": {
-              "title": "Master’s Degree from IIT Delhi",
-              "text": "Successfully completed a Master of Technology in Production Engineering at IIT Delhi with specialization in composites, manufacturing processes, and automation."
+              "title": "Master of Technology from IIT Delhi",
+              "text": "Completed a Master of Technology in Production Engineering at IIT Delhi with specialization in composite materials, advanced manufacturing processes, automation, and welding technologies."
             },
             "fr": {
-              "title": "Master obtenu à l’IIT Delhi",
-              "text": "Obtention du Master en génie de la production avec une spécialisation en composites et procédés de fabrication."
+              "title": "Master en ingénierie de la production – IIT Delhi",
+              "text": "Obtention du Master en génie de la production avec une spécialisation en matériaux composites, procédés de fabrication avancés, automatisation et technologies de soudage."
             },
             "hi": {
-              "title": "आईआईटी दिल्ली से एम.टेक",
-              "text": "उत्पादन अभियांत्रिकी में एम.टेक डिग्री सफलतापूर्वक पूर्ण की।"
+              "title": "आईआईटी दिल्ली से एम.टेक डिग्री",
+              "text": "आईआईटी दिल्ली से उत्पादन अभियांत्रिकी में एम.टेक डिग्री प्राप्त की, जिसमें कंपोज़िट सामग्री, उन्नत विनिर्माण प्रक्रियाएँ, स्वचालन एवं वेल्डिंग तकनीक में विशेषज्ञता रही।"
             },
             "bho": {
-              "title": "आईआईटी दिल्ली से एम.टेक",
-              "text": "उत्पादन अभियांत्रिकी में एम.टेक डिग्री पूरा कइल गइल।"
+              "title": "आईआईटी दिल्ली से एम.टेक डिग्री",
+              "text": "आईआईटी दिल्ली से उत्पादन अभियांत्रिकी में एम.टेक डिग्री हासिल कइल, जवना में कंपोज़िट सामग्री, उन्नत मैन्युफैक्चरिंग, स्वचालन आ वेल्डिंग तकनीक में विशेष ज्ञान मिलल।"
             }
           }
         },
@@ -74,82 +75,110 @@
           "id": 2,
           "img": "images/pictures/timeline-place-IITD.png",
           "faIcon": "fa-solid fa-flask",
-          "faIconColors": {"bg": "", "fill": ""},
-          "date": {"year": 2017, "month": 7},
-          "link": {"href": "", "tooltipString": ""},
+          "faIconColors": { "bg": "", "fill": "" },
+          "date": { "year": 2017, "month": 7 },
+          "link": { "href": "", "tooltipString": "" },
           "locales": {
             "en": {
-              "title": "Published Research in Composite Materials",
-              "text": "Published research on high strain-rate behavior of STF-treated UHMWPE composites, contributing to advanced materials research."
+              "title": "International Journal Publication in Composite Materials",
+              "text": "Published peer-reviewed research in the International Journal of Impact Engineering on high strain-rate behavior of STF-treated UHMWPE composites, contributing to defense and impact mechanics research."
             },
             "fr": {
-              "title": "Publication en matériaux composites",
-              "text": "Publication de travaux de recherche sur le comportement à haut taux de déformation des composites UHMWPE traités STF."
+              "title": "Publication scientifique internationale en matériaux composites",
+              "text": "Publication d’un article évalué par les pairs dans l’International Journal of Impact Engineering sur le comportement à haut taux de déformation des composites UHMWPE traités STF."
             },
             "hi": {
-              "title": "कंपोज़िट सामग्री में शोध प्रकाशन",
-              "text": "STF-ट्रीटेड UHMWPE कंपोज़िट्स के उच्च स्ट्रेन रेट व्यवहार पर शोध प्रकाशित।"
+              "title": "कंपोज़िट सामग्री पर अंतरराष्ट्रीय शोध प्रकाशन",
+              "text": "STF-ट्रीटेड UHMWPE कंपोज़िट्स के उच्च स्ट्रेन-रेट व्यवहार पर इंटरनेशनल जर्नल ऑफ इम्पैक्ट इंजीनियरिंग में सहकर्मी-समीक्षित शोध प्रकाशित।"
             },
             "bho": {
-              "title": "कंपोज़िट सामग्री पर शोध प्रकाशन",
-              "text": "STF-ट्रीटेड UHMWPE कंपोज़िट के हाई स्ट्रेन रेट व्यवहार पर शोध प्रकाशित।"
+              "title": "कंपोज़िट सामग्री पर अंतरराष्ट्रीय शोध प्रकाशन",
+              "text": "STF-ट्रीटेड UHMWPE कंपोज़िट के हाई स्ट्रेन-रेट व्यवहार पर इंटरनेशनल जर्नल में रिसर्च पेपर प्रकाशित कइल।"
             }
           }
         },
 
         {
           "id": 3,
-          "img": "images/pictures/timeline-place-AER.png",
-          "faIcon": "fa-solid fa-users",
-          "faIconColors": {"bg": "", "fill": ""},
-          "date": {"year": 2020, "month": 6},
-          "link": {"href": "", "tooltipString": ""},
+          "img": "images/pictures/timeline-place-Honeywell.png",
+          "faIcon": "fa-solid fa-shield-halved",
+          "faIconColors": { "bg": "", "fill": "" },
+          "date": { "year": 2019, "month": 6 },
+          "link": { "href": "", "tooltipString": "" },
           "locales": {
             "en": {
-              "title": "Founded Educational Reform Organization",
-              "text": "Founded and led the Association for Educational Reforms, focusing on innovation, institutional improvement, and learner-centric education."
+              "title": "Leadership of Armor R&D Lab for Defense Applications",
+              "text": "Headed Honeywell’s Armor R&D laboratory, leading development and testing of advanced ballistic materials and body armor solutions for defense customers including the Indian Armed Forces."
             },
             "fr": {
-              "title": "Création d’une organisation de réforme éducative",
-              "text": "Fondation et direction d’une organisation dédiée à la réforme et à l’innovation éducative."
+              "title": "Direction d’un laboratoire R&D en armures balistiques",
+              "text": "Direction du laboratoire R&D Armor de Honeywell pour le développement et l’évaluation de matériaux balistiques destinés aux applications de défense."
             },
             "hi": {
-              "title": "शैक्षिक सुधार संगठन की स्थापना",
-              "text": "शिक्षा सुधार एवं नवाचार हेतु संगठन की स्थापना एवं नेतृत्व।"
+              "title": "रक्षा अनुप्रयोगों हेतु आर्मर आरएंडडी लैब का नेतृत्व",
+              "text": "हनीवेल की आर्मर आरएंडडी प्रयोगशाला का नेतृत्व किया, जहाँ भारतीय सशस्त्र बलों सहित रक्षा ग्राहकों के लिए उन्नत बॉडी आर्मर समाधानों का विकास एवं परीक्षण किया गया।"
             },
             "bho": {
-              "title": "शैक्षिक सुधार संगठन स्थापना",
-              "text": "शिक्षा सुधार आ नवाचार खातिर संगठन के स्थापना आ नेतृत्व।"
+              "title": "रक्षा खातिर आर्मर आरएंडडी लैब के नेतृत्व",
+              "text": "हनीवेल के आर्मर आरएंडडी लैब के नेतृत्व कइल, जवन भारतीय सशस्त्र बल समेत रक्षा ग्राहकन खातिर बॉडी आर्मर समाधान बनावे पर केंद्रित रहल।"
             }
           }
         },
 
         {
           "id": 4,
-          "img": "images/pictures/timeline-place-VEDA.png",
-          "faIcon": "fa-solid fa-book",
-          "faIconColors": {"bg": "", "fill": ""},
-          "date": {"year": 2024, "month": 1},
-          "link": {"href": "", "tooltipString": ""},
+          "img": "images/pictures/timeline-place-AER.png",
+          "faIcon": "fa-solid fa-users",
+          "faIconColors": { "bg": "", "fill": "" },
+          "date": { "year": 2020, "month": 6 },
+          "link": { "href": "", "tooltipString": "" },
           "locales": {
             "en": {
-              "title": "Book Authorship (In Progress)",
-              "text": "Currently authoring a book integrating engineering research, industrial R&D experience, innovation, and education."
+              "title": "Founded and Scaled an Educational Reform Organization",
+              "text": "Founded the Association for Educational Reforms, built multidisciplinary teams, developed digital education platforms, and enabled professionals and IIT graduates to deliver online education to schools."
             },
             "fr": {
-              "title": "Rédaction d’un livre (en cours)",
-              "text": "Rédaction d’un ouvrage reliant ingénierie, recherche, industrie et innovation."
+              "title": "Création et développement d’une organisation de réforme éducative",
+              "text": "Fondation d’une organisation de réforme éducative axée sur les plateformes numériques, l’innovation pédagogique et la collaboration avec des professionnels."
             },
             "hi": {
-              "title": "पुस्तक लेखन (प्रगति पर)",
-              "text": "इंजीनियरिंग, अनुसंधान एवं उद्योग अनुभव पर आधारित पुस्तक लेखन।"
+              "title": "शैक्षिक सुधार संगठन की स्थापना एवं विस्तार",
+              "text": "एसोसिएशन फॉर एजुकेशनल रिफॉर्म्स की स्थापना की, बहु-विषयक टीम बनाई तथा डिजिटल शिक्षा प्लेटफ़ॉर्म विकसित किए।"
             },
             "bho": {
-              "title": "किताब लेखन (चल रहल बा)",
-              "text": "इंजीनियरिंग आ इंडस्ट्री अनुभव पर आधारित किताब लिखल जा रहल बा।"
+              "title": "शैक्षिक सुधार संगठन के स्थापना आ विस्तार",
+              "text": "एसोसिएशन फॉर एजुकेशनल रिफॉर्म्स के स्थापना कइल, टीम बनावल आ डिजिटल शिक्षा प्लेटफ़ॉर्म विकसित कइल।"
+            }
+          }
+        },
+
+        {
+          "id": 5,
+          "img": "images/pictures/timeline-place-VEDA.png",
+          "faIcon": "fa-solid fa-book-open",
+          "faIconColors": { "bg": "", "fill": "" },
+          "date": { "year": 2024, "month": 1 },
+          "link": { "href": "", "tooltipString": "" },
+          "locales": {
+            "en": {
+              "title": "Authorship on Science, Indian Philosophy & Vedic Thought",
+              "text": "Authoring a book that bridges modern science and engineering with Indian philosophy, using Vedic principles as conceptual tools to explain scientific phenomena."
+            },
+            "fr": {
+              "title": "Auteur d’un ouvrage sur science et philosophie indienne",
+              "text": "Rédaction d’un livre établissant un dialogue entre la science moderne et la philosophie indienne à travers les principes védiques."
+            },
+            "hi": {
+              "title": "विज्ञान एवं भारतीय दर्शन पर पुस्तक लेखन",
+              "text": "आधुनिक विज्ञान एवं इंजीनियरिंग को भारतीय दर्शन से जोड़ने वाली पुस्तक का लेखन, जिसमें वैदिक सिद्धांतों से वैज्ञानिक अवधारणाओं की व्याख्या की गई है।"
+            },
+            "bho": {
+              "title": "विज्ञान आ भारतीय दर्शन पर किताब लेखन",
+              "text": "आधुनिक विज्ञान आ इंजीनियरिंग के भारतीय दर्शन से जोड़त किताब लिखल जा रहल बा, जवना में वैदिक सिद्धांत के उपयोग कइल गइल बा।"
             }
           }
         }
+
       ]
     },
 
@@ -157,10 +186,10 @@
       "id": 2,
       "component": "ArticleThread",
       "locales": {
-        "en": { "title": "Academic & Leadership Highlights" },
-        "fr": { "title": "Faits Marquants Académiques & Leadership" },
-        "hi": { "title": "शैक्षणिक एवं नेतृत्व उपलब्धियाँ" },
-        "bho": { "title": "शैक्षणिक आ नेतृत्व उपलब्धि" }
+        "en": { "title": "Academic, Research & Leadership Highlights" },
+        "fr": { "title": "Temps forts académiques, recherche et leadership" },
+        "hi": { "title": "शैक्षणिक, शोध एवं नेतृत्व उपलब्धियाँ" },
+        "bho": { "title": "शैक्षणिक, रिसर्च आ नेतृत्व उपलब्धि" }
       },
       "settings": {
         "max_rows_collapse_threshold": 4,
@@ -170,15 +199,15 @@
       "items": [
         {
           "id": 1,
-          "date": {"year": 2014, "month": 7},
-          "preview": {"links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": ""},
+          "date": { "year": 2014, "month": 7 },
+          "preview": { "links": [], "screenshots": [], "screenshotsAspectRatio": "", "youtubeVideo": "" },
           "locales": {
             "en": {
               "title": "International Academic Exchange – France",
               "province": "Nantes",
               "country": "France",
               "institution": "École Centrale de Nantes",
-              "text": "Selected for an international master’s exchange program focusing on numerical methods, continuum mechanics, and advanced welding research."
+              "text": "Selected for an international master’s exchange program focusing on numerical methods, continuum mechanics, and advanced manufacturing research."
             },
             "fr": {
               "title": "Échange académique international – France",
@@ -192,14 +221,14 @@
               "province": "नान्त",
               "country": "फ्रांस",
               "institution": "एकोल सेंट्राल दे नान्त",
-              "text": "अंतरराष्ट्रीय मास्टर एक्सचेंज कार्यक्रम हेतु चयन।"
+              "text": "यांत्रिक अभियांत्रिकी में अंतरराष्ट्रीय मास्टर एक्सचेंज कार्यक्रम हेतु चयन।"
             },
             "bho": {
               "title": "अंतरराष्ट्रीय अकादमिक एक्सचेंज – फ्रांस",
               "province": "नान्त",
               "country": "फ्रांस",
               "institution": "एकोल सेंट्राल दे नान्त",
-              "text": "इंटरनेशनल मास्टर एक्सचेंज प्रोग्राम खातिर चयन।"
+              "text": "मैकेनिकल इंजीनियरिंग में इंटरनेशनल मास्टर एक्सचेंज प्रोग्राम खातिर चयन।"
             }
           }
         }
