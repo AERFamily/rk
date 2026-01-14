@@ -47,7 +47,7 @@
             "en": { "title": "1", "text": "Book integrating science, engineering & Indian philosophy in progress" },
             "fr": { "title": "1", "text": "Livre en cours reliant science, ingénierie et philosophie indienne" },
             "hi": { "title": "1", "text": "विज्ञान, इंजीनियरिंग एवं भारतीय दर्शन पर आधारित पुस्तक प्रगति पर" },
-            "bho": { "title": "1", "text": "विज्ञान, इंजीनियरिंग आ भारतीय दर्शन पर आधारित किताब चल रहल बा" }
+            "bho": { "title": "1", "text": "विज्ञान, इंजीनियरिंग अउर भारतीय दर्शन पर आधारित किताब चल रहल बा" }
           }
         },
         {
@@ -59,7 +59,7 @@
             "en": { "title": "10+", "text": "Years across engineering, research & industrial R&D" },
             "fr": { "title": "10+", "text": "Années en ingénierie, recherche et R&D industrielle" },
             "hi": { "title": "10+", "text": "इंजीनियरिंग, अनुसंधान एवं औद्योगिक आरएंडडी में वर्षों का अनुभव" },
-            "bho": { "title": "10+", "text": "इंजीनियरिंग, रिसर्च आ इंडस्ट्रियल आरएंडडी के साल" }
+            "bho": { "title": "10+", "text": "इंजीनियरिंग, रिसर्च अउर इंडस्ट्रियल आरएंडडी के साल" }
           }
         },
         {
@@ -71,7 +71,7 @@
             "en": { "title": "Multiple", "text": "Teams built and led across academia, startups & industry" },
             "fr": { "title": "Multiples", "text": "Équipes créées et dirigées en académie, startups et industrie" },
             "hi": { "title": "अनेक", "text": "अकादमिक, स्टार्टअप एवं उद्योग में टीम निर्माण एवं नेतृत्व" },
-            "bho": { "title": "कई", "text": "अकादमिक, स्टार्टअप आ इंडस्ट्री में टीम बनावल आ लीड कइल" }
+            "bho": { "title": "कई", "text": "अकादमिक, स्टार्टअप अउर इंडस्ट्री में टीम बनावल अउर लीड कइल" }
           }
         },
         {
@@ -83,7 +83,7 @@
             "en": { "title": "Diverse", "text": "Work across defense, medical devices, manufacturing & education" },
             "fr": { "title": "Divers", "text": "Travaux en défense, dispositifs médicaux, fabrication et éducation" },
             "hi": { "title": "विविध", "text": "रक्षा, मेडिकल डिवाइस, विनिर्माण एवं शिक्षा में कार्य" },
-            "bho": { "title": "विविध", "text": "डिफेंस, मेडिकल डिवाइस, विनिर्माण आ शिक्षा में काम" }
+            "bho": { "title": "विविध", "text": "डिफेंस, मेडिकल डिवाइस, विनिर्माण अउर शिक्षा में काम" }
           }
         },
         {
@@ -95,7 +95,7 @@
             "en": { "title": "Ongoing", "text": "Commitment to learning, teaching & knowledge sharing" },
             "fr": { "title": "Continu", "text": "Engagement envers l’apprentissage, l’enseignement et le partage du savoir" },
             "hi": { "title": "निरंतर", "text": "सीखने, सिखाने एवं ज्ञान साझा करने की प्रतिबद्धता" },
-            "bho": { "title": "निरंतर", "text": "सीखल, सिखावे आ ज्ञान बांटे के प्रतिबद्धता" }
+            "bho": { "title": "निरंतर", "text": "सीखल, सिखावे अउर ज्ञान बांटे के प्रतिबद्धता" }
           }
         }
       ]
@@ -143,11 +143,11 @@
               "text": "इस चरण में इंजीनियरिंग अभ्यास, वैज्ञानिक शोध और दार्शनिक चिंतन को एक समग्र रूप में प्रस्तुत करने पर ध्यान है।"
             },
             "bho": {
-              "title": "{{लेखन आ समन्वय}} के दौर",
+              "title": "{{लेखन अउर समन्वय}} के दौर",
               "province": "",
               "country": "भारत",
               "institution": "",
-              "text": "एह दौर में इंजीनियरिंग अनुभव, वैज्ञानिक रिसर्च आ दार्शनिक सोच के एक जगह जोड़ल जा रहल बा।"
+              "text": "एह दौर में इंजीनियरिंग अनुभव, वैज्ञानिक रिसर्च अउर दार्शनिक सोच के एक जगह जोड़ल जा रहल बा।"
             }
           }
         },
@@ -178,11 +178,11 @@
               "text": "स्वतंत्र शोध, इंजीनियरिंग परामर्श एवं दीर्घकालिक शैक्षिक कार्यों के बीच संतुलन।"
             },
             "bho": {
-              "title": "{{रिसर्च, इंडस्ट्री आ शिक्षा}} के संगम",
+              "title": "{{रिसर्च, इंडस्ट्री अउर शिक्षा}} के संगम",
               "province": "",
               "country": "भारत",
               "institution": "",
-              "text": "स्वतंत्र रिसर्च, इंजीनियरिंग कंसल्टिंग आ शिक्षा सुधार के बीच संतुलन।"
+              "text": "स्वतंत्र रिसर्च, इंजीनियरिंग कंसल्टिंग अउर शिक्षा सुधार के बीच संतुलन।"
             }
           }
         },
@@ -217,7 +217,7 @@
               "province": "",
               "country": "",
               "institution": "",
-              "text": "दक्षिणा के मतलब जमा करना ना, बल्कि समय, ज्ञान आ मार्गदर्शन समाज के लौटावल।"
+              "text": "दक्षिणा के मतलब जमा करना ना, बल्कि समय, ज्ञान अउर मार्गदर्शन समाज के लौटावल।"
             }
           }
         }

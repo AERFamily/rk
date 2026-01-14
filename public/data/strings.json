@@ -213,7 +213,7 @@
             "error_validation_empty_fields": "कृपया सभे फील्ड भरीं।",
             "error_validation_email": "आप जवन ई-मेल डालल बानी ऊ मौजूद ना बा। सही ई-मेल पता डलल बानी कि ना, जाँच लीं।",
             "error_validation_message_length": "आपके संदेश में कम से कम [[{x}]] शब्द होखे के चाहीं।",
-            "error_validation_message_spam": "हम्म, ई संदेश स्पैम जइसन लागत बा। कृपया जाँच लीं कि संदेश साफ आ ठीक बा।",
+            "error_validation_message_spam": "हम्म, ई संदेश स्पैम जइसन लागत बा। कृपया जाँच लीं कि संदेश साफ अउर ठीक बा।",
             "experience_year_count_less_than_one": "एक साल से कम अनुभव",
             "experience_year_count_plural": "[[{x}]] साल के अनुभव",
             "experience_year_count_singular": "[[{x}]] साल के अनुभव",

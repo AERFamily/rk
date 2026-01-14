@@ -57,8 +57,8 @@
                   "text": "Conception mécanique de bout en bout incluant modélisation CAO, optimisation par simulation, prototypage, essais et industrialisation."
                 },
                 "bho": {
-                  "title": "इंजीनियरिंग डिज़ाइन आ प्रोडक्ट डेवलपमेंट",
-                  "text": "कॉन्सेप्ट से CAD मॉडलिंग, सिमुलेशन, प्रोटोटाइप, टेस्टिंग आ मैन्युफैक्चरिंग तक पूरा प्रोडक्ट डेवलपमेंट।"
+                  "title": "इंजीनियरिंग डिज़ाइन अउर प्रोडक्ट डेवलपमेंट",
+                  "text": "कॉन्सेप्ट से CAD मॉडलिंग, सिमुलेशन, प्रोटोटाइप, टेस्टिंग अउर मैन्युफैक्चरिंग तक पूरा प्रोडक्ट डेवलपमेंट।"
                 }
               }
             },
@@ -80,8 +80,8 @@
                   "text": "Recherche appliquée en composites, mécanique des impacts, comportement à haut taux de déformation et R&D translationnelle."
                 },
                 "bho": {
-                  "title": "रिसर्च, एक्सपेरिमेंटल मैकेनिक्स आ आरएंडडी",
-                  "text": "कंपोज़िट, इम्पैक्ट मैकेनिक्स, हाई-स्ट्रेन रेट व्यवहार आ मेडिकल-डिफेंस उपयोग खातिर लागू रिसर्च।"
+                  "title": "रिसर्च, एक्सपेरिमेंटल मैकेनिक्स अउर आरएंडडी",
+                  "text": "कंपोज़िट, इम्पैक्ट मैकेनिक्स, हाई-स्ट्रेन रेट व्यवहार अउर मेडिकल-डिफेंस उपयोग खातिर लागू रिसर्च।"
                 }
               }
             },
@@ -103,8 +103,8 @@
                   "text": "Expérience pratique en R&D d’armures, essais balistiques et évaluation de performances pour applications de défense."
                 },
                 "bho": {
-                  "title": "डिफेंस, आर्मर सिस्टम आ बैलिस्टिक सामग्री",
-                  "text": "बॉडी आर्मर आरएंडडी, बैलिस्टिक टेस्टिंग आ UHMWPE सिस्टम पर व्यावहारिक काम।"
+                  "title": "डिफेंस, आर्मर सिस्टम अउर बैलिस्टिक सामग्री",
+                  "text": "बॉडी आर्मर आरएंडडी, बैलिस्टिक टेस्टिंग अउर UHMWPE सिस्टम पर व्यावहारिक काम।"
                 }
               }
             },
@@ -126,8 +126,8 @@
                   "text": "Conception de dispositifs médicaux axée sur la précision, les matériaux, la fabricabilité et l’usage clinique."
                 },
                 "bho": {
-                  "title": "मेडिकल डिवाइस डिज़ाइन आ बायोमेडिकल इंजीनियरिंग",
-                  "text": "ब्रेस्ट बायोप्सी मार्कर, डेंटल इम्प्लांट आ मेडिकल स्क्रू के डिज़ाइन आ डेवलपमेंट।"
+                  "title": "मेडिकल डिवाइस डिज़ाइन अउर बायोमेडिकल इंजीनियरिंग",
+                  "text": "ब्रेस्ट बायोप्सी मार्कर, डेंटल इम्प्लांट अउर मेडिकल स्क्रू के डिज़ाइन अउर डेवलपमेंट।"
                 }
               }
             },
@@ -149,8 +149,8 @@
                   "text": "Création de contenu reliant science moderne, ingénierie et philosophie indienne."
                 },
                 "bho": {
-                  "title": "वैज्ञानिक लेखन आ ज्ञान दर्शन",
-                  "text": "आधुनिक विज्ञान आ भारतीय दर्शन के जोड़त लेखन आ ज्ञान सृजन।"
+                  "title": "वैज्ञानिक लेखन अउर ज्ञान दर्शन",
+                  "text": "आधुनिक विज्ञान अउर भारतीय दर्शन के जोड़त लेखन अउर ज्ञान सृजन।"
                 }
               }
             }
@@ -165,7 +165,7 @@
             "en": { "title": "Computer & Software Skills" },
             "hi": { "title": "कंप्यूटर एवं सॉफ़्टवेयर कौशल" },
             "fr": { "title": "Compétences informatiques et logicielles" },
-            "bho": { "title": "कंप्यूटर आ सॉफ्टवेयर कौशल" }
+            "bho": { "title": "कंप्यूटर अउर सॉफ्टवेयर कौशल" }
           },
           "settings": {
             "max_items_per_row": 3,
@@ -182,7 +182,7 @@
                 "en": { "title": "SolidWorks", "text": "Advanced part, assembly, surfacing, and design-for-manufacturing workflows." },
                 "hi": { "title": "SolidWorks", "text": "उन्नत पार्ट, असेंबली, सरफेसिंग एवं DFM डिज़ाइन।" },
                 "fr": { "title": "SolidWorks", "text": "Conception avancée de pièces, assemblages et surfaces." },
-                "bho": { "title": "SolidWorks", "text": "एडवांस पार्ट आ असेंबली डिज़ाइन।" }
+                "bho": { "title": "SolidWorks", "text": "एडवांस पार्ट अउर असेंबली डिज़ाइन।" }
               }
             },
             {
@@ -194,7 +194,7 @@
                 "en": { "title": "ANSYS (FEA)", "text": "Structural, static, dynamic, and durability simulations." },
                 "hi": { "title": "ANSYS (FEA)", "text": "संरचनात्मक, स्थैतिक एवं टिकाऊपन सिमुलेशन।" },
                 "fr": { "title": "ANSYS (FEA)", "text": "Analyses structurelles et dynamiques par éléments finis." },
-                "bho": { "title": "ANSYS (FEA)", "text": "स्ट्रक्चरल आ ड्यूरैबिलिटी सिमुलेशन।" }
+                "bho": { "title": "ANSYS (FEA)", "text": "स्ट्रक्चरल अउर ड्यूरैबिलिटी सिमुलेशन।" }
               }
             },
             {
@@ -206,7 +206,7 @@
                 "en": { "title": "AutoCAD & Drafting", "text": "2D drafting, layouts, manufacturing drawings." },
                 "hi": { "title": "AutoCAD एवं ड्राफ्टिंग", "text": "2D ड्राफ्टिंग एवं मैन्युफैक्चरिंग ड्रॉइंग।" },
                 "fr": { "title": "AutoCAD & dessin technique", "text": "Plans 2D et dessins de fabrication." },
-                "bho": { "title": "AutoCAD", "text": "2D ड्रॉइंग आ ड्राफ्टिंग।" }
+                "bho": { "title": "AutoCAD", "text": "2D ड्रॉइंग अउर ड्राफ्टिंग।" }
               }
             },
             {
@@ -217,7 +217,7 @@
                 "en": { "title": "MATLAB & Numerical Computing", "text": "Data analysis, numerical methods, simulation scripting." },
                 "hi": { "title": "MATLAB एवं संख्यात्मक गणना", "text": "डाटा विश्लेषण एवं संख्यात्मक सिमुलेशन।" },
                 "fr": { "title": "MATLAB & calcul numérique", "text": "Analyse numérique et scripts de simulation." },
-                "bho": { "title": "MATLAB", "text": "न्यूमेरिकल एनालिसिस आ सिमुलेशन।" }
+                "bho": { "title": "MATLAB", "text": "न्यूमेरिकल एनालिसिस अउर सिमुलेशन।" }
               }
             },
             {
@@ -228,7 +228,7 @@
                 "en": { "title": "C/C++ & CNC Programming", "text": "Basic C/C++ and CNC programming for manufacturing systems." },
                 "hi": { "title": "C/C++ एवं CNC प्रोग्रामिंग", "text": "बेसिक C/C++ एवं CNC प्रोग्रामिंग।" },
                 "fr": { "title": "C/C++ & CNC", "text": "Programmation C/C++ et CNC de base." },
-                "bho": { "title": "C/C++ आ CNC", "text": "बेसिक C/C++ आ CNC प्रोग्रामिंग।" }
+                "bho": { "title": "C/C++ अउर CNC", "text": "बेसिक C/C++ अउर CNC प्रोग्रामिंग।" }
               }
             }
           ]
@@ -241,7 +241,7 @@
             "en": { "title": "Engineering Design & Product Development" },
             "hi": { "title": "इंजीनियरिंग डिज़ाइन एवं उत्पाद विकास" },
             "fr": { "title": "Conception mécanique et développement produit" },
-            "bho": { "title": "इंजीनियरिंग डिज़ाइन आ प्रोडक्ट डेवलपमेंट" }
+            "bho": { "title": "इंजीनियरिंग डिज़ाइन अउर प्रोडक्ट डेवलपमेंट" }
           },
           "settings": {
             "max_items_per_row": 3,
@@ -279,7 +279,7 @@
                 "en": { "title": "Tolerance & GD&T", "text": "Tolerance stack-up and manufacturability analysis." },
                 "hi": { "title": "टॉलरेंस एवं GD&T", "text": "टॉलरेंस विश्लेषण एवं GD&T।" },
                 "fr": { "title": "Tolérances & GD&T", "text": "Analyse des tolérances." },
-                "bho": { "title": "टॉलरेंस एनालिसिस", "text": "टॉलरेंस आ GD&T।" }
+                "bho": { "title": "टॉलरेंस एनालिसिस", "text": "टॉलरेंस अउर GD&T।" }
               }
             },
             {
@@ -290,7 +290,7 @@
                 "en": { "title": "Prototyping & Validation", "text": "3D printing, functional testing, validation." },
                 "hi": { "title": "प्रोटोटाइपिंग एवं परीक्षण", "text": "3D प्रिंटिंग एवं कार्यात्मक परीक्षण।" },
                 "fr": { "title": "Prototypage & validation", "text": "Impression 3D et essais fonctionnels." },
-                "bho": { "title": "प्रोटोटाइपिंग", "text": "3D प्रिंटिंग आ टेस्टिंग।" }
+                "bho": { "title": "प्रोटोटाइपिंग", "text": "3D प्रिंटिंग अउर टेस्टिंग।" }
               }
             }
           ]
@@ -303,7 +303,7 @@
             "en": { "title": "Manufacturing & Production Skills" },
             "hi": { "title": "विनिर्माण एवं उत्पादन कौशल" },
             "fr": { "title": "Fabrication et production" },
-            "bho": { "title": "विनिर्माण आ प्रोडक्शन कौशल" }
+            "bho": { "title": "विनिर्माण अउर प्रोडक्शन कौशल" }
           },
           "settings": {
             "max_items_per_row": 3,
@@ -319,7 +319,7 @@
                 "en": { "title": "CNC Machining", "text": "CNC turning, milling, process planning." },
                 "hi": { "title": "CNC मशीनिंग", "text": "CNC टर्निंग एवं मिलिंग।" },
                 "fr": { "title": "Usinage CNC", "text": "Tournage et fraisage CNC." },
-                "bho": { "title": "CNC मशीनिंग", "text": "CNC टर्निंग आ मिलिंग।" }
+                "bho": { "title": "CNC मशीनिंग", "text": "CNC टर्निंग अउर मिलिंग।" }
               }
             },
             {
@@ -330,7 +330,7 @@
                 "en": { "title": "Molding & Tooling", "text": "Injection molding concepts, tooling design." },
                 "hi": { "title": "मोल्डिंग एवं टूलिंग", "text": "मोल्ड डिज़ाइन एवं टूलिंग।" },
                 "fr": { "title": "Moulage & outillage", "text": "Conception de moules et outillage." },
-                "bho": { "title": "मोल्डिंग आ टूलिंग", "text": "मोल्ड डिज़ाइन आ टूलिंग।" }
+                "bho": { "title": "मोल्डिंग अउर टूलिंग", "text": "मोल्ड डिज़ाइन अउर टूलिंग।" }
               }
             },
             {
@@ -352,7 +352,7 @@
                 "en": { "title": "Quality & Validation", "text": "Testing, inspection, and validation." },
                 "hi": { "title": "गुणवत्ता एवं सत्यापन", "text": "परीक्षण एवं निरीक्षण।" },
                 "fr": { "title": "Qualité & validation", "text": "Contrôle et validation." },
-                "bho": { "title": "क्वालिटी आ वैलिडेशन", "text": "टेस्टिंग आ जांच।" }
+                "bho": { "title": "क्वालिटी अउर वैलिडेशन", "text": "टेस्टिंग अउर जांच।" }
               }
             }
           ]
@@ -365,7 +365,7 @@
             "en": { "title": "Research, Medical & Defense Skills" },
             "hi": { "title": "अनुसंधान, मेडिकल एवं रक्षा कौशल" },
             "fr": { "title": "Recherche, médical et défense" },
-            "bho": { "title": "रिसर्च, मेडिकल आ डिफेंस कौशल" }
+            "bho": { "title": "रिसर्च, मेडिकल अउर डिफेंस कौशल" }
           },
           "settings": {
             "max_items_per_row": 3,
@@ -381,7 +381,7 @@
                 "en": { "title": "Composite Materials Research", "text": "UHMWPE, STF-treated composites, impact testing." },
                 "hi": { "title": "कंपोज़िट सामग्री अनुसंधान", "text": "UHMWPE एवं STF-ट्रीटेड कंपोज़िट।" },
                 "fr": { "title": "Recherche sur composites", "text": "Composites UHMWPE et STF." },
-                "bho": { "title": "कंपोज़िट रिसर्च", "text": "UHMWPE आ STF कंपोज़िट।" }
+                "bho": { "title": "कंपोज़िट रिसर्च", "text": "UHMWPE अउर STF कंपोज़िट।" }
               }
             },
             {
@@ -392,7 +392,7 @@
                 "en": { "title": "Ballistics & Armor Systems", "text": "Body armor materials and ballistic evaluation." },
                 "hi": { "title": "बैलिस्टिक्स एवं आर्मर सिस्टम", "text": "बॉडी आर्मर एवं बैलिस्टिक परीक्षण।" },
                 "fr": { "title": "Balistique & armures", "text": "Matériaux de protection balistique." },
-                "bho": { "title": "बैलिस्टिक आ आर्मर", "text": "बॉडी आर्मर टेस्टिंग।" }
+                "bho": { "title": "बैलिस्टिक अउर आर्मर", "text": "बॉडी आर्मर टेस्टिंग।" }
               }
             },
             {
@@ -416,7 +416,7 @@
             "en": { "title": "Management, Leadership & Communication" },
             "hi": { "title": "प्रबंधन, नेतृत्व एवं संप्रेषण" },
             "fr": { "title": "Gestion, leadership et communication" },
-            "bho": { "title": "प्रबंधन आ नेतृत्व कौशल" }
+            "bho": { "title": "प्रबंधन अउर नेतृत्व कौशल" }
           },
           "settings": {
             "max_items_per_row": 3,
@@ -432,7 +432,7 @@
                 "en": { "title": "Reading & Knowledge Synthesis", "text": "Scientific, technical, philosophical literature." },
                 "hi": { "title": "पठन एवं ज्ञान संश्लेषण", "text": "वैज्ञानिक एवं दार्शनिक अध्ययन।" },
                 "fr": { "title": "Lecture & synthèse", "text": "Lecture scientifique et philosophique." },
-                "bho": { "title": "पढ़ाई आ ज्ञान", "text": "वैज्ञानिक आ दार्शनिक अध्ययन।" }
+                "bho": { "title": "पढ़ाई अउर ज्ञान", "text": "वैज्ञानिक अउर दार्शनिक अध्ययन।" }
               }
             },
             {
@@ -443,7 +443,7 @@
                 "en": { "title": "Writing & Authorship", "text": "Research papers, technical documentation, books." },
                 "hi": { "title": "लेखन एवं लेखनकला", "text": "शोध पत्र, तकनीकी लेखन एवं पुस्तक लेखन।" },
                 "fr": { "title": "Rédaction & écriture", "text": "Publications scientifiques et ouvrages." },
-                "bho": { "title": "लिखाई आ लेखन", "text": "रिसर्च पेपर आ किताब लेखन।" }
+                "bho": { "title": "लिखाई अउर लेखन", "text": "रिसर्च पेपर अउर किताब लेखन।" }
               }
             },
             {
@@ -454,7 +454,7 @@
                 "en": { "title": "Leadership & Team Building", "text": "Leading R&D labs, startups, academic teams." },
                 "hi": { "title": "नेतृत्व एवं टीम निर्माण", "text": "आरएंडडी, स्टार्टअप एवं अकादमिक टीम नेतृत्व।" },
                 "fr": { "title": "Leadership & équipes", "text": "Direction d’équipes R&D et projets." },
-                "bho": { "title": "नेतृत्व आ टीम निर्माण", "text": "टीम लीडरशिप आ संगठन निर्माण।" }
+                "bho": { "title": "नेतृत्व अउर टीम निर्माण", "text": "टीम लीडरशिप अउर संगठन निर्माण।" }
               }
             },
             {
@@ -465,7 +465,7 @@
                 "en": { "title": "Project & Organizational Management", "text": "Planning, coordination, execution, and delivery." },
                 "hi": { "title": "परियोजना एवं संगठन प्रबंधन", "text": "योजना, समन्वय एवं निष्पादन।" },
                 "fr": { "title": "Gestion de projet", "text": "Planification et coordination." },
-                "bho": { "title": "प्रोजेक्ट प्रबंधन", "text": "योजना आ निष्पादन।" }
+                "bho": { "title": "प्रोजेक्ट प्रबंधन", "text": "योजना अउर निष्पादन।" }
               }
             }
           ]
@@ -513,7 +513,7 @@
                         },
                         "bho": {
                         "title": "हिंदी",
-                        "text": "मातृभाषा हई; बोलचाल आ लेखन में बहुत बढ़िया क्षमता।",
+                        "text": "मातृभाषा हई; बोलचाल अउर लेखन में बहुत बढ़िया क्षमता।",
                         "level": "मातृभाषा"
                         }
                     }
@@ -543,7 +543,7 @@
                         },
                         "bho": {
                         "title": "अंग्रेजी",
-                        "text": "बोलचाल आ लिखाई में बढ़िया पकड़; पेशेवर बातचीत में आत्मविश्वास।",
+                        "text": "बोलचाल अउर लिखाई में बढ़िया पकड़; पेशेवर बातचीत में आत्मविश्वास।",
                         "level": "प्रवाहपूर्ण"
                         }
                     }
