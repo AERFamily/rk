@@ -449,7 +449,7 @@
           "faIcon": "fa-solid fa-pen-nib",
           "faIconColors": {"bg": "", "fill": ""},
           "dateStart": {"year": 2017, "month": 9},
-          "dateEnd": {"now": true},
+          "dateEnd": {"year": 2024, "month": 9},
           "locales": {
             "en": {
               "title": "Freelance Design Engineer & Consultant",
