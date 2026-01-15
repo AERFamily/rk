@@ -213,6 +213,7 @@
               "id": 4,
               "percentage": 85,
               "faIcon": "fa-solid fa-code",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "MATLAB & Numerical Computing", "text": "Data analysis, numerical methods, simulation scripting." },
                 "hi": { "title": "MATLAB एवं संख्यात्मक गणना", "text": "डाटा विश्लेषण एवं संख्यात्मक सिमुलेशन।" },
@@ -224,6 +225,7 @@
               "id": 5,
               "percentage": 80,
               "faIcon": "fa-solid fa-terminal",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "C/C++ & CNC Programming", "text": "Basic C/C++ and CNC programming for manufacturing systems." },
                 "hi": { "title": "C/C++ एवं CNC प्रोग्रामिंग", "text": "बेसिक C/C++ एवं CNC प्रोग्रामिंग।" },
@@ -253,6 +255,7 @@
               "id": 1,
               "percentage": 95,
               "faIcon": "fa-solid fa-drafting-compass",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Mechanical System Design", "text": "Concept-to-detail mechanical system design." },
                 "hi": { "title": "यांत्रिक सिस्टम डिज़ाइन", "text": "कॉन्सेप्ट से डिटेल डिज़ाइन तक।" },
@@ -264,6 +267,7 @@
               "id": 2,
               "percentage": 92,
               "faIcon": "fa-solid fa-cube",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Simulation-Driven Design", "text": "Design optimization using FEA and simulations." },
                 "hi": { "title": "सिमुलेशन आधारित डिज़ाइन", "text": "FEA आधारित डिज़ाइन अनुकूलन।" },
@@ -275,6 +279,7 @@
               "id": 3,
               "percentage": 90,
               "faIcon": "fa-solid fa-ruler-combined",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Tolerance & GD&T", "text": "Tolerance stack-up and manufacturability analysis." },
                 "hi": { "title": "टॉलरेंस एवं GD&T", "text": "टॉलरेंस विश्लेषण एवं GD&T।" },
@@ -286,6 +291,7 @@
               "id": 4,
               "percentage": 88,
               "faIcon": "fa-solid fa-print",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Prototyping & Validation", "text": "3D printing, functional testing, validation." },
                 "hi": { "title": "प्रोटोटाइपिंग एवं परीक्षण", "text": "3D प्रिंटिंग एवं कार्यात्मक परीक्षण।" },
@@ -315,6 +321,7 @@
               "id": 1,
               "percentage": 92,
               "faIcon": "fa-solid fa-gears",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "CNC Machining", "text": "CNC turning, milling, process planning." },
                 "hi": { "title": "CNC मशीनिंग", "text": "CNC टर्निंग एवं मिलिंग।" },
@@ -326,6 +333,7 @@
               "id": 2,
               "percentage": 90,
               "faIcon": "fa-solid fa-industry",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Molding & Tooling", "text": "Injection molding concepts, tooling design." },
                 "hi": { "title": "मोल्डिंग एवं टूलिंग", "text": "मोल्ड डिज़ाइन एवं टूलिंग।" },
@@ -337,6 +345,7 @@
               "id": 3,
               "percentage": 88,
               "faIcon": "fa-solid fa-fire-flame-curved",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Welding Processes", "text": "Advanced welding and joining technologies." },
                 "hi": { "title": "वेल्डिंग प्रक्रियाएँ", "text": "उन्नत वेल्डिंग तकनीक।" },
@@ -348,6 +357,7 @@
               "id": 4,
               "percentage": 85,
               "faIcon": "fa-solid fa-clipboard-check",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Quality & Validation", "text": "Testing, inspection, and validation." },
                 "hi": { "title": "गुणवत्ता एवं सत्यापन", "text": "परीक्षण एवं निरीक्षण।" },
@@ -377,6 +387,7 @@
               "id": 1,
               "percentage": 95,
               "faIcon": "fa-solid fa-microscope",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Composite Materials Research", "text": "UHMWPE, STF-treated composites, impact testing." },
                 "hi": { "title": "कंपोज़िट सामग्री अनुसंधान", "text": "UHMWPE एवं STF-ट्रीटेड कंपोज़िट।" },
@@ -388,6 +399,7 @@
               "id": 2,
               "percentage": 90,
               "faIcon": "fa-solid fa-shield-halved",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Ballistics & Armor Systems", "text": "Body armor materials and ballistic evaluation." },
                 "hi": { "title": "बैलिस्टिक्स एवं आर्मर सिस्टम", "text": "बॉडी आर्मर एवं बैलिस्टिक परीक्षण।" },
@@ -399,6 +411,7 @@
               "id": 3,
               "percentage": 88,
               "faIcon": "fa-solid fa-heart-pulse",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Medical Device Engineering", "text": "Biopsy markers, implants, surgical components." },
                 "hi": { "title": "मेडिकल डिवाइस इंजीनियरिंग", "text": "बायोप्सी मार्कर एवं मेडिकल इम्प्लांट।" },
@@ -428,6 +441,7 @@
               "id": 1,
               "percentage": 95,
               "faIcon": "fa-solid fa-book-open",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Reading & Knowledge Synthesis", "text": "Scientific, technical, philosophical literature." },
                 "hi": { "title": "पठन एवं ज्ञान संश्लेषण", "text": "वैज्ञानिक एवं दार्शनिक अध्ययन।" },
@@ -439,6 +453,7 @@
               "id": 2,
               "percentage": 95,
               "faIcon": "fa-solid fa-pen-nib",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Writing & Authorship", "text": "Research papers, technical documentation, books." },
                 "hi": { "title": "लेखन एवं लेखनकला", "text": "शोध पत्र, तकनीकी लेखन एवं पुस्तक लेखन।" },
@@ -450,6 +465,7 @@
               "id": 3,
               "percentage": 92,
               "faIcon": "fa-solid fa-users",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Leadership & Team Building", "text": "Leading R&D labs, startups, academic teams." },
                 "hi": { "title": "नेतृत्व एवं टीम निर्माण", "text": "आरएंडडी, स्टार्टअप एवं अकादमिक टीम नेतृत्व।" },
@@ -461,6 +477,7 @@
               "id": 4,
               "percentage": 88,
               "faIcon": "fa-solid fa-briefcase",
+              "faIconColors": { "bg": "white", "fill": "black" },
               "locales": {
                 "en": { "title": "Project & Organizational Management", "text": "Planning, coordination, execution, and delivery." },
                 "hi": { "title": "परियोजना एवं संगठन प्रबंधन", "text": "योजना, समन्वय एवं निष्पादन।" },
